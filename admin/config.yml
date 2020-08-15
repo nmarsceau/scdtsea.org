@@ -2,8 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-# Uncomment below to enable drafts
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
@@ -35,7 +34,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Establishment", name: "establishment", widget: "markdown"}
-          - {label: "Our Mission Statement", name: "mission_statement", widget: "markdown"}
+          - {label: "Mission Statement", name: "mission_statement", widget: "markdown"}
           - {label: "Purpose", name: "purpose", widget: "markdown"}
           - {label: "Types of Members", name: "types_of_members", widget: "markdown"}
           - {label: "Board Members", name: "board_members", widget: "markdown"}
@@ -45,6 +44,20 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "History", name: "history", widget: "markdown"}
+      - label: "Board Members"
+        name: "board_members"
+        file: "pages/board_members.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Board Members"
+            name: "board_members"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Position", name: "position", widget: "string"}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Bio", name: "bio", widget: "markdown"}
 
 
 #    folder: "pages"
