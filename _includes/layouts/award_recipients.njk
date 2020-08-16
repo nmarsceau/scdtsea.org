@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+section: awards
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Recipient</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for recipient in recipients %}
+    <tr>
+      <td>{{ recipient.year }}</td>
+      <td>{{ recipient.recipient | markdownify | safe }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

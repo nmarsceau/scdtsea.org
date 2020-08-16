@@ -4,6 +4,7 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const { isMdAsciiPunct } = require("markdown-it/lib/common/utils");
 
 module.exports = function(eleventyConfig) {
 
@@ -85,8 +86,12 @@ module.exports = function(eleventyConfig) {
     permalink: false
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
+  const md = markdownIt(options)
+    .use(markdownItAnchor, opts);
+  eleventyConfig.setLibrary("md", md);
+
+  eleventyConfig.addFilter('markdownify', (markdownString) =>
+    md.render(markdownString)
   );
 
   return {

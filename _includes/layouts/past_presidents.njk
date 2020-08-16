@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+section: past_presidents
+permalink: /past_presidents/index.html
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+	{% for president in past_presidents | reverse %}
+		<tr>
+      <td><span style="white-space: nowrap;">{{ president.years }}</span></td>
+      <td>{{ president.name }}{% if president.location_organization %}, {{ president.location_organization }}{% endif %}</td>
+		</tr>
+	{% endfor %}
+  </tbody>
+</table>

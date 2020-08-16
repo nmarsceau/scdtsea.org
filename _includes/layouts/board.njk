@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+section: board
+permalink: /board/index.html
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+<section>
+	{% for board_member in board_members %}
+		<article>
+			<h2>
+				{{ board_member.position }}: {{ board_member.name }}
+			</h2>
+
+      <img src="{{ board_member.image }}" alt="{{ board_member.name }}" />
+
+      <div>
+        {{ board_member.bio | markdownify | safe }}
+      </div>
+		</article>
+	{% endfor %}
+</section>

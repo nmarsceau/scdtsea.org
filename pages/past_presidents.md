@@ -1,0 +1,183 @@
+---
+title: Past SCDTSEA Presidents
+permalink: /past_presidents/index.html
+layout: layouts/past_presidents.njk
+past_presidents:
+  - title: 1936-53
+    name: Captain Billy Fallaw
+    location_organization: Highway Department (He helped to organize the association and probably was president at times.)
+    years: 1936-53
+  - title: 1953-54
+    name: B. B. McKelvey
+    years: 1953-54
+  - title: 1954-57
+    name: Florence Burch
+    location_organization: Spartanburg High School
+    years: 1954-57
+  - title: 1957-58
+    name: Hubert Garner
+    years: 1957-58
+  - title: 1958-60
+    name: Ella Hope
+    location_organization: Rock Hill High School
+    years: 1958-60
+  - title: 1960-61
+    name: G. A. Garrett
+    years: 1960-61
+  - title: 1961-63
+    name: C. S. Williams
+    location_organization: Superintendent
+    years: 1961-63
+  - title: 1963-64
+    name: Lonnie L. Dunlap
+    location_organization: Department of Education Consultant
+    years: 1963-64
+  - title: 1964-66
+    name: Raymond Cox
+    location_organization: A. C. Flora High School
+    years: 1964-66
+  - title: 1966-67
+    name: Donald Liddle
+    years: 1966-67
+  - title: 1967-68
+    name: Dwight Ward
+    years: 1967-68
+  - title: 1968-69
+    name: Marion L. Fisher, Jr.
+    years: 1968-69
+  - title: 1969-70
+    name: Richard E. Bernstein
+    location_organization: Gaffney High School
+    years: 1969-70
+  - title: 1970-71
+    name: James T. McCray
+    location_organization: Conway Driver Education Coordinator
+    years: 1970-71
+  - title: 1971-72
+    name: Richard E. Bernstein
+    location_organization: Gaffney High School
+    years: 1971-72
+  - title: 1972-73
+    name: James T. McCray
+    location_organization: Conway Driver Education Coordinator
+    years: 1972-73
+  - title: 1973-74
+    name: Glenn Sanders
+    location_organization: Ware Shoals Jr. High School
+    years: 1973-74
+  - title: 1974-75
+    name: E. C. Bricklemyer
+    location_organization: Orangeburg-Wilkinson High School
+    years: 1974-75
+  - title: 1975-76
+    name: Dr. Albert Neal
+    location_organization: University of South Carolina
+    years: 1975-76
+  - title: 1976-77
+    name: Thomas M. Holimon
+    location_organization: Department of Education Consultant
+    years: 1976-77
+  - title: 1977-78
+    name: Leroy Fair
+    years: 1977-78
+  - title: 1978-82
+    name: Joe Sabbadino
+    location_organization: Bob Jones Academy
+    years: 1978-82
+  - title: 1982-84
+    name: Joe Grant
+    location_organization: Clover High School
+    years: 1982-84
+  - title: 1984-85
+    name: Virginia Hunter
+    location_organization: Charleston
+    years: 1984-85
+  - title: 1985-88
+    name: Emmett Hutto
+    location_organization: Greenwood High School
+    years: 1985-88
+  - title: 1988-89
+    name: James T. McCray
+    location_organization: Horry County Driver Education Coordinator
+    years: 1988-89
+  - title: 1989-91
+    name: Dr. John Brubaker
+    location_organization: Myrtle Beach High School
+    years: 1989-91
+  - title: 1991-92
+    name: Ed Moore
+    location_organization: Greenwood High School
+    years: 1991-92
+  - title: 1992-93
+    name: Eva Costa
+    location_organization: Charleston
+    years: 1992-93
+  - title: 1993-95
+    name: David Sanders
+    location_organization: Boiling Springs High School
+    years: 1993-95
+  - title: 1995-97
+    name: Joe Grant
+    location_organization: Clover High School
+    years: 1995-97
+  - title: 1997-99
+    name: Mike Sisk
+    location_organization: Dreher and A. C. Flora High Schools
+    years: 1997-99
+  - title: 1999-2000
+    name: Joey Mills
+    location_organization: Cheraw High School
+    years: 1999-2000
+  - title: 2000-02
+    name: Joe Grant
+    location_organization: Clover High School
+    years: 2000-02
+  - title: 2002-03
+    name: Mrs. Kim Alexander
+    location_organization: Clemson University
+    years: 2002-03
+  - title: 2003-04
+    name: Dr. Phillip Pidgeon
+    location_organization: Clemson University
+    years: 2003-04
+  - title: 2004-09
+    name: Joe Grant
+    location_organization: Clover High School
+    years: 2004-09
+  - title: 2009-10
+    name: Steve G. Phillips
+    location_organization: American Automobile Association
+    years: 2009-10
+  - title: 2010-11
+    name: Andrew Johnson
+    location_organization: A & R Driver Training School
+    years: 2010-11
+  - title: 2011-13
+    name: David E. Smith
+    location_organization: White Knoll High School
+    years: 2011-13
+  - title: 2013-15
+    name: Joe Sabbadino
+    location_organization: Sabbadino Driving School
+    years: 2013-15
+  - title: 2015-16
+    name: David E. Smith
+    location_organization: White Knoll High School
+    years: 2015-16
+  - title: 2016-17
+    name: Andrew Johnson
+    location_organization: A & R Driver Training School
+    years: 2016-17
+  - title: 2017-18
+    name: David E. Smith
+    location_organization: White Knoll High School
+    years: 2017-18
+  - title: 2018-19
+    name: Andrew Johnson
+    location_organization: A & R Driver Training School
+    years: 2018-19
+  - title: 2019-20
+    name: Joe Sabbadino
+    location_organization: Sabbadino Driving School
+    years: 2019-20
+---

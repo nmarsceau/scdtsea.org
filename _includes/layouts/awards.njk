@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+section: awards
+permalink: /awards/index.html
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Award</th>
+      <th>Criteria</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for award in awards %}
+    <tr>
+      <td>{{ award.title }}</td>
+      <td>
+        {{ award.criteria | markdownify | safe }}
+
+        <a href="/awards/{{ award.title | slug }}">View recent recipients of this award.</a>
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

@@ -6,7 +6,7 @@ date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 8
 ---
 The contact form on this page uses
 [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process

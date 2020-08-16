@@ -4,27 +4,21 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+media_folder: "static/img"
 
 collections:
-  - label: "Post" # Used in the UI
-    name: "blog" # Used in routes, e.g., /admin/collections/blog
-    folder: "posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - label: "Post Author"
-        name: "author"
-        widget: "relation"
-        collection: "authors"
-        searchFields: ["name", "github"]
-        valueField: "name"
-      - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Body", name: "body", widget: "markdown" }
-  # Our pages e.g. About
+  - label: "SCDTSEA News"
+    name: "news"
+    folder: "news"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Summary", name: "summary", widget: "text"}
+      - {label: "Read More", name: "read_more", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["post"]}
   - label: "Pages"
     name: "pages"
     files:
@@ -33,17 +27,44 @@ collections:
         file: "pages/about.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Establishment", name: "establishment", widget: "markdown"}
-          - {label: "Mission Statement", name: "mission_statement", widget: "markdown"}
-          - {label: "Purpose", name: "purpose", widget: "markdown"}
-          - {label: "Types of Members", name: "types_of_members", widget: "markdown"}
-          - {label: "Board Members", name: "board_members", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - label: "Complete SCDTSEA History"
         name: "complete_history"
         file: "pages/complete_history.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "History", name: "history", widget: "markdown"}
+      - label: "Past SCDTSEA Presidents"
+        name: "past_presidents"
+        file: "pages/past_presidents.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Past Presidents"
+            name: "past_presidents"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Location/Organization", name: "location_organization", widget: "string"}
+              - {label: "Years", name: "years", widget: "string"}
+      - label: "SCDTSEA Constitution"
+        name: "constitution"
+        file: "pages/constitution.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Privacy Policy"
+        name: "privacy_policy"
+        file: "pages/privacy_policy.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Useful Links"
+        name: "useful_links"
+        file: "pages/useful_links.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Links", name: "links", widget: "markdown"}
       - label: "Board Members"
         name: "board_members"
         file: "pages/board_members.md"
@@ -58,6 +79,31 @@ collections:
               - {label: "Name", name: "name", widget: "string"}
               - {label: "Image", name: "image", widget: "image"}
               - {label: "Bio", name: "bio", widget: "markdown"}
+              - {label: "Active", name: "active", widget: "boolean", default: true}
+      - label: "Awards"
+        name: "awards"
+        file: "pages/awards.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Opening Paragraph", name: "opening_paragraph", widget: "markdown"}
+          - label: "Awards"
+            name: "awards"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Criteria", name: "criteria", widget: "markdown"}
+      - label: "Poster Contest Award Recipients"
+        name: "poster_contest_recipients"
+        file: "pages/award_recipients/poster_contest.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Recipients"
+            name: "recipients"
+            widget: "list"
+            fields:
+              - {label: "Year", name: "year", widget: "string"}
+              - {label: "Recipient ", name: "recipient", widget: "markdown"}
+      
 
 
 #    folder: "pages"
