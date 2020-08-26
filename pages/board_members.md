@@ -4,7 +4,7 @@ permalink: /board/index.html
 layout: layouts/board.njk
 eleventyNavigation:
   key: Board Members
-  order: 6
+  order: 5
 board_members:
   - title: Joe Sabbadino
     position: President
@@ -50,7 +50,6 @@ board_members:
       * Dedicated to Christ and Christian Education (BJU)
 
       * Southeast Region ADTSEA – Bishop/Seals Award
-    active: true
   - title: David Smith
     position: President-Elect
     name: David Smith
@@ -66,7 +65,6 @@ board_members:
 
 
       I am also the owner of Coaches Driving Academy in Moncks Corner and Lexington, SC. This company was started in 2002. I have been a member of SCDTSEA since 1992 and I have served as President-Elect and President in the past. I am currently the President and I truly am excited about the direction the association is heading. I believe in this association because I believe that we truly want the best for the drivers in this state and we are not on a political agenda.
-    active: true
   - title: Andrew Johnson
     position: Past President
     name: Andrew Johnson
@@ -82,7 +80,6 @@ board_members:
 
 
       He is married to Lester Marie Daniels of Rowesville, S.C. They are the blessed parents of three wonderful girls: Andreaetta, Albernel and Angela, and four wonderful grandchildren (two girls and two boys). His personal hobbies including any outdoor activities particularly growing food in his personal garden and walking or riding his bicycle throughout the neighborhood; travelling both domestically and internationally; spending time with his family; and teaching people about the love of Jesus Christ.
-    active: true
   - title: Harry Stille
     position: Treasurer
     name: Harry Stille
@@ -113,7 +110,6 @@ board_members:
 
 
       Harry has been a member of the South Carolina Driver and Traffic Safety Association and serving as its treasurer for many years. During his teaching of Traffic Safety at Erskine he has taught hundreds of teachers of Novice Drivers in South Carolina.
-    active: true
   - title: Jerry Lloyd
     position: Secretary
     name: Jerry Lloyd
@@ -123,7 +119,6 @@ board_members:
 
 
       Mr. Lloyd taught Driver Education at Wando High School from 200-2011 until the program was discontinued in the county. He coordinated with Mt. Pleasant Police each semester to promote safe driving habits and reduction of drinking and driving among teens. He has been a member of the SCDTSEA 2000 to present and has served as a SCDTSEA Executive Board Member 2013 to the present. He has a wife Karen and son Zachary.
-    active: true
   - title: Lance Collins
     position: Website Editor
     name: Lance Collins
@@ -139,7 +134,6 @@ board_members:
 
 
       Lance holds a B.Mus in Church Music (Bob Jones University 2005), an M.DIv. (Geneva Reformed Seminary 2009), and he has taken courses at Northern Virginia Community College in Driver and Traffic Safety (2009).
-    active: true
   - title: Janice Cowen
     position: Historian
     name: Janice Cowen
@@ -152,7 +146,6 @@ board_members:
 
 
       Janice is a native North Carolinian and graduated with a Bachelor of Science degree in Journalism from UNC-Chapel Hill. She has been married for 27 years and has two beautiful and intelligent daughters, one a senior in the USC Honors College and the other a sophomore in the Calhoun Honors College at Clemson. Her personal-time passions include traveling, camping, and playing games with family and friends.
-    active: true
   - title: Albert Neal
     position: Chaplain
     name: Dr. Albert Neal
@@ -171,7 +164,6 @@ board_members:
 
 
       Albert Aiken Neal has adopted as his motto from J.B Phillips translation of 1 Timothy 4:14, “CONCENTRATE ON YOUR READING AND ON YOUR PREACHING AND TEACHING.”
-    active: true
   - title: Tommy Price
     position: Board Member
     name: Tommy Price
@@ -181,7 +173,6 @@ board_members:
 
 
       Tommy is passionate about Driver Education. He views it as the first step toward adulthood and tries to instill the responsibility that comes with driving a motor vehicle.
-    active: true
   - title: Kevin Carr
     position: Board Member
     name: Kevin Carr
@@ -194,5 +185,50 @@ board_members:
 
 
       My wife, Susan, is a first grade teacher, also in District One. I am the proud father of three daughters, Jennifer, Madison, and Mallory. Jennifer, a Clemson graduate, is married and the mother of a son, Hayes, just three months old. Madison is a sophomore at Winthrop University and Mallory is a senior at Chapman High School. We live in the small community of Holly Springs just outside of Inman, S.C.
-    active: true
+#  - title: Donald Addis
+#    position: Board Member
+#    name: Donald Addis
+#    image: /static/img/donald_addis.jpg
+#    bio: >-
+#      Driver Education instructor and Athletic Director at Whitmire Community School. This is my 30th year in education. I also work part time for Premier Driving School serving the Newberry, Union, and Whitmire areas. I live in the Santuc community of Union County with my wife, Dena and daughter, Kayley Jayne.
+#  - title: Tina Dodd
+#    position: Board Member
+#    name: Tina Dodd
+#    image: /static/img/tina_dodd.jpg
+#    bio: >-
+#      Tina Dodd has been a disabled military veteran, former local, state, and federal law enforcement officer who saw too many lives being lost in vehicle collisions.
+#
+#
+#      This lead her to found Drive Alert Training Academy. Tina developed a new level of comprehensive, state-of-the art classes, with the use of interactive simulation training. This advanced technology helps develop; perceptual, cognitive, scanning techniques and much more.
+#
+#
+#      Tina continues her efforts to partner with national safety organizations, her school is an AAA Approved Driving School. She is certified to teach AAA courses, and the National Safety Council course Alive at 25.
+#
+#
+#      Tina volunteers with Meals-on-Wheels, is an active board member of Mothers Against Drunk Driving (MADD), and now the South Carolina Driver and Traffic Safety Education Association. She was awarded the 2018 Commercial Teacher of the Year Award.
+#  - title: Calvin Osteen
+#    position: Board Member
+#    name: Calvin Osteen
+#    image: /static/img/calvin_osteen.jpg
+#    bio: I have lived in Greenville, SC my entire life. I am a graduate of Parker High School. My wife Jean and I were married in 1978 and have a daughter April and a son Jason who both are employed by Budget Driving School. We also have two grandsons and a new granddaughter. I began teaching CDL training and administering the CDL test in the early 1990’s. In 1994 we opened Budget Driving School and began with one car and have grown to 8 cars. I specialize in teaching adult clients with both physical and mental difficulties as well as many adults who have come to South Carolina from other countries. At the present time I teach classroom training, hand-control training, behind the wheel instructions and administer both the Knowledge Test and the Skills Test at Budget Driving School.
+#  - title: Tom Adamo
+#    position: Board Member
+#    name: Tom Adamo
+#    image: /static/img/tom_adamo.jpg
+#    bio: I am 54 years old of Baptist faith and have been married to my wife Penny for thirty one years. We have three children. I have been working at Cone Mills finishing plant since 1981. I coached the Union County High School boys tennis team from 2004-2015. I have been an official for high school basketball for nineteen years. I started Union County Driving Academy in 2011. We serve Union and the surrounding counties. My main classroom focus is distracted driving, alcohol, drugs, and right of way scenarios.
+#  - title: Dixie McNair
+#    position: Board Member
+#    name: Dixie McNair
+#    image: /static/img/dixie_mcnair.jpg
+#    bio: I was born and raised in Charleston, SC until 1972 when I moved to Columbia, SC. I attended Spring Valley High School and graduated in 1974. During that time I drove a school bus while attending school and also worked a part time job as a cashier at Winn Dixie. I married my high school sweetheart Danny McNair in 1974 who has been in the transportation field for over 35 years. He was a supervisor of a trucking company for 30 years and now is an agent for several Freight Brokers. I have two children Danny McNair II, and a daughter Brandi McNair. I have two grandchildren Bryce, 6 and Jordan, 3 and another on the way due in July 2016. I have worked in the medical field in various capacities for 42 years, and currently I am at Palmetto Health Richland as a Quality Control/Physicians Billing Coordinator. I am also an Instructor at Championship Driving School with offices in Lugoff and Lancaster. We have 7 instructors, drive students from a lot of different schools, and teach adults as well. During the years I have been an Advocate for Sexual Trauma Services, coached T-ball, coached Dixie Youth Softball, and was a board member for the Dixie Youth Baseball Softball League and various other committees. I have seen firsthand the devastation that Motor Vehicle Crashes can cause. I strive to be the best instructor possible and use my experience in the medical field to apply some reasoning in teaching my students to be the very best on the road that they can possibly be.
+#  - title: Dan Marsceau
+#    position: Board Member
+#    name: Dan Marsceau
+#    image: /static/img/dan_marsceau.jpg
+#    bio: Daniel Marsceau worked in law enforcement for 25 years before retiring in 2007. His first 5 years were spent as a Greer City police officer, and the rest of his time was spent as a South Carolina Highway Patrolman. Dan served as the upstate's spokesperson for the SCHP, and he retired as a Lance Corporal. After his retirement from law enforcement, Dan started working at his brother DeWayne's automotive upholstery shop, The Bucket Stitch. Dan began working part-time for Auto-Safe Driving School in 2012. He serves as a Behind the Wheel Instructor, Classroom Teacher, and Safety Officer/Test Examiner. Dan was awarded the Commercial Driving School Teacher of the Year in 2014 (AAA Carolinas & SCDTSEA). Dan is married to Priscilla, and they have two sons, Nicolas and Nathanael. The family lives in Greer, SC.
+#  - title: Steve Phillips
+#    position: Historian
+#    name: Steve Phillips
+#    image: /static/img/steve_phillips.jpg
+#    bio: Steve is currently the Traffic Safety Manager and Assistant Public Relations Manager for AAA Carolinas. He helps create and advocate for legislative laws involving traffic safety in North and South Carolina, as well as oversees various traffic safety programs, driver improvement instructor classes, AAA driver education programs and AAA Approved Driving Schools. He has been a passionate and dedicated driver educator for over 15 years and certified as a Driver Training Instructor for the US Training Center. Prior to working for AAA, he served and continues to serve as a firefighter and spent 4 years in the army. He is a former board member for North Carolina’s MADD, past President of South Carolina Driver and Traffic Safety Education Association (SCDTSEA) and past President for the Southeast Region – American Driver and Traffic Safety Education Association (SER-ADTSEA). He currently sits on the SCDTSEA board and is the president elect of the SER-ADTSEA. He also is a trainer and supervisor for NASCAR and Charlotte Motor Speedway and owner and operator of Firehouse DJ Co. an entertainment and sound company, Steve is also a motivational public speaker.
 ---

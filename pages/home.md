@@ -1,20 +1,28 @@
 ---
 layout: layouts/home.njk
 title: Home
-date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
+body: >-
+  ## The Mission of the SCDTSEA
+
+  is to support and advance traffic safety and education among commercial and public driving schools. The members work together to promote solutions and laws related to driver safety and education.
+
+  ![](/static/img/lifetime_service.jpg)
+
+  ## The Purpose of the SCDTSEA
+
+  1. Serve as spokesperson for driver & traffic safety education educators in South Carolina
+
+  1. Advance the cause of driver & traffic safety education for all individuals.
+
+  1. Stimulate the general interest of all individuals in the total program of driver & traffic safety through a wide variety of informative resources.
+
+  1. Promote professional excellence along with the basic importance of the safety educator in the learning process.
+
+  1. Protect the rights of safety educators and advance their interests and welfare.
+
 ---
-# Welcome
-
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
-
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+{{ body | safe }}

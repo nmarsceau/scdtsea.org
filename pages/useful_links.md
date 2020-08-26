@@ -3,7 +3,7 @@ permalink: /links/index.html
 title: Useful Links
 eleventyNavigation:
   key: Useful Links
-  order: 4
+  order: 3
 links: >-
   [AAA Foundation for Traffic Safety](http://www.aaafoundation.org/)
 
@@ -35,7 +35,7 @@ links: >-
   [Operation Lifesaver, Inc.](https://oli.org/)
 
 
-  [Rates for Insurance – Distracted Driving Information](https://ratesforinsurance.com/distracted-driving/)
+  [Rates for Insurance &ndash; Distracted Driving Information](https://ratesforinsurance.com/distracted-driving/)
 
 
   [SCDMV](http://www.scdmvonline.com/)
@@ -53,9 +53,12 @@ links: >-
   [Texting & Driving: How Dangerous Is It?](http://www.caranddriver.com/features/texting-while-driving-how-dangerous-is-it)
 
 
-  [US Dept. of Transportation – Federal Highway Administration](http://www.fhwa.dot.gov/index.cfm)
+  [US Dept. of Transportation &ndash; Federal Highway Administration](http://www.fhwa.dot.gov/index.cfm)
 
 
   [Wikipedia: Texting While Driving](http://en.wikipedia.org/wiki/Texting_while_driving)
+
+
+  [ePermitTest](https://www.epermittest.com/south-carolina) &ndash; Discover all the free resources ePermitTest provides for studying to get your permit or license.
 ---
 {{ links | safe }}

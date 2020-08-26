@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 eleventyNavigation:
   key: Awards
-  order: 7
+  order: 6
 opening_paragraph: >-
   We would like to list the expectations of the various awards that are presented by the SCDTSEA. In an effort to provide our colleagues with the necessary information to consider a worthy candidate for nomination. We have always worked hard to try and be as fair as possible when naming the award winners, but providing everyone with the expectations of the nominees will afford us the very best possible candidates as nominees.
 awards:
