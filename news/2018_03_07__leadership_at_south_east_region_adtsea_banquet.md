@@ -5,7 +5,7 @@ read_more: false
 tags:
   - information
 ---
-![SCDTSEA Leadership at ADTSEA Award Banquet](/static/img/ser_adtsea_awards_banquet.jpg)
+![SCDTSEA Leadership at ADTSEA Award Banquet](/static/img/posts/ser_adtsea_awards_banquet.jpg)
 
 From Left to Right:
 

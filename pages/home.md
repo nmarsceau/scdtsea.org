@@ -10,7 +10,7 @@ body: >-
 
   is to support and advance traffic safety and education among commercial and public driving schools. The members work together to promote solutions and laws related to driver safety and education.
 
-  ![](/static/img/lifetime_service.jpg)
+  ![](/static/img/posts/lifetime_service.jpg)
 
   ## The Purpose of the SCDTSEA
 

@@ -48,6 +48,8 @@ awards:
       * Showed interest in SCDTSEA and promoted objectives of driver and traffic safety education.
 
       * Joined SCDTSEA and ADTSEA.
+  - title: Safety Administrator of the Year
+    criteria: TODO
   - title: Commercial Driving School of the Year
     criteria: >-
       * Operates a SC Commercial School with one to four certified Driver Training teachers.
@@ -86,6 +88,14 @@ awards:
       * Has supported adult safety activities.
 
       * Has shown interest in the national level by being a member of ADTSEA.
+  - title: Driver Education Teacher of the Year
+    criteria: TODO
+  - title: Traffic Safety Officer of the Year
+    criteria: TODO
+  - title: Officer of the Year
+    criteria: TODO
+  - title: Traffic Safety Leadership of the Year
+    criteria: TODO
   - title: SCDTSEA Award
     criteria: >-
       * Involvement in SCDTSEA.
@@ -95,5 +105,31 @@ awards:
       * Outstanding program in safety education.
 
       * Example of professionalism in teaching and living.
+  - title: SCDTSEA Award for Outstanding Work
+    criteria: TODO
+  - title: Emmett Hutto Award
+    criteria: TODO
+  - title: Lifetime Service in Driver and Traffic Safety Education Award
+    criteria: TODO
+  - title: Achiever of the Year
+    criteria: TODO
+  - title: Friends of Driver & Traffic Safety Education
+    criteria: TODO
+  - title: Friend of SCDTSEA
+    criteria: TODO
+  - title: Outstanding Leadership in Driver & Traffic Safety
+    criteria: TODO
+  - title: Award of Appreciation
+    criteria: TODO
+  - title: Outstanding Service in Safety
+    criteria: TODO
+  - title: Years of Dedication to Driver Education
+    criteria: TODO
+  - title: Outstanding Dedication and Service to SCDTSEA
+    criteria: TODO
+  - title: Leadership of the Year
+    criteria: TODO
+  - title: Outstanding Leadership Award
+    criteria: TODO
 ---
 {{ opening_paragraph | safe }}

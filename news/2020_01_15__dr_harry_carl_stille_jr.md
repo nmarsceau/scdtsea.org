@@ -7,7 +7,7 @@ tags:
   - announcements
   - information
 ---
-![Dr. Harry Stille](/static/img/harry_stille_2.jpg)
+![Dr. Harry Stille](/static/img/posts/harry_stille.jpg)
 
 Dear Colleagues,
 

@@ -17,4 +17,10 @@ recipients:
     recipient: Jon Burge
   - year: 2011
     recipient: Brent Stone
+  - year: 2013
+    recipient: Ray Cooper
+  - year: 2014
+    recipient: Colonel Kevin Shwedo
+  - year: 2015
+    recipient: Dr. Christine Beyer
 ---

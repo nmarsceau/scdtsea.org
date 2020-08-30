@@ -9,7 +9,7 @@ board_members:
   - title: Joe Sabbadino
     position: President
     name: Joe Sabbadino
-    image: /static/img/joe_sabbadino.jpg
+    image: /static/img/board/joe_sabbadino.jpg
     bio: >-
       I earned a BA and served as a GA in Physical Education at Bob Jones
       University. I then received my MA in Secondary Driver & Traffic Safety
@@ -53,7 +53,7 @@ board_members:
   - title: David Smith
     position: President-Elect
     name: David Smith
-    image: /static/img/david_smith.jpg
+    image: /static/img/board/david_smith.jpg
     bio: >-
       Twitter: [@wolfman1014](https://twitter.com/Wolfman1014)
 
@@ -68,7 +68,7 @@ board_members:
   - title: Andrew Johnson
     position: Past President
     name: Andrew Johnson
-    image: /static/img/andrew_johnson.jpg
+    image: /static/img/board/andrew_johnson.jpg
     bio: >-
       Andrew Johnson resides in Orangeburg, S.C. He was drafted into the United States Army in 1969 and served two years, including one-year tour of duty with the 1st Infantry Division and the 1st Cavalry Division in Vietnam. It was in this tour where he was awarded the Purple Heart for injuries received during combat and Bronze Star with two oak leaf clusters for heroism, and numerous other awards during this military service.
 
@@ -83,7 +83,7 @@ board_members:
   - title: Harry Stille
     position: Treasurer
     name: Harry Stille
-    image: /static/img/harry_stille.jpg
+    image: /static/img/board/harry_stille.jpg
     bio: >-
       Born in West Long Branch, N.J., Harry went to local schools there and Graduated from Long Branch High School in June 1947.
 
@@ -113,7 +113,7 @@ board_members:
   - title: Jerry Lloyd
     position: Secretary
     name: Jerry Lloyd
-    image: /static/img/jerry_lloyd.jpg
+    image: /static/img/board/jerry_lloyd.jpg
     bio: >-
       Jerry Lloyd has a BS Degree in Physical Education from Charleston Southern University (Baptist College) and is a certified Driver Education instructor. He attended Erskine College to complete 12 hours of Driver Education Classes under Dr. Harry Stille. He has 18 years of teaching and coaching experience in football, golf and baseball and spent 6 years as a professional baseball umpire in the minor leagues.
 
@@ -122,7 +122,7 @@ board_members:
   - title: Lance Collins
     position: Website Editor
     name: Lance Collins
-    image: /static/img/lance_collins.jpg
+    image: /static/img/board/lance_collins.jpg
     bio: >-
       Twitter: [@lfc26](https://twitter.com/lfc26)
 
@@ -137,7 +137,7 @@ board_members:
   - title: Janice Cowen
     position: Historian
     name: Janice Cowen
-    image: /static/img/janice_cowen.jpg
+    image: /static/img/board/janice_cowen.jpg
     bio: >-
       Janice Cowen has dedicated her career to Operation Lifesaver and rail safety initiatives. She has enthusiastically served as State Coordinator for South Carolina Operation Lifesaver since 1991. Janice oversaw the National Advisory Council as Chairwoman and served on the national Operation Lifesaver, Inc. (OLI) Board of Directors for 6 years, ending in 2016. She is currently the Federal Railroad Administration Region 3 Representative on the National Advisory Council representing eight states in the Southeast and is the Senior Regional Representative liaison to OLI staff.
 
@@ -149,7 +149,7 @@ board_members:
   - title: Albert Neal
     position: Chaplain
     name: Dr. Albert Neal
-    image: /static/img/albert_neal.jpg
+    image: /static/img/board/albert_neal.jpg
     bio: >-
       Albert A. Neal was born in Camden, SC lived in Kershaw, graduated from C.A. Johnson High School and received his B.S. degree from Benedict College. He earned the M.Ed., from South Carolina State University, and received his B.D., degree from the Theological Seminary of Florida State Christian University. He was granted an honorary D.D., degree from California Pacific University, and awarded the Ph.D., degree in Religion from the University Life Monarch, Modesto, California. He completed the Ed.S. degree at the University of South Carolina. On May 21, 1987, he satisfactorily completed his first Extended Unit of Clinical Pastoral Education at Richland Memorial Hospital. He earned the M.Div. degree from the Lutheran Theological Southern Seminary, and earned his Ed.D. in Health Education Administration from the University of South Carolina.
 
@@ -167,7 +167,7 @@ board_members:
   - title: Tommy Price
     position: Board Member
     name: Tommy Price
-    image: /static/img/tommy_price.jpg
+    image: /static/img/board/tommy_price.jpg
     bio: >-
       Tommy Price is the owner of Price Driving School Inc. since 1997 after his dad, Rev. C. E. “Gene” Price, decided to retire . He graduated from Southern Wesleyan University with a degree in Business Administration. Tommy is an Anderson School District 5 Board of Trustee member as well as a Board Member of Centerville Fire Department he also serves on several other local committees and boards. His hobbies include fishing, hunting and spending time with his family. Tommy is the “Voice of the Westside Rams” football team since 2001.
 
@@ -176,7 +176,7 @@ board_members:
   - title: Kevin Carr
     position: Board Member
     name: Kevin Carr
-    image: /static/img/kevin_carr.jpg
+    image: /static/img/board/kevin_carr.jpg
     bio: >-
       I am a graduate of USC-Upstate with a BS in Physical Education. I received A Masters in Sports Administration from the United States Sports Academy and my 30 hours above from the University of LaVerne. I completed course work to become certified in Driver’s Education from Erskine.
 
@@ -188,13 +188,13 @@ board_members:
 #  - title: Donald Addis
 #    position: Board Member
 #    name: Donald Addis
-#    image: /static/img/donald_addis.jpg
+#    image: /static/img/board/donald_addis.jpg
 #    bio: >-
 #      Driver Education instructor and Athletic Director at Whitmire Community School. This is my 30th year in education. I also work part time for Premier Driving School serving the Newberry, Union, and Whitmire areas. I live in the Santuc community of Union County with my wife, Dena and daughter, Kayley Jayne.
 #  - title: Tina Dodd
 #    position: Board Member
 #    name: Tina Dodd
-#    image: /static/img/tina_dodd.jpg
+#    image: /static/img/board/tina_dodd.jpg
 #    bio: >-
 #      Tina Dodd has been a disabled military veteran, former local, state, and federal law enforcement officer who saw too many lives being lost in vehicle collisions.
 #
@@ -209,26 +209,26 @@ board_members:
 #  - title: Calvin Osteen
 #    position: Board Member
 #    name: Calvin Osteen
-#    image: /static/img/calvin_osteen.jpg
+#    image: /static/img/board/calvin_osteen.jpg
 #    bio: I have lived in Greenville, SC my entire life. I am a graduate of Parker High School. My wife Jean and I were married in 1978 and have a daughter April and a son Jason who both are employed by Budget Driving School. We also have two grandsons and a new granddaughter. I began teaching CDL training and administering the CDL test in the early 1990’s. In 1994 we opened Budget Driving School and began with one car and have grown to 8 cars. I specialize in teaching adult clients with both physical and mental difficulties as well as many adults who have come to South Carolina from other countries. At the present time I teach classroom training, hand-control training, behind the wheel instructions and administer both the Knowledge Test and the Skills Test at Budget Driving School.
 #  - title: Tom Adamo
 #    position: Board Member
 #    name: Tom Adamo
-#    image: /static/img/tom_adamo.jpg
+#    image: /static/img/board/tom_adamo.jpg
 #    bio: I am 54 years old of Baptist faith and have been married to my wife Penny for thirty one years. We have three children. I have been working at Cone Mills finishing plant since 1981. I coached the Union County High School boys tennis team from 2004-2015. I have been an official for high school basketball for nineteen years. I started Union County Driving Academy in 2011. We serve Union and the surrounding counties. My main classroom focus is distracted driving, alcohol, drugs, and right of way scenarios.
 #  - title: Dixie McNair
 #    position: Board Member
 #    name: Dixie McNair
-#    image: /static/img/dixie_mcnair.jpg
+#    image: /static/img/board/dixie_mcnair.jpg
 #    bio: I was born and raised in Charleston, SC until 1972 when I moved to Columbia, SC. I attended Spring Valley High School and graduated in 1974. During that time I drove a school bus while attending school and also worked a part time job as a cashier at Winn Dixie. I married my high school sweetheart Danny McNair in 1974 who has been in the transportation field for over 35 years. He was a supervisor of a trucking company for 30 years and now is an agent for several Freight Brokers. I have two children Danny McNair II, and a daughter Brandi McNair. I have two grandchildren Bryce, 6 and Jordan, 3 and another on the way due in July 2016. I have worked in the medical field in various capacities for 42 years, and currently I am at Palmetto Health Richland as a Quality Control/Physicians Billing Coordinator. I am also an Instructor at Championship Driving School with offices in Lugoff and Lancaster. We have 7 instructors, drive students from a lot of different schools, and teach adults as well. During the years I have been an Advocate for Sexual Trauma Services, coached T-ball, coached Dixie Youth Softball, and was a board member for the Dixie Youth Baseball Softball League and various other committees. I have seen firsthand the devastation that Motor Vehicle Crashes can cause. I strive to be the best instructor possible and use my experience in the medical field to apply some reasoning in teaching my students to be the very best on the road that they can possibly be.
 #  - title: Dan Marsceau
 #    position: Board Member
 #    name: Dan Marsceau
-#    image: /static/img/dan_marsceau.jpg
+#    image: /static/img/board/dan_marsceau.jpg
 #    bio: Daniel Marsceau worked in law enforcement for 25 years before retiring in 2007. His first 5 years were spent as a Greer City police officer, and the rest of his time was spent as a South Carolina Highway Patrolman. Dan served as the upstate's spokesperson for the SCHP, and he retired as a Lance Corporal. After his retirement from law enforcement, Dan started working at his brother DeWayne's automotive upholstery shop, The Bucket Stitch. Dan began working part-time for Auto-Safe Driving School in 2012. He serves as a Behind the Wheel Instructor, Classroom Teacher, and Safety Officer/Test Examiner. Dan was awarded the Commercial Driving School Teacher of the Year in 2014 (AAA Carolinas & SCDTSEA). Dan is married to Priscilla, and they have two sons, Nicolas and Nathanael. The family lives in Greer, SC.
 #  - title: Steve Phillips
 #    position: Historian
 #    name: Steve Phillips
-#    image: /static/img/steve_phillips.jpg
+#    image: /static/img/board/steve_phillips.jpg
 #    bio: Steve is currently the Traffic Safety Manager and Assistant Public Relations Manager for AAA Carolinas. He helps create and advocate for legislative laws involving traffic safety in North and South Carolina, as well as oversees various traffic safety programs, driver improvement instructor classes, AAA driver education programs and AAA Approved Driving Schools. He has been a passionate and dedicated driver educator for over 15 years and certified as a Driver Training Instructor for the US Training Center. Prior to working for AAA, he served and continues to serve as a firefighter and spent 4 years in the army. He is a former board member for North Carolina’s MADD, past President of South Carolina Driver and Traffic Safety Education Association (SCDTSEA) and past President for the Southeast Region – American Driver and Traffic Safety Education Association (SER-ADTSEA). He currently sits on the SCDTSEA board and is the president elect of the SER-ADTSEA. He also is a trainer and supervisor for NASCAR and Charlotte Motor Speedway and owner and operator of Firehouse DJ Co. an entertainment and sound company, Steve is also a motivational public speaker.
 ---

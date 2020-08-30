@@ -40,4 +40,4 @@ Best regards,
 
 See below for poster contest details
 
-![2018 Poster Contest Details](/static/img/2018_poster_contest_details.jpg)
+![2018 Poster Contest Details](/static/img/posts/2018_poster_contest_details.jpg)
