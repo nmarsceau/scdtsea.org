@@ -6,9 +6,20 @@
 	<body>
 
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
+      <div>
+        <a href="{{ '/' | url }}">
+          <picture>
+            <source type="image/webp" media="(max-width: 400px)" srcset="/static/img/logo/xs.webp" />
+            <source type="image/webp" media="(max-width: 700px)" srcset="/static/img/logo/sm.webp" />
+            <source type="image/webp" media="(max-width: 1100px)" srcset="/static/img/logo/md.webp" />
+            <source type="image/webp" media="(min-width: 1100px)" srcset="/static/img/logo/lg.webp" />
+            <source type="image/gif" media="(max-width: 400px)" srcset="/static/img/logo/xs.gif" />
+            <source type="image/gif" media="(max-width: 700px)" srcset="/static/img/logo/sm.gif" />
+            <source type="image/gif" media="(max-width: 1100px)" srcset="/static/img/logo/md.gif" />
+            <img src="/static/img/logo/lg.gif" alt="SCDTSEA" />
+          </picture>
+        </a>
+      </div>
 			{% include "components/nav.njk" %}
 		</header>
 

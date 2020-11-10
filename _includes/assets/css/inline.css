@@ -1,7 +1,11 @@
-:root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }
 
 *, *:before, *:after {
@@ -11,19 +15,19 @@
 html,
 body {
 	padding: 0;
-	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  margin: 0;
 }
 
 body {
-	display: grid;
-	height: 100vh;
-	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
+  font-size: 1.3em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  background-color: #fcfcfc;
+  color: #333;
 }
 
 main {
-	max-width: 37.5em;
+  max-width: 40em;
+  margin: auto;
 }
 
 p,
@@ -32,11 +36,12 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
-a[href]:visited {
-	color: var(--primary);
+a:link[href], a:visited[href] {
+  color: #0044dd;
 }
-
+a:hover[href] {
+  color: #0000aa;
+}
 a[href]:not(:hover) {
 	text-decoration: none;
 }
@@ -46,7 +51,6 @@ img {
 	height: auto;
 }
 
-header,
 main,
 footer {
 	padding: 1em;
@@ -78,41 +82,112 @@ pre {
 	margin: .5em 0;
 }
 
-/* Header Logo (style as h2) */
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	font-weight: bold;
-	font-style: normal;
+/* Header Logo */
+header > div {
+  padding: 1em 1em 0;
+  text-align: center;
 }
 
-/* Header Nav */
-header nav ul {
-	padding: 0;
-	list-style: none;
+.js header > div {
+  text-align: left;
 }
 
-header nav ul :first-child {
-	margin-left: 0;
+@media screen and (min-width: 1100px) {
+  header > div,
+  .js header > div {
+    text-align: center;
+  }
 }
 
-header nav li {
-	display: inline-block;
-	margin: 0 .25em;
+/* Main Menu */
+
+/* no-JS styles */
+nav.main-menu {
+  position: relative;
 }
 
-header nav li a {
-	padding: .25em .5em;
-	border-radius: .25em;
+nav.main-menu button#toggle {
+  display: none;
 }
 
-header nav li a[href]:not(:hover) {
-	text-decoration: none;
+nav.main-menu ul#menu {
+  background-color: #fcfcfc;
+  list-style: none;
+  margin: 0;
+  padding: 0 0 1em;
+  width: 100%;
 }
 
-header nav li a[data-current="current item"] {
-	background-color: white;
+nav.main-menu li {
+  text-align: center;
+}
+
+nav.main-menu li a[href]:link,
+nav.main-menu li a[href]:visited {
+  display: block;
+  padding: 0.4em 1.5em;
+  color: #333;
+}
+
+nav.main-menu li a[href]:active {
+  background-color: #ddd;
+  text-decoration: underline;
+}
+
+/* progressive enhancement when JS is available */
+.js nav.main-menu button#toggle {
+  background: none;
+  border: 1px solid #333;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 1em;
+  padding: 0.4em 0.75em;
+  position: absolute;
+  right: 1.5em;
+  top: -5em;
+}
+
+.js nav.main-menu ul#menu {
+  box-shadow: 0 15px 15px rgba(0, 0, 0, .2);
+  position: absolute;
+}
+
+.js nav.main-menu ul#menu.collapse {
+  display: none;
+}
+
+.js nav.main-menu li {
+  text-align: right;
+}
+
+/* progressive enhancement for desktop screen sizes */
+@media screen and (min-width: 1100px) {
+  nav.main-menu button#toggle,
+  .js nav.main-menu button#toggle {
+    display: none;
+  }
+
+  nav.main-menu ul#menu, nav.main-menu ul#menu.collapse,
+  .js nav.main-menu ul#menu, .js nav.main-menu ul#menu.collapse {
+    display: block;
+    text-align: center;
+    box-shadow: none;
+    position: static;
+    padding: 0;
+  }
+
+  nav.main-menu li,
+  .js nav.main-menu li {
+    display: inline-block;
+    text-align: center;
+  }
+
+  nav.main-menu li a[href]:link,
+  nav.main-menu li a[href]:visited,
+  .js nav.main-menu li a[href]:link,
+  .js nav.main-menu li a[href]:visited {
+    padding: 0.5em 0.75em;
+  }
 }
 
 /* Posts List */
@@ -167,6 +242,7 @@ form label {
   display: none;
 }
 
+/*
 input,
 textarea,
 button {
@@ -194,3 +270,4 @@ button {
 		font-size: 1.1rem;
 	}
 }
+*/

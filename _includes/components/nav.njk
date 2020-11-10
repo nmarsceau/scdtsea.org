@@ -1,6 +1,7 @@
-<nav>
+<nav class="main-menu" role="navigation">
+  <button type="button" id="toggle" aria-expanded="false" aria-controls="menu">Menu</button>
   {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
+  <ul id="menu" class="collapse">
   {%- for entry in navPages %}
     <li>
       <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
