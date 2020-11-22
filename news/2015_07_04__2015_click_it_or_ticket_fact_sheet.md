@@ -6,4 +6,6 @@ tags:
   - resources
   - information
 ---
-<iframe src="/static/img/pdf/2015_click_it_or_ticket_fact_sheet.pdf"></iframe>
+<div class="pdf-container">
+  <iframe src="/static/img/pdf/2015_click_it_or_ticket_fact_sheet.pdf"></iframe>
+</div>

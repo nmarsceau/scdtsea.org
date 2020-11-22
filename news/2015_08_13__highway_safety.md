@@ -6,4 +6,6 @@ tags:
   - information
   - resources
 ---
-<iframe src="/static/img/pdf/highway_safety.pdf"></iframe>
+<div class="pdf-container">
+  <iframe src="/static/img/pdf/highway_safety.pdf"></iframe>
+</div>

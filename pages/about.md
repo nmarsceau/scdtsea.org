@@ -54,7 +54,7 @@ body: >-
 
   ## Board Members
 
-  The SCDTSEA Board of Directors is comprised of a devoted and
+  The SCDTSEA Board of Directors comprises a devoted and
   focused group of experienced leaders who are firmly committed to promoting
   driver and traffic safety to all sectors of the public and private industry.
   Their diversified backgrounds, from every facet of the driver and traffic
@@ -63,7 +63,7 @@ body: >-
 
   ## Read More
 
-  [Complete History](/history)
+  [A Brief History of SCDTSEA](/history)
 
   [Past Presidents](/past_presidents)
 

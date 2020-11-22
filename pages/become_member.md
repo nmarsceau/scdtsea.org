@@ -45,12 +45,14 @@ body: >-
   * And, has group solidarity
 
 
-  Join to show that you are proud to be a driver educator. Join to strengthen SCDTSEA that promotes our security and status. SCDTSEA is your voice for driver and traffic safety education.
+  Join to show that you are proud to be a driver educator. Join to strengthen SCDTSEA. That promotes our security and status. SCDTSEA is your voice for driver and traffic safety education.
 
 
   Download the membership application below, fill it out, and bring it with you to the annual SCDTSEA conference.
 
 
-  <iframe src="/static/img/pdf/scdtsea_membership_application.pdf"></iframe>
+  <div class="pdf-container">
+    <iframe src="/static/img/pdf/scdtsea_membership_application.pdf"></iframe>
+  </div>
 ---
 {{ body | safe }}

@@ -5,31 +5,37 @@ eleventyNavigation:
   key: Useful Links
   order: 3
 links: >-
-  [AAA Foundation for Traffic Safety](http://www.aaafoundation.org/)
+  [AAA Foundation for Traffic Safety](https://aaafoundation.org/)
 
 
-  [ADTSEA](http://www.adtsea.org/)
+  [ADTSEA](https://www.adtsea.org/)
 
 
-  [Distracted Driving Help](http://www.distracteddrivinghelp.com/)
+  [Distracted Driving Help](https://www.bestonlinetrafficschool.co/distracted-driving/)
 
 
-  [Driving School Association of America](http://www.thedsaa.org/)
+  [Driving School Association of the Americas](https://dsaa.org/)
 
 
-  [How Texting and Driving Statistics Affect Your Insurance Premium](http://www.buyautoinsurance.com/texting-and-driving/)
+  [ePermitTest](https://www.epermittest.com/south-carolina) &ndash; Discover all the free resources ePermitTest provides for studying to get your permit or license.
 
 
-  [National Safety Council](http://www.nsc.org/)
+  [How Texting and Driving Statistics Affect Your Insurance Premium](https://www.buyautoinsurance.com/texting-and-driving/)
 
 
-  [National Transportation Safety Board](http://www.ntsb.gov/)
+  [National Safety Council](https://www.nsc.org/)
 
 
-  [NCDTSEA](http://www.ncdtsea.com/)
+  [National Transportation Safety Board](https://www.ntsb.gov/)
 
 
-  [NHTSA](http://www.nhtsa.gov/)
+  [NCDTSEA](https://www.ncdtsea.com/)
+
+
+  [NHTSA](https://www.nhtsa.gov/)
+
+
+  [NHTSA&mdash;Distracted Driving](https://www.nhtsa.gov/campaign/distracted-driving)
 
 
   [Operation Lifesaver, Inc.](https://oli.org/)
@@ -41,24 +47,21 @@ links: >-
   [SCDMV](http://www.scdmvonline.com/)
 
 
-  [South Carolina: Cell Phone Laws – Legislation](http://handsfreeinfo.com/south-carolina-cell-phone-laws-legislation/)
+  [South Carolina: Cell Phone Laws – Legislation](https://handsfreeinfo.com/south-carolina-cell-phone-laws-legislation/)
 
 
-  [South Carolina Department of Public Safety](http://www.scdps.org/)
+  [South Carolina Department of Public Safety](https://scdps.sc.gov/)
 
 
-  [South Carolina Highway Patrol](http://www.schp.org/)
+  [South Carolina Highway Patrol](https://scdps.sc.gov/schp)
 
 
-  [Texting & Driving: How Dangerous Is It?](http://www.caranddriver.com/features/texting-while-driving-how-dangerous-is-it)
+  [Texting & Driving: How Dangerous Is It?](https://www.caranddriver.com/features/texting-while-driving-how-dangerous-is-it)
 
 
-  [US Dept. of Transportation &ndash; Federal Highway Administration](http://www.fhwa.dot.gov/index.cfm)
+  [US Dept. of Transportation &ndash; Federal Highway Administration](https://highways.dot.gov/)
 
 
-  [Wikipedia: Texting While Driving](http://en.wikipedia.org/wiki/Texting_while_driving)
-
-
-  [ePermitTest](https://www.epermittest.com/south-carolina) &ndash; Discover all the free resources ePermitTest provides for studying to get your permit or license.
+  [Wikipedia: Texting While Driving](https://en.wikipedia.org/wiki/Texting_while_driving)
 ---
 {{ links | safe }}

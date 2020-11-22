@@ -9,4 +9,6 @@ tags:
 ---
 This document contains some shocking facts about teen drivers. Share it with your driving students today.
 
-<iframe src="/static/img/pdf/teen_driving_facts.pdf"></iframe>
+<div class="pdf-container">
+  <iframe src="/static/img/pdf/teen_driving_facts.pdf"></iframe>
+</div>

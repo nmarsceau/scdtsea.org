@@ -5,4 +5,6 @@ read_more: false
 tags:
   - information
 ---
-<iframe src="/static/img/pdf/2018_conference_details.pdf"></iframe>
+<div class="pdf-container">
+  <iframe src="/static/img/pdf/2018_conference_details.pdf"></iframe>
+</div>

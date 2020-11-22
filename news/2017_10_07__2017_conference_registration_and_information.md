@@ -8,4 +8,6 @@ tags:
 ---
 The Fall 2017 SCDTSEA conference will be here before we know it!
 
-<iframe src="/static/img/pdf/2017_conference_details.pdf"></iframe>
+<div class="pdf-container">
+  <iframe src="/static/img/pdf/2017_conference_details.pdf"></iframe>
+</div>

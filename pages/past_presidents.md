@@ -176,8 +176,8 @@ past_presidents:
     name: Andrew Johnson
     location_organization: A & R Driver Training School
     years: 2018-19
-  - title: 2019-20
+  - title: 2019-21
     name: Joe Sabbadino
     location_organization: Sabbadino Driving School
-    years: 2019-20
+    years: 2019-21
 ---

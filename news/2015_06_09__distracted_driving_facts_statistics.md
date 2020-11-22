@@ -1,6 +1,6 @@
 ---
 title: "Distracted Driving: Facts & Statistics"
-date: 2015-07-04T00:00:00-05:00
+date: 2015-06-09T00:00:00-05:00
 summary: Read many alarming facts about distracted driving.
 read_more: false
 tags:
@@ -29,4 +29,6 @@ tags:
 Source: [distraction](http://www.distraction.gov/)
 
 ### Even More Distracted Driving Facts and Statistics
-<iframe src="/static/img/pdf/distracted_driving_facts_and_statistics.pdf"></iframe>
+<div class="pdf-container">
+  <iframe src="/static/img/pdf/distracted_driving_facts_and_statistics.pdf"></iframe>
+</div>

@@ -12,7 +12,7 @@ awards:
     criteria: >-
       * Each school may bring up to 8 student-made posters to the annual SCDTSEA conference.
 
-      * The posters must be on official poster-size poster board.
+      * The posters must be on official poster-size poster board. (22 in. x 28 in.)
 
       * Posters must be on the topic selected for the year. (See the details of the upcoming conference for poster contest topic.)
 

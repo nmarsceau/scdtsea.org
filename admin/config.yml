@@ -34,9 +34,9 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Complete SCDTSEA History"
-        name: "complete_history"
-        file: "pages/complete_history.md"
+      - label: "A Brief History of SCDTSEA"
+        name: "history"
+        file: "pages/history.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "History", name: "history", widget: "markdown"}
