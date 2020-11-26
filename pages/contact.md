@@ -1,15 +1,26 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Contact Us
 section: contact
-date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
   order: 7
+containsForm: true
+containsCount: true
 ---
-The contact form on this page uses
-[Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-submissions, and saves them in the connected Netlify account where
-notifications can optionally be configured. Each submission is passed through a
-spam filter and if flagged, will display a CAPTCHA challenge to the user.
+## Address
+South Carolina Driver & Traffic Safety Education Association
+P.O. Box 203
+Due West, South Carolina 29639
+
+## Phone
+(864) 292-0259
+
+## Social Media
+<div class="social-links">
+  <a href="https://www.facebook.com/scdtsea"><img src="/_includes/assets/img/f_logo_RGB-Blue_58.png" alt="Facebook" /></a>
+  <a href="https://twitter.com/realscdtsea"><img src="/_includes/assets/img/Twitter_Logo_Blue.png" alt="Twitter" /></a>
+</div>
+
+## Send Us an Email

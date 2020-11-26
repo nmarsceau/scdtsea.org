@@ -23,6 +23,12 @@
 			{{ layoutContent | safe }}
 		</main>
 		{% include "components/footer.njk" %}
-    <script src="_includes/assets/js/extra.js"></script>
+    <script src="/_includes/assets/js/extra.js"></script>
+    {% if containsForm %}
+    <script src="/_includes/assets/js/validate_form.js"></script>
+    {% endif %}
+    {% if containsCount %}
+    <script src="/_includes/assets/js/character_counter.js"></script>
+    {% endif %}
 	</body>
 </html>
