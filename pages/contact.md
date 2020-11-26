@@ -10,12 +10,12 @@ containsForm: true
 containsCount: true
 ---
 ## Address
-South Carolina Driver & Traffic Safety Education Association
+South Carolina Driver &amp; Traffic Safety Education Association
 P.O. Box 203
-Due West, South Carolina 29639
+Due West, SC 29639
 
 ## Phone
-(864) 292-0259
+<a href="tel:8642920259">(864) 292-0259</a>
 
 ## Social Media
 <div class="social-links">
