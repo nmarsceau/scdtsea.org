@@ -1,11 +1,15 @@
 ---
 layout: layouts/base.njk
 section: news
-permalink: /news/index.html
 ---
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
 
-{% set postslist = collections.post %}
+{% set postslist = pagination.items | reverse %}
 {% include "components/postslist.njk" %}
+
+<a href="{{ pagination.href.first }}">Newest Posts</a>
+<a href="{{ pagination.href.previous }}">Previous</a>
+<a href="{{ pagination.href.next }}">Next</a>
+<a href="{{ pagination.href.last }}">Oldest Posts</a>
