@@ -1,15 +1,17 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Home | SCDTSEA
 permalink: /
 body: >-
-  ## The Mission of the SCDTSEA
+  # SCDTSEA
+
+  ## Our Mission
 
   is to support and advance traffic safety and education among commercial and public driving schools. The members work together to promote solutions and laws related to driver safety and education.
 
   ![](/static/img/posts/lifetime_service.jpg)
 
-  ## The Purpose of the SCDTSEA
+  ## Our Purpose
 
   1. Serve as spokesperson for driver & traffic safety education educators in South Carolina
 

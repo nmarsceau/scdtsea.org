@@ -9,7 +9,26 @@ section: news
 {% set postslist = pagination.items | reverse %}
 {% include "components/postslist.njk" %}
 
-<a href="{{ pagination.href.first }}">Newest Posts</a>
-<a href="{{ pagination.href.previous }}">Previous</a>
-<a href="{{ pagination.href.next }}">Next</a>
-<a href="{{ pagination.href.last }}">Oldest Posts</a>
+{% set current_page_number = pagination.pageNumber + 1 %}
+<nav role="navigation" aria-label="News Pagination" class="pagination {% if current_page_number === 1 %}one-button{% endif %}">
+  {% if current_page_number > 1 %}
+    <a href="{{ pagination.href.previous }}" aria-label="Go to previous page">Previous</a>
+  {% endif %}
+  <ul>
+  {% for i in range(0, pagination.pages.length) -%}
+    {% set page_number = i + 1 %}
+    <li>
+      <a
+        href="{{ pagination.hrefs[i] }}"
+        aria-label="{% if page_number === current_page_number %}Current page,{% else %}Go to{% endif %} page {{ page_number }}"
+        {% if page_number === current_page_number %}aria-current="true"{% endif %}
+      >
+        {{ page_number }}
+      </a>
+    </li>
+  {%- endfor %}
+  </ul>
+  {% if current_page_number < pagination.pages.length %}
+    <a href="{{ pagination.href.next }}" aria-label="Go to next page">Next</a>
+  {% endif %}
+</nav>
