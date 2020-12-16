@@ -59,4 +59,6 @@ recipients:
     recipient: Donald Addis
   - year: 2019
     recipient: Robert Suggs
+  - year: 2020
+    recipient: Ron Lanham, Beaufort High School
 ---

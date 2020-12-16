@@ -23,4 +23,6 @@ recipients:
     recipient: Mr. Mike's Driving School
   - year: 2019
     recipient: Alert Driver Training
+  - year: 2020
+    recipient: Coaches Driving School
 ---

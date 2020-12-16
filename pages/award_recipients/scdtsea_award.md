@@ -11,4 +11,6 @@ recipients:
     recipient: Janice Cowen
   - year: 2019
     recipient: Jerry Lloyd
+  - year: 2020
+    recipient: Tommy Price, Anderson, SC
 ---

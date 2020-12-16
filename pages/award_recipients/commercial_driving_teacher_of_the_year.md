@@ -23,4 +23,6 @@ recipients:
     recipient: Tina Dodd
   - year: 2019
     recipient: Susan Baldwin
+  - year: 2020
+    recipient: Lance Collins, Auto Safe Driving School
 ---

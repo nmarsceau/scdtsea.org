@@ -23,4 +23,6 @@ recipients:
     recipient: Colonel Kevin Shwedo
   - year: 2015
     recipient: Dr. Christine Beyer
+  - year: 2020
+    recipient: Nicole McGarity, AAA Carolinas
 ---

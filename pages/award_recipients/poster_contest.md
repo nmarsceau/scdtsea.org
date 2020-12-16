@@ -61,4 +61,11 @@ recipients:
       **3rd Place**: Zyoria Adams
 
       **Honorable Mention**: Barry Fogle
+  - year: 2020
+    recipient: >-
+      **1st Place**: Owen Nigh, Sabbadino Driving School
+
+      **2nd Place**: Sophia Gray, Sabbadino Driving School
+
+      **3rd Place**: Anngel Tomlin, Hopkins, SC
 ---

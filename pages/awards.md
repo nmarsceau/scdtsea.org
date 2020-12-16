@@ -131,5 +131,7 @@ awards:
     criteria: TODO
   - title: Outstanding Leadership Award
     criteria: TODO
+  - title: Harry Stille Award
+    criteria: TODO
 ---
 {{ opening_paragraph | safe }}

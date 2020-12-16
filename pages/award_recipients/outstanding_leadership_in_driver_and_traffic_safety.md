@@ -9,4 +9,6 @@ recipients:
     recipient: Andrew Johnson
   - year: 2016
     recipient: Andy Pilgrim
+  - year: 2020
+    recipient: Janice Cowen, Operation Life Saver
 ---
