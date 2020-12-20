@@ -96,10 +96,11 @@ collections:
         file: "pages/awards.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Opening Paragraph", name: "opening_paragraph", widget: "markdown"}
           - label: "Awards"
             name: "awards"
             widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
       - label: "Poster Contest Award Recipients"
         name: "poster_contest_recipients"
         file: "pages/award/poster_contest.md"

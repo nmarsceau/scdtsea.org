@@ -10,7 +10,7 @@ permalink: /awards/index.html
 <div class="no-type-list">
   <ul>
     {% for award in awards %}
-    <li><a href="/awards/{{ award | slug }}">{{ award }}</a></li>
+    <li><a href="/awards/{{ award.title | slug }}">{{ award.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
