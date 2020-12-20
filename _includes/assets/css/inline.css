@@ -401,7 +401,7 @@ a[rel="tag"]:last-child {
   margin-top: 2.5em;
 }
 
-.no-type-list ul, .no-type-list ol {
+.no-type-list {
   list-style-type: none;
   padding-left: 0;
 }

@@ -13,7 +13,7 @@ permalink: /past_presidents/index.html
   <tbody>
 	{% for president in past_presidents | reverse %}
 		<tr>
-      <td><span style="white-space: nowrap;">{{ president.years }}</span></td>
+      <td><span style="white-space: nowrap;">{{ president.title }}</span></td>
       <td>{{ president.name }}{% if president.location_organization %}, {{ president.location_organization }}{% endif %}</td>
 		</tr>
 	{% endfor %}

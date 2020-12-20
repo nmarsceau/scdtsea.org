@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+section: page
+---
+<h1>{{ title }}</h1>
+
+<ul class="no-type-list">
+  {% for link in links %}
+  <li>
+    {% if link.before_text %}{{ link.before_text | safe }}{% endif %}
+    <a href="{{ link.url }}">{{ link.title | safe }}</a>
+    {% if link.after_text %}{{ link.after_text | safe }}{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+
+{{ layoutContent | safe }}

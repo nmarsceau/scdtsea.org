@@ -7,10 +7,8 @@ permalink: /awards/index.html
 
 {{ layoutContent | safe }}
 
-<div class="no-type-list">
-  <ul>
-    {% for award in awards %}
-    <li><a href="/awards/{{ award.title | slug }}">{{ award.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<ul class="no-type-list">
+  {% for award in awards %}
+  <li><a href="/awards/{{ award.title | slug }}">{{ award.title }}</a></li>
+  {% endfor %}
+</ul>
