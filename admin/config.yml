@@ -100,12 +100,9 @@ collections:
           - label: "Awards"
             name: "awards"
             widget: "list"
-            fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Criteria", name: "criteria", widget: "markdown"}
       - label: "Poster Contest Award Recipients"
         name: "poster_contest_recipients"
-        file: "pages/award_recipients/poster_contest.md"
+        file: "pages/award/poster_contest.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - label: "Recipients"
@@ -114,30 +111,3 @@ collections:
             fields:
               - {label: "Year", name: "year", widget: "string"}
               - {label: "Recipient ", name: "recipient", widget: "markdown"}
-      
-
-
-#    folder: "pages"
-    #create: false # Change to true to allow editors to create new pages
-    #slug: "{{slug}}"
-    #fields:
-      #- { label: "Title", name: "title", widget: "string" }
-      #- { label: "Publish Date", name: "date", widget: "datetime" }
-      #- { label: "Permalink", name: "permalink", widget: "string" }
-      #- label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
-        #name: "eleventyNavigation"
-        #widget: "object"
-        #fields:
-          #- { label: "Key", name: "key", widget: "string" }
-          #- { label: "Order", name: "order", widget: "number", default: 0 }
-      #- { label: "Body", name: "body", widget: "markdown" }
-  # Authors
-  - name: "authors"
-    label: "Author"
-    folder: "authors"
-    create: true
-    slug: "{{fields.name}}"
-    fields:
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Email", name: "email", widget: "string"}
-      - {label: "GitHub", name: "github", widget: "string"}

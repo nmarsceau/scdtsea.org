@@ -1,7 +1,7 @@
 ---
-layout: layouts/award_recipients.njk
+layout: layouts/award.njk
 permalink: /awards/scdtsea-award-for-outstanding-work/index.html
-title: SCDTSEA Award for Outstanding Work Recipients
+title: SCDTSEA Award for Outstanding Work
 recipients:
   - year: 2014
     recipient: Dr. Harry Stille

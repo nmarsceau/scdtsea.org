@@ -7,23 +7,10 @@ permalink: /awards/index.html
 
 {{ layoutContent | safe }}
 
-<table>
-  <thead>
-    <tr>
-      <th>Award</th>
-      <th>Criteria</th>
-    </tr>
-  </thead>
-  <tbody>
-  {% for award in awards %}
-    <tr>
-      <td>{{ award.title }}</td>
-      <td>
-        {{ award.criteria | markdownify | safe }}
-
-        <a href="/awards/{{ award.title | slug }}">View recent recipients of this award.</a>
-      </td>
-    </tr>
-  {% endfor %}
-  </tbody>
-</table>
+<div class="no-type-list">
+  <ul>
+    {% for award in awards %}
+    <li><a href="/awards/{{ award | slug }}">{{ award }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

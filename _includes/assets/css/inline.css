@@ -400,3 +400,12 @@ a[rel="tag"]:last-child {
 .copyright {
   margin-top: 2.5em;
 }
+
+.no-type-list ul, .no-type-list ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.no-type-list li {
+  padding-bottom: 1em;
+}

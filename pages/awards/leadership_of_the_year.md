@@ -1,7 +1,7 @@
 ---
-layout: layouts/award_recipients.njk
+layout: layouts/award.njk
 permalink: /awards/leadership-of-the-year/index.html
-title: Leadership of the Year Award Recipients
+title: Leadership of the Year
 recipients:
   - year: 2015
     recipient: Carol Hardin

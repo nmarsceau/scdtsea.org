@@ -6,6 +6,12 @@ section: awards
 
 {{ layoutContent | safe }}
 
+{% if criteria %}
+<h2>Criteria</h2>
+{{ criteria | markdownify | safe }}
+{% endif %}
+
+<h2>Recipients</h2>
 <table>
   <thead>
     <tr>
