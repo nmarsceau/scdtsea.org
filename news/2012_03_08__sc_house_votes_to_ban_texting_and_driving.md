@@ -1,7 +1,9 @@
 ---
 title: SC House Votes to Ban Texting While Driving
 date: 2012-03-08T00:00:00-05:00
-read_more: false
+summary:
+  A bipartisan coalition voted 93-15 Wednesday to ban texting while driving for all drivers. First-time violators would face a $100 fine. Violators who cause fatal wrecks could face jail time. Under the bill, texting would still be allowed when a vehicle is stopped or parked.
+read_more: true
 tags:
   - information
   - articles

@@ -1,7 +1,9 @@
 ---
 title: Letter From President Elect Regarding the November 30 SCDTSEA Conference
 date: 2018-09-04T00:00:00-05:00
-read_more: false
+summary:
+  Members of SCDTSEA who recruit a new member, and both attend our upcoming conference, will be eligible to participate in a drawing to win a complete...
+read_more: true
 tags:
   - letters
 ---

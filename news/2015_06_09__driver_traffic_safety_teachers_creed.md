@@ -1,7 +1,9 @@
 ---
 title: SCDTSEA Driver & Traffic Safety Teacher's Creed
 date: 2015-06-09T00:00:00-05:00
-read_more: false
+summary:
+  We, the Driver Educators Of South Carolina, Do Hereby Dedicate Our Personal and Professional Efforts as Teachers...
+read_more: true
 tags:
   - resources
 ---

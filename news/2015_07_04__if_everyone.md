@@ -1,7 +1,9 @@
 ---
 title: If Everyone
 date: 2015-07-04T00:00:00-05:00
-read_more: false
+summary:
+  If everyone who drives a car could lie a month in bed, with broken bones and stitched up wounds, or fractures of the head, and there endure the agonies that many people do, they’d never need preach safety any more to me or you.
+read_more: true
 tags:
   - resources
 ---

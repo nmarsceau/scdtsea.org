@@ -1,7 +1,6 @@
 ---
 title: 2014 SCDTSEA Conference Highlights
 date: 2015-07-04T00:00:00-05:00
-summary: Read about the 2014 conference topics and award winners.
 read_more: false
 tags:
   - information

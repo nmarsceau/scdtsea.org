@@ -1,7 +1,9 @@
 ---
 title: Letter From the Past President
 date: 2017-10-07T00:00:00-05:00
-read_more: false
+summary:
+  Consider the SCDTSEA Conference that will be at Blythewood's SCDMV December 1. Check out the attachments. A draft of the conference schedule includes interesting people with interesting topics such as...
+read_more: true
 tags:
   - announcements
   - letters
