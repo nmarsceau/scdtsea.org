@@ -21,11 +21,11 @@
 })();
 
 (function() {
-  const news_back_buttons = document.querySelectorAll('.news-back-button');
-  news_back_buttons.forEach(button => {
-    button.addEventListener('click', () => {
-      if (window.history.length === 1) {window.location.href = '/news';}
-      else {window.history.back();}
-    });
-  });
+  const back_links = document.querySelectorAll('a.back');
+  back_links.forEach(link => link.addEventListener('click', event => {
+    if (window.history.length > 1) {
+      event.preventDefault();
+      window.history.back();
+    }
+  }));
 })();

@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+section: board
+---
+<nav>
+  <a href="/board" class="back">← Back</a>
+</nav>
+
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+<article>
+  <p><em>{{ position }}</em></p>
+			
+  <div>
+    <img src="{{ image }}" alt="{{ title }}" class="board-bio-image" />
+    {{ bio | markdownify | safe }}
+  </div>
+</article>
+
+<nav>
+  <a href="/board" class="back">← Back</a>
+</nav>

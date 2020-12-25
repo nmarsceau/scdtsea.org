@@ -53,6 +53,17 @@ video {
   width: 100%;
 }
 
+.board-bio-image {
+  border: 2px solid #777;
+}
+
+@media screen and (min-width: 650px) {
+  .board-bio-image {
+    float: left;
+    margin: 0 1em 1em 0;
+  }
+}
+
 
 /* Theme */
 body {

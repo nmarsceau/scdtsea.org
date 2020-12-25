@@ -1,0 +1,7 @@
+{
+  "layout": "layouts/board_member.njk",
+  "permalink": "board/{{ title | slug }}/index.html",
+  "tags": [
+    "board"
+  ]
+}

@@ -19,6 +19,16 @@ collections:
       - {label: "Read More", name: "read_more", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", default: ["post"]}
+  - label: "Board Members"
+    name: "board"
+    folder: "board_members"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Bio", name: "bio", widget: "markdown"}
   - label: "Pages"
     name: "pages"
     files:
@@ -88,9 +98,6 @@ collections:
             fields:
               - {label: "Title", name: "title", widget: "string"}
               - {label: "Position", name: "position", widget: "string"}
-              - {label: "Name", name: "name", widget: "string"}
-              - {label: "Image", name: "image", widget: "image"}
-              - {label: "Bio", name: "bio", widget: "markdown"}
       - label: "Awards"
         name: "awards"
         file: "pages/awards.md"

@@ -13,6 +13,9 @@ layout: layouts/base.njk
 renderData:
   title: "Tagged “{{ tag }}”"
 ---
+<nav>
+  <a href="/news" class="back">← Back</a>
+</nav>
 
 <h1>Tagged “{{ tag }}”</h1>
 
@@ -20,5 +23,5 @@ renderData:
 {% include "components/postslist.njk" %}
 
 <nav>
-  <button class="news-back-button">← Back</button>
+  <a href="/news" class="back">← Back</a>
 </nav>

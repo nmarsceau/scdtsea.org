@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+section: board
+permalink: /board/index.html
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+<ul class="no-type-list">
+	{% for board_member in board_members %}
+	<li>
+    {{ board_member.position }}:
+    {% if board_member.title === 'None' %}
+    &ndash;
+    {% else %}
+    <a href="/board/{{ board_member.title | slug }}">{{ board_member.title }}</a></li>
+    {% endif %}
+	{% endfor %}
+</ul>
