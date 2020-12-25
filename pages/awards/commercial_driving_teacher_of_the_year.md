@@ -28,7 +28,8 @@ criteria: >-
   * Has shown interest in the national level by being a member of ADTSEA.
 recipients:
   - year: 2020
-    recipient: Lance Collins, Auto Safe Driving School
+    recipient: Lance Collins
+    location_organization: Auto Safe Driving School
   - year: 2019
     recipient: Susan Baldwin
   - year: 2018

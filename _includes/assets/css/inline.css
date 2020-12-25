@@ -9,6 +9,10 @@ body {
   margin: 0;
 }
 
+main {
+  min-height: 60vh;
+}
+
 main,
 footer {
   margin: auto;
@@ -16,11 +20,25 @@ footer {
 	padding: 1em 1em 2em;
 }
 
-footer > div {
-  margin: 0 -3em;
-  padding: 1.5em 3em 1em;
+footer {
   border-top: 1px solid #888;
+}
+
+footer > div {
   font-size: 0.9em;
+  padding: 1.5em 0 1em;
+}
+
+@media screen and (min-width: 901px) {
+  footer {
+    border-top: none;
+  }
+
+  footer > div {
+    border-top: 1px solid #888;
+    margin: 0 -3em;
+    padding: 1.5em 3em 1em;
+  }
 }
 
 article {
@@ -62,6 +80,56 @@ video {
     float: left;
     margin: 0 1em 1em 0;
   }
+}
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+}
+
+table thead tr {
+  border-bottom: 1px solid gray;
+}
+
+table tbody tr {
+  border-bottom: 1px solid lightgray;
+}
+
+table tbody tr:last-child {
+  border-bottom: none;
+}
+
+table th {
+  text-align: left;
+  padding: 0 1em;
+}
+
+table td {
+  padding: 0.75em 1em;
+}
+
+table th:first-child,
+table td:first-child {
+  padding-left: 0;
+}
+
+table th:last-child,
+table td:last-child {
+  padding-right: 0;
+}
+
+table p {
+  margin: 0;
+}
+
+ul li, ol li {
+  padding-bottom: 0.5em;
 }
 
 

@@ -2,6 +2,10 @@
 layout: layouts/base.njk
 section: awards
 ---
+<nav>
+  <a href="/awards" class="back">← Back</a>
+</nav>
+
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
@@ -12,19 +16,27 @@ section: awards
 {% endif %}
 
 <h2>Recipients</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Year</th>
-      <th>Recipient</th>
-    </tr>
-  </thead>
-  <tbody>
-  {% for recipient in recipients %}
-    <tr>
-      <td>{{ recipient.year }}</td>
-      <td>{{ recipient.recipient | markdownify | safe }}</td>
-    </tr>
-  {% endfor %}
-  </tbody>
-</table>
+<div class="table-container">
+  <table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Recipient</th>
+        <th>Location/Organization</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for recipient in recipients %}
+      <tr>
+        <td>{{ recipient.year }}</td>
+        <td>{{ recipient.recipient | markdownify | safe }}</td>
+        <td>{% if recipient.location_organization %}{{ recipient.location_organization }}{% endif %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<nav>
+  <a href="/awards" class="back">← Back</a>
+</nav>

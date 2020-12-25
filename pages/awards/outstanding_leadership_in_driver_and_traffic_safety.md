@@ -4,7 +4,8 @@ permalink: /awards/outstanding-leadership-in-driver-and-traffic-safety/index.htm
 title: Outstanding Leadership in Driver & Traffic Safety
 recipients:
   - year: 2020
-    recipient: Janice Cowen, Operation Life Saver
+    recipient: Janice Cowen
+    location_organization: Operation Life Saver
   - year: 2016
     recipient: Andy Pilgrim
   - year: 2011

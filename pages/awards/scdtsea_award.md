@@ -12,7 +12,8 @@ criteria: >-
   * Example of professionalism in teaching and living.
 recipients:
   - year: 2020
-    recipient: Tommy Price, Anderson, SC
+    recipient: Tommy Price
+    location_organization: Anderson, SC
   - year: 2019
     recipient: Jerry Lloyd
   - year: 2018

@@ -30,7 +30,8 @@ criteria: >-
   * Joined SCDTSEA and ADTSEA.
 recipients:
   - year: 2020
-    recipient: Nicole McGarity, AAA Carolinas
+    recipient: Nicole McGarity
+    location_organization: AAA Carolinas
   - year: 2015
     recipient: Dr. Christine Beyer
   - year: 2014

@@ -4,7 +4,8 @@ permalink: /awards/driver-education-teacher-of-the-year/index.html
 title: Driver Education Teacher of the Year
 recipients:
   - year: 2020
-    recipient: Ron Lanham, Beaufort High School
+    recipient: Ron Lanham
+    location_organization: Beaufort High School
   - year: 2019
     recipient: Robert Suggs
   - year: 2018
