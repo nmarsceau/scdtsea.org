@@ -104,13 +104,15 @@ for (let i = 0; i < forms.length; i++) {
 }
 
 document.addEventListener('blur', function(event) {
-    if (!event.target.form.classList.contains('validate')) return;
-    if (event.target.type !== 'file') {
-        event.target.value = event.target.value.trim();
+    if ('form' in event.target) {
+        if (!event.target.form.classList.contains('validate')) return;
+        if (event.target.type !== 'file') {
+            event.target.value = event.target.value.trim();
+        }
+        const error = field_has_error(event.target);
+        if (error === null) {remove_error(event.target);}
+        else {show_error(event.target, error);}
     }
-    const error = field_has_error(event.target);
-    if (error === null) {remove_error(event.target);}
-    else {show_error(event.target, error);}
 }, true);
 
 document.addEventListener('input', function(event) {

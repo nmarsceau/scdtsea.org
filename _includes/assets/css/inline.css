@@ -163,11 +163,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 1em 0 0.5em;
+  margin: 1.5em 0 0.25em;
 }
 
 p {
   line-height: 1.5;
+  margin-top: 0;
 }
 
 li {
@@ -186,6 +187,12 @@ a:not(:hover) {
 
 img.border {
   border: 2px solid #777;
+}
+
+form.border {
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 0 1em 1em;
 }
 
 
@@ -376,7 +383,7 @@ button.blue:hover {
 /* Posts List */
 .posts-list article h2 {
   margin-bottom: 0;
-  font-weight: 450;
+  font-weight: 400;
 }
 
 .posts-list article p {
@@ -498,7 +505,7 @@ a[rel="tag"]:last-child {
 }
 
 .social-links {
-  margin: -0.6em 0 0;
+  margin: -0.2em 0 0;
 }
 
 .social-links a {

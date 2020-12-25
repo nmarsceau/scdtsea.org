@@ -23,4 +23,4 @@ Due West, SC 29639
   <a href="https://twitter.com/realscdtsea"><img src="/_includes/assets/img/Twitter_Logo_Blue.png" alt="Twitter" /></a>
 </div>
 
-## Send Us an Email
+## Email
