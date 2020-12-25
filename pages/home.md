@@ -2,15 +2,16 @@
 layout: layouts/home.njk
 title: Home | SCDTSEA
 permalink: /
-body: >-
+mission: >-
   # SCDTSEA
 
   ## Our Mission
 
   is to support and advance traffic safety and education among commercial and public driving schools. The members work together to promote solutions and laws related to driver safety and education.
-
-  ![](/static/img/posts/lifetime_service.jpg)
-
+image:
+  url: /static/img/posts/lifetime_service.jpg
+  alt: All three recipients of the lifetime service in driver and traffic safety education award, Harry Stille, Dr. Albert Neal, and Jim Collins
+purpose: >-
   ## Our Purpose
 
   1. Serve as spokesperson for driver & traffic safety education educators in South Carolina
@@ -22,7 +23,7 @@ body: >-
   1. Promote professional excellence along with the basic importance of the safety educator in the learning process.
 
   1. Protect the rights of safety educators and advance their interests and welfare.
-
+letter: >-
   ## Message From The President
 
   Dear Driver & Traffic Safety Education Colleagues,
@@ -54,6 +55,19 @@ body: >-
   *Joe Sabbadino*
   
   *President, SCDTSEA*
-
 ---
-{{ body | safe }}
+<article>
+  {{ mission | markdownify | safe }}
+</article>
+
+<div class="img-container center large float right">
+<img src="{{ image.url }}" alt="{{ image.alt }}" class="border" />
+</div>
+
+<article>
+  {{ purpose | markdownify | safe }}
+</article>
+
+<article>
+  {{ letter | markdownify | safe }}
+</article>

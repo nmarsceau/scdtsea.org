@@ -13,10 +13,10 @@ section: board
 <article>
   <p><em>{{ position }}</em></p>
 			
-  <div>
-    <img src="{{ image }}" alt="{{ title }}" class="board-bio-image" />
-    {{ bio | markdownify | safe }}
+  <div class="img-container medium float left">
+    <img src="{{ image }}" alt="{{ title }}" class="border" />
   </div>
+  {{ bio | markdownify | safe }}
 </article>
 
 <nav>
