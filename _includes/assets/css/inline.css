@@ -185,7 +185,7 @@ a:not(:hover) {
 	text-decoration: none;
 }
 
-img.border {
+.border {
   border: 2px solid #777;
 }
 
@@ -416,7 +416,7 @@ a[rel="tag"]:hover {
 	color: #009157;
 }
 
-a[rel="tag"]:first-of-type {
+.posts-list a[rel="tag"]:first-of-type {
   margin-left: 1em;
 }
 
@@ -444,6 +444,7 @@ a[rel="tag"]:last-child {
 .pagination li {
   display: flex;
   list-style-type: none;
+  padding-bottom: 0;
 }
 
 .pagination a {

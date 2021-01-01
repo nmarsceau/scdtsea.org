@@ -10,6 +10,9 @@
   <link rel="apple-touch-icon" href="/static/img/favicon/favicon-152.png" sizes="152x152" />
   <link rel="apple-touch-icon" href="/static/img/favicon/favicon-167.png" sizes="167x167" />
   <link rel="apple-touch-icon" href="/static/img/favicon/favicon-180.png" sizes="180x180" />
+  {% if containsGallery %}
+  <link rel="stylesheet" href="/_includes/assets/css/slider.css" type="text/css" />
+  {% endif %}
   <link rel="stylesheet" media="print" href="/_includes/assets/css/extra.css" onload="this.media='all'" />
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}

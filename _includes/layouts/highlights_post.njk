@@ -1,0 +1,94 @@
+---
+layout: layouts/base.njk
+section: post
+containsGallery: true
+---
+<nav>
+  <a href="/news" class="back">← Back</a>
+</nav>
+
+<article>
+  <h1>{{ title | safe }}</h1>
+  <p>
+    <small>
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+    </small>
+  </p>
+
+  {% if gallery %}
+  <section class="slider-wrapper">
+    <div class="slider">
+      {% for image in gallery %}
+        <figure class="slider-item">
+            <picture>
+              <img type="image/jpeg" src="{{ image.url }}" alt="{{ image.alt }}" class="border" />
+          </picture>
+        </figure>
+      {% endfor %}
+      <nav class="slider-nav">
+        <button class="previous-slide" aria-label="Previous Slide">&lang;</button>
+        <button class="next-slide" aria-label="Next Slide">&rang;</button>
+      </nav>
+    </div>
+  </section>
+  {% endif %}
+
+  {{ layoutContent | safe }}
+
+  {% if award_winners %}
+  <section class="award-winners">
+    <h3>{{ year }} Award Winners</h3>
+    {% if award_sponsor %}<p><em>Sponsored by {{ award_sponsor }}</em></p>{% endif %}
+    {% for award_winner in award_winners %}
+      <h4>{{ award_winner.award_name }}</h4>
+      {% if award_winner.sponsor %}<p><em>Sponsored by {{ award_winner.sponsor }}</em></p>{% endif %}
+      {% if award_winner.images %}
+        {% for image in award_winner.images %}
+          <picture>
+            <img type="image/jpeg" src="{{ image.url }}" alt="{{ image.alt }}" class="border" />
+          </picture>
+          <br>
+        {% endfor %}
+      {% endif %}
+      {% if award_winner.winner %}
+      <p><em>{{ award_winner.winner }}</em></p>
+      {% endif %}
+      {% if award_winner.poster_winners %}
+      <table style="margin-top: 2em;">
+        <thead>
+          <tr>
+            <th>Place</th>
+            <th>Winner</th>
+            <th>Driving School</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for winner in award_winner.poster_winners %}
+          <tr>
+            <td>{{ winner.place }}</td>
+            <td>{{ winner.name }}</td>
+            <td>{{ winner.school }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if tags %}
+  <p>
+  {% for tag in tags %}
+    {%- if tag != "post" -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+      <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+    {%- endif -%}
+  {% endfor %}
+  </p>
+  {% endif %}
+</article>
+
+<nav>
+  <a href="/news" class="back">← Back</a>
+</nav>
