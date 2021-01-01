@@ -5,6 +5,7 @@ title: Friends of Driver & Traffic Safety Education
 recipients:
   - year: 2015
     recipient: Sarah Clem
+    location_organization: State Farm Safety Projects
   - year: 2011
     recipient: Dr. Christine Beyer
   - year: 2010

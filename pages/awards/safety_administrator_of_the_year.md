@@ -5,4 +5,5 @@ title: Safety Administrator of the Year
 recipients:
   - year: 2017
     recipient: Cindy L. Hutto
+    location_organization: Master Examiner, SCDMV
 ---

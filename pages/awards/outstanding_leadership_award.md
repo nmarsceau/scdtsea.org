@@ -5,4 +5,5 @@ title: Outstanding Leadership Award
 recipients:
   - year: 2018
     recipient: Richard Chidester
+    location_organization: AAA
 ---

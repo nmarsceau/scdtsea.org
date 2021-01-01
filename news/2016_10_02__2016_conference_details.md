@@ -32,6 +32,6 @@ The 2016 SCDTSEA Conference will be held on Friday, November 18, 2016 in Blythew
 |11:40 - 12:20 p.m.|Role of SC Transport Police Regarding Commercial Vehicles<br>*Lieutenant Roy Cloud/Corporal Cato, SC Department of Transport Police*|
 |12:20 - 1:00|Realities of Driving on the Highway Transportation System (HTS)<br>*Mr. Andy Pilgrim, Expert Driver Trainer*|
 |1:00 - 2:00|Lunch, Visit exhibits and check door prizes booth|
-|2:00 - 2:15|Poster Contest Results<br>*Mrs. Janice Cowen, State Coordinator, Operation Life Saver*<br>*Mr. Eric Robertson, Vendor/Exhibitor, Greenfield, IN*|
+|2:00 - 2:15|Poster Contest Results<br>*Mrs. Janice Cowen, State Coordinator, Operation Lifesaver*<br>*Mr. Eric Robertson, Vendor/Exhibitor, Greenfield, IN*|
 |2:15 - 2:30|Business Meeting, part 2<br>*Secretary's Report: Mr. Jerry Lloyd, Secretary*<br>*Treasurer's Report: Dr. Harry Stille, Treasurer*|
 |2:30 - 2:40|Closing Remarks<br>*President, Mr. David Smith*<br>*President-Elect, Mr. Andrew Johnson*|

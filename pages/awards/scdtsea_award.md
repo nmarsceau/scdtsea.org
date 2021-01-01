@@ -16,10 +16,14 @@ recipients:
     location_organization: Anderson, SC
   - year: 2019
     recipient: Jerry Lloyd
+    location_organization: Secretary, SCDTSEA
   - year: 2018
     recipient: Janice Cowen
+    location_organization: Operation Lifesaver
   - year: 2016
     recipient: Joe Sabbadino
+    location_organization: Sabbadino Diving School
   - year: 2015
     recipient: David Smith
+    location_organization: Mid Carolina High School
 ---

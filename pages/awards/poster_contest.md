@@ -17,67 +17,67 @@ criteria: >-
 recipients:
   - year: 2020
     recipient: >-
-      **1st Place**: Owen Nigh, Sabbadino Driving School
+      **1st Place**: Owen Nigh, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Sophia Gray, Sabbadino Driving School
+      **2nd Place**: Sophia Gray, Sabbadino Driving School LLC, Taylors
 
-      **3rd Place**: Anngel Tomlin, Hopkins, SC
+      **3rd Place**: Anngel Tomlin, Hopkins
   - year: 2019
     recipient: >-
-      **1st Place**: Claire Swartz
+      **1st Place**: Claire Swartz, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Noelani Gamble
+      **2nd Place**: Noelani Gamble, Lower Richland High School
 
-      **3rd Place**: Zyoria Adams
+      **3rd Place**: Zyoria Adams, A&R Driving School
 
-      **Honorable Mention**: Barry Fogle
+      **Honorable Mention**: Barry Fogle, A&R Driving School
   - year: 2018
     recipient: >-
-      **1st Place**: Jocelyn Brazeal
+      **1st Place**: Jocelyn Brazeal, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Hannah Terrell
+      **2nd Place**: Hannah Terrell, Sabbadino Driving School LLC, Taylors
 
       **3rd Place**:
   - year: 2017
     recipient: >-
-      **1st Place**: Emily Smith
+      **1st Place**: Emily Smith, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Leah Buffalino
+      **2nd Place**: Leah Buffalino, Sabbadino Driving School LLC, Taylors
 
-      **3rd Place**: Emma Fordham
+      **3rd Place**: Emma Fordham, Sabbadino Driving School LLC, Taylors
   - year: 2016
     recipient: >-
-      **1st Place**: Hannah Lovegrove
+      **1st Place**: Hannah Lovegrove, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Sneh George
+      **2nd Place**: Sneh George, Sabbadino Driving School LLC, Taylors
 
-      **3rd Place**: Lydia Sutton
+      **3rd Place**: Lydia Sutton, Clover High School
   - year: 2015
     recipient: >-
-      **1st Place**: Judah Smith
+      **1st Place**: Judah Smith, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Kylie Watts
+      **2nd Place**: Kylie Watts, Sabbadino Driving School LLC, Taylors
 
-      **3rd Place**: Joseph Calamia
+      **3rd Place**: Joseph Calamia, Sabbadino Driving School LLC, Taylors
   - year: 2014
     recipient: >-
-      **1st Place**: Jake Dorrah
+      **1st Place**: Jake Dorrah, Mid-Carolina High School, Newberry
 
-      **2nd Place**: Daniel Smitley
+      **2nd Place**: Daniel Smitley, Sabbadino Driving School LLC, Taylors
 
-      **3rd Place**: Elizabeth West
+      **3rd Place**: Elizabeth West, Sabbadino Driving School LLC, Taylors
   - year: 2013
     recipient: >-
-      **1st Place**: Desir'e Wood
+      **1st Place**: Desir'e Wood, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Sarah Anderson
+      **2nd Place**: Sarah Anderson, Sabbadino Driving School LLC, Taylors
 
       **3rd Place**: Brandon Rhodes
   - year: 2012
     recipient: >-
-      **1st Place**: Amanda Sweeting
+      **1st Place**: Amanda Sweeting, Sabbadino Driving School LLC, Taylors
 
-      **2nd Place**: Lauren McClellan
+      **2nd Place**: Lauren McClellan, Sabbadino Driving School LLC, Taylors
 
-      **3rd Place**: Katherine West
+      **3rd Place**: Katherine West, Sabbadino Driving School LLC, Taylors
 ---

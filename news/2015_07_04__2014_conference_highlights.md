@@ -10,7 +10,7 @@ award_winners:
   - award_name: Commercial Driving School of the Year
     winner: Hayden's Driving Academy, Cordova
   - award_name: Commercial Driving School Teacher of the Year
-    winner: Mr. Dan Marsceau, AutoSafe Driving School, Greenville
+    winner: Mr. Dan Marsceau, Auto-Safe Driving School, Greenville
   - award_name: Driver Education Teacher of the Year
     winner: Mr. Joe Graham, Wilson High School, Florence
   - award_name: Administrator of the Year

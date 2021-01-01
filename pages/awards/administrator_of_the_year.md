@@ -34,8 +34,10 @@ recipients:
     location_organization: AAA Carolinas
   - year: 2015
     recipient: Dr. Christine Beyer
+    location_organization: Driver Education Consultant to the SC Department of Education
   - year: 2014
     recipient: Colonel Kevin Shwedo
+    location_organization: SCDMV Executive Director
   - year: 2013
     recipient: Ray Cooper
   - year: 2011

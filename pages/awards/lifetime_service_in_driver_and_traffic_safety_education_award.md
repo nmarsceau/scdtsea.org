@@ -5,6 +5,7 @@ title: Lifetime Service in Driver and Traffic Safety Education
 recipients:
   - year: 2016
     recipient: Jim Collins
+    location_organization: Auto-Safe Driving School
   - year: 2013
     recipient: Dr. Albert Neal
   - year: 2012

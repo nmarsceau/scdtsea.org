@@ -6,7 +6,7 @@ bio: >-
   Twitter: [@lfc26](https://twitter.com/lfc26)
 
 
-  Lance Collins started working at Auto Safe Driving School teaching in the classroom in 2003. In 2005 he started teaching behind the wheel as well as in the classroom. In 2013 Lance became a safety officer for road tests and became the Operations Manager at Auto Safe. His duties at this time include teaching BTW and classroom, managing the office and instructor staff, and solving any IT issues that arise.
+  Lance Collins started working at Auto-Safe Driving School teaching in the classroom in 2003. In 2005 he started teaching behind the wheel as well as in the classroom. In 2013 Lance became a safety officer for road tests and became the Operations Manager at Auto-Safe. His duties at this time include teaching BTW and classroom, managing the office and instructor staff, and solving any IT issues that arise.
 
 
   Lance has been married to Elisabeth Sheys Collins since 2005. They have four kids: James, Piper, Zoë, and Avery. When he is not working, he is usually spending time with them and keeping things under control on the homefront. Lance likes to follow consumer technology through YouTube and different tech blogs.

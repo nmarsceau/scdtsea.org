@@ -22,13 +22,15 @@ recipients:
   - year: 2018
     recipient: Mr. Mike's Driving School
   - year: 2017
-    recipient: Auto Safe Driving School
+    recipient: Auto-Safe Driving School
+    location_organization: Greenville
   - year: 2016
     recipient: Union County Driver Academy
   - year: 2015
     recipient: Budget Driving School
   - year: 2014
     recipient: Hayden's Driving Academy
+    location_organization: Cordova
   - year: 2013
     recipient: 123 Driving Academy
   - year: 2012

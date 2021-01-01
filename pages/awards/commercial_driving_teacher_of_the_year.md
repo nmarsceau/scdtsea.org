@@ -29,19 +29,25 @@ criteria: >-
 recipients:
   - year: 2020
     recipient: Lance Collins
-    location_organization: Auto Safe Driving School
+    location_organization: Auto-Safe Driving School, Greenville
   - year: 2019
     recipient: Susan Baldwin
+    location_organization: Baldwin Driver Training
   - year: 2018
     recipient: Tina Dodd
+    location_organization: Drive Alert Academy
   - year: 2017
     recipient: Barry Avant
+    location_organization: Coaches Driving Academy, Moncks Corner
   - year: 2016
     recipient: Ed Ables
+    location_organization: Ables Driving School
   - year: 2015
     recipient: Joe Sabbadino
+    location_organization: Sabbadino Driving School
   - year: 2014
     recipient: Dan Marsceau
+    location_organization: Auto-Safe Driving School, Greenville
   - year: 2013
     recipient: John Pappas
   - year: 2012

@@ -8,16 +8,22 @@ recipients:
     location_organization: Beaufort High School
   - year: 2019
     recipient: Robert Suggs
+    location_organization: West Florence High School
   - year: 2018
     recipient: Donald Addis
+    location_organization: Whitmire Highschool
   - year: 2017
     recipient: Kevin Carr
+    location_organization: Chapman High School, Spartanburg
   - year: 2016
     recipient: Don Cribbs
+    location_organization: Latta High School
   - year: 2015
     recipient: Robbie Wiggins
+    location_organization: Clover High School
   - year: 2014
     recipient: Joe Graham
+    location_organization: Wilson High School, Florence
   - year: 2013
     recipient: Brian Hennecy
   - year: 2012

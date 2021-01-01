@@ -5,4 +5,5 @@ title: Harry Stille Award
 recipients:
   - year: 2020
     recipient: Joe Sabbadino
+    location_organization: President, SCDTSEA
 ---

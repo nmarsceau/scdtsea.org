@@ -48,10 +48,10 @@ award_winners:
       - url: /static/img/awards/2017/barry_avant.jpg
         alt: Barry Avant
   - award_name: Commercial Driving School of the Year
-    winner: Auto Safe Driving School, Lance F. Collins, Owner/VP of Operations
+    winner: Auto-Safe Driving School, Lance F. Collins, Owner/VP of Operations
     images:
       - url: /static/img/awards/2017/autosafe_driving_school.jpg
-        alt: Auto Safe Driving School
+        alt: Auto-Safe Driving School
   - award_name: Safety Administrator of the Year
     winner: Cindy L. Hutto, Master Examiner, SCDMV
     images:

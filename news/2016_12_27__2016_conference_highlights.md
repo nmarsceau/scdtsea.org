@@ -16,9 +16,9 @@ gallery:
   - url: /static/img/slideshow/2016/4.jpg
     alt: A conference exhibit
   - url: /static/img/slideshow/2016/5.jpg
-    alt: Janice Cowen with Operation Life Savers, promoting railroad safety
+    alt: Janice Cowen with Operation Lifesaver, promoting railroad safety
   - url: /static/img/slideshow/2016/6.jpg
-    alt: Janice Cowen with Operation Life Savers, promoting railroad safety
+    alt: Janice Cowen with Operation Lifesaver, promoting railroad safety
   - url: /static/img/slideshow/2016/7.jpg
     alt: David Smith, President, introducing the conference
   - url: /static/img/slideshow/2016/8.jpg
