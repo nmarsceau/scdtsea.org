@@ -1,7 +1,9 @@
 ---
 title: Kevin Carr
 position: Board Member
-image: /static/img/board/kevin_carr.jpg
+image:
+  jpg: /static/img/board/kevin_carr.jpg
+  webp: /static/img/board/kevin_carr.webp
 bio: >-
   I am a graduate of USC-Upstate with a BS in Physical Education. I received A Masters in Sports Administration from the United States Sports Academy and my 30 hours above from the University of LaVerne. I completed course work to become certified in Driver’s Education from Erskine.
 

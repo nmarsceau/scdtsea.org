@@ -7,7 +7,12 @@ tags:
   - announcements
   - information
 ---
-![Dr. Harry Stille](/static/img/posts/harry_stille.jpg)
+{% assign jpg = "/static/img/posts/harry_stille.jpg" %}
+{% assign webp = "/static/img/posts/harry_stille.webp" %}
+{% assign alt = "Dr. Harry Stille" %}
+{% assign container_class = "" %}
+{% assign img_class = "border" %}
+{% include components/picture.njk %}
 
 Dear Colleagues,
 

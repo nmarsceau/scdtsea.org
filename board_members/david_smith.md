@@ -1,7 +1,9 @@
 ---
 title: David Smith
 position: President-Elect
-image: /static/img/board/david_smith.jpg
+image:
+  jpg: /static/img/board/david_smith.jpg
+  webp: /static/img/board/david_smith.webp
 bio: >-
   Twitter: [@wolfman1014](https://twitter.com/Wolfman1014)
 

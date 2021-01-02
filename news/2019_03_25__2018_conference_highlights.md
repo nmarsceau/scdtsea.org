@@ -7,75 +7,93 @@ tags:
   - information
 year: 2018
 gallery:
-  - url: /static/img/slideshow/2018/1.jpg
+  - jpg: /static/img/slideshow/2018/1.jpg
+    webp: /static/img/slideshow/2018/1.webp
     alt: President, Andrew Johnson
-  - url: /static/img/slideshow/2018/2.jpg
+  - jpg: /static/img/slideshow/2018/2.jpg
+    webp: /static/img/slideshow/2018/2.webp
     alt: President-Elect, Joe Sabbadino
-  - url: /static/img/slideshow/2018/3.jpg
+  - jpg: /static/img/slideshow/2018/3.jpg
+    webp: /static/img/slideshow/2018/3.webp
     alt: Andy Pilgrim
-  - url: /static/img/slideshow/2018/4.jpg
+  - jpg: /static/img/slideshow/2018/4.jpg
+    webp: /static/img/slideshow/2018/4.webp
     alt: Bill Rhyne
-  - url: /static/img/slideshow/2018/5.jpg
+  - jpg: /static/img/slideshow/2018/5.jpg
+    webp: /static/img/slideshow/2018/5.webp
     alt: Melissa Reck
-  - url: /static/img/slideshow/2018/6.jpg
+  - jpg: /static/img/slideshow/2018/6.jpg
+    webp: /static/img/slideshow/2018/6.webp
     alt: Rick Todd
-  - url: /static/img/slideshow/2018/7.jpg
+  - jpg: /static/img/slideshow/2018/7.jpg
+    webp: /static/img/slideshow/2018/7.webp
     alt: Richard Chidester
 award_winners:
   - award_name: ADTSEA Curriculum Winner
     winner: ADTSEA Curriculum Winner
     images:
-      - url: /static/img/awards/2018/adtsea_curriculum_winner.jpg
+      - jpg: /static/img/awards/2018/adtsea_curriculum_winner.jpg
+        webp: /static/img/awards/2018/adtsea_curriculum_winner.webp
         alt: ADTSEA Curriculum Winner
   - award_name: Commercial Driver Teacher of the Year
     winner: Tina Dodd, Drive Alert Academy
     images:
-      - url: /static/img/awards/2018/tina_dodd.jpg
+      - jpg: /static/img/awards/2018/tina_dodd.jpg
+        webp: /static/img/awards/2018/tina_dodd.webp
         alt: Tina Dodd
   - award_name: Commercial Driving School of the Year
     winner: Mr. Mike's Driving School
     images:
-      - url: /static/img/awards/2018/mr_mikes_driving_school.jpg
+      - jpg: /static/img/awards/2018/mr_mikes_driving_school.jpg
+        webp: /static/img/awards/2018/mr_mikes_driving_school.webp
         alt: Mr. Mike's Driving School
   - award_name: Traffic Safety Officer of the Year
     winner: Lance Corporal Joe Hovis, SCHP
     images:
-      - url: /static/img/awards/2018/joe_hovis.jpg
+      - jpg: /static/img/awards/2018/joe_hovis.jpg
+        webp: /static/img/awards/2018/joe_hovis.webp
         alt: Joe Hovis
   - award_name: Driver Education Teacher of the Year
     winner: Donald Addis, Whitmire Highschool
     images:
-      - url: /static/img/awards/2018/donald_addis.jpg
+      - jpg: /static/img/awards/2018/donald_addis.jpg
+        webp: /static/img/awards/2018/donald_addis.webp
         alt: Donald Addis
   - award_name: Award of Appreciation
     winner: Colonel Kevin Shwedo, Director, SCDMV
     images:
-      - url: /static/img/awards/2018/kevin_shwedo.jpg
+      - jpg: /static/img/awards/2018/kevin_shwedo.jpg
+        webp: /static/img/awards/2018/kevin_shwedo.webp
         alt: Kevin Shwedo
   - award_name: Award of Appreciation
     winner: Julie Sabbadino
     images:
-      - url: /static/img/awards/2018/julie_sabbadino.jpg
+      - jpg: /static/img/awards/2018/julie_sabbadino.jpg
+        webp: /static/img/awards/2018/julie_sabbadino.webp
         alt: Julie Sabbadino
   - award_name: Award of Appreciation
     winner: Lester Johnson
     images:
-      - url: /static/img/awards/2018/lester_johnson.jpg
+      - jpg: /static/img/awards/2018/lester_johnson.jpg
+        webp: /static/img/awards/2018/lester_johnson.webp
         alt: Lester Johnson
   - award_name: Friend of SCDTSEA
     winner: Rick Todd, SCTA
     images:
-      - url: /static/img/awards/2018/rick_todd.jpg
+      - jpg: /static/img/awards/2018/rick_todd.jpg
+        webp: /static/img/awards/2018/rick_todd.webp
         alt: Rick Todd
   - award_name: Outstanding Leadership Award
     winner: Richard Chidester, AAA
     images:
-      - url: /static/img/awards/2018/richard_chidester.jpg
+      - jpg: /static/img/awards/2018/richard_chidester.jpg
+        webp: /static/img/awards/2018/richard_chidester.webp
         alt: Richard Chidester
   - award_name: SCDTSEA Award
     winner: Janice Cowen
     images:
-      - url: /static/img/awards/2018/janice_cowen.jpg
+      - jpg: /static/img/awards/2018/janice_cowen.jpg
+        webp: /static/img/awards/2018/janice_cowen.webp
         alt: Janice Cowen
   - award_name: Poster Contest
     poster_winners:
@@ -89,14 +107,19 @@ award_winners:
         name:
         school:
     images:
-      - url: /static/img/awards/2018/poster_contest_1.jpg
+      - jpg: /static/img/awards/2018/poster_contest_1.jpg
+        webp: /static/img/awards/2018/poster_contest_1.webp
         alt: Poster contest winner, Jocelyn Brazeal
-      - url: /static/img/awards/2018/poster_contest_2.jpg
+      - jpg: /static/img/awards/2018/poster_contest_2.jpg
+        webp: /static/img/awards/2018/poster_contest_2.webp
         alt: Poster contest
-      - url: /static/img/awards/2018/poster_contest_3.jpg
+      - jpg: /static/img/awards/2018/poster_contest_3.jpg
+        webp: /static/img/awards/2018/poster_contest_3.webp
         alt: Poster contest
-      - url: /static/img/awards/2018/poster_contest_4.jpg
+      - jpg: /static/img/awards/2018/poster_contest_4.jpg
+        webp: /static/img/awards/2018/poster_contest_4.webp
         alt: Poster contest
-      - url: /static/img/awards/2018/poster_contest_5.jpg
+      - jpg: /static/img/awards/2018/poster_contest_5.jpg
+        webp: /static/img/awards/2018/poster_contest_5.webp
         alt: Poster contest
 ---

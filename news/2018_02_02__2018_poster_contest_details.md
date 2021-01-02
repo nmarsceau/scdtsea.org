@@ -40,4 +40,9 @@ Best regards,
 
 See below for poster contest details
 
-![2018 Poster Contest Details](/static/img/posts/2018_poster_contest_details.jpg)
+{% assign jpg = "/static/img/posts/2018_poster_contest_details.jpg" %}
+{% assign webp = "/static/img/posts/2018_poster_contest_details.webp" %}
+{% assign alt = "2018 Poster Contest Details" %}
+{% assign container_class = "" %}
+{% assign img_class = "border" %}
+{% include components/picture.njk %}

@@ -7,65 +7,87 @@ tags:
   - information
 year: 2017
 gallery:
-  - url: /static/img/slideshow/2017/1.jpg
+  - jpg: /static/img/slideshow/2017/1.jpg
+    webp: /static/img/slideshow/2017/1.webp
     alt: Conference Attendees
-  - url: /static/img/slideshow/2017/2.jpg
+  - jpg: /static/img/slideshow/2017/2.jpg
+    webp: /static/img/slideshow/2017/2.webp
     alt: Andy Pilgrim
-  - url: /static/img/slideshow/2017/3.jpg
+  - jpg: /static/img/slideshow/2017/3.jpg
+    webp: /static/img/slideshow/2017/3.webp
     alt: Andy Pilgrim
-  - url: /static/img/slideshow/2017/4.jpg
+  - jpg: /static/img/slideshow/2017/4.jpg
+    webp: /static/img/slideshow/2017/4.webp
     alt: Andy Pilgrim's presentation
-  - url: /static/img/slideshow/2017/5.jpg
+  - jpg: /static/img/slideshow/2017/5.jpg
+    webp: /static/img/slideshow/2017/5.webp
     alt: Greg Mangan's presentation
-  - url: /static/img/slideshow/2017/7.jpg
+  - jpg: /static/img/slideshow/2017/7.jpg
+    webp: /static/img/slideshow/2017/7.webp
     alt: Greg Mangan
-  - url: /static/img/slideshow/2017/8.jpg
+  - jpg: /static/img/slideshow/2017/8.jpg
+    webp: /static/img/slideshow/2017/8.webp
     alt: Greg Mangan
-  - url: /static/img/slideshow/2017/9.jpg
+  - jpg: /static/img/slideshow/2017/9.jpg
+    webp: /static/img/slideshow/2017/9.webp
     alt: Bill Rhyne's presentation
-  - url: /static/img/slideshow/2017/10.jpg
+  - jpg: /static/img/slideshow/2017/10.jpg
+    webp: /static/img/slideshow/2017/10.webp
     alt: Bill Rhyne, SCHP
-  - url: /static/img/slideshow/2017/11.jpg
+  - jpg: /static/img/slideshow/2017/11.jpg
+    webp: /static/img/slideshow/2017/11.webp
     alt: Cindy Hutto, Master Examiner, DMV
-  - url: /static/img/slideshow/2017/12.jpg
+  - jpg: /static/img/slideshow/2017/12.jpg
+    webp: /static/img/slideshow/2017/12.webp
     alt: Cindy Hutto
-  - url: /static/img/slideshow/2017/13.jpg
+  - jpg: /static/img/slideshow/2017/13.jpg
+    webp: /static/img/slideshow/2017/13.webp
     alt: Darren Tessitora Drug Free World
-  - url: /static/img/slideshow/2017/14.jpg
+  - jpg: /static/img/slideshow/2017/14.jpg
+    webp: /static/img/slideshow/2017/14.webp
     alt: David Smith, President, SCDTSEA
-  - url: /static/img/slideshow/2017/15.jpg
+  - jpg: /static/img/slideshow/2017/15.jpg
+    webp: /static/img/slideshow/2017/15.webp
     alt: Dr. Albert Neal, Chaplain, SCDTSEA
-  - url: /static/img/slideshow/2017/16.jpg
+  - jpg: /static/img/slideshow/2017/16.jpg
+    webp: /static/img/slideshow/2017/16.webp
     alt: Karl McClary, Inspector General, SCDMV
-  - url: /static/img/slideshow/2017/17.jpg
+  - jpg: /static/img/slideshow/2017/17.jpg
+    webp: /static/img/slideshow/2017/17.webp
     alt: Mike Lally, SC Department of Education
-  - url: /static/img/slideshow/2017/18.jpg
+  - jpg: /static/img/slideshow/2017/18.jpg
+    webp: /static/img/slideshow/2017/18.webp
     alt: Poster Contest
 award_winners:
   - award_name: Commercial Driver Teacher of the Year
     winner: Barry Avant, Coaches Driving Academy, Moncks Corner, SC
     images:
-      - url: /static/img/awards/2017/barry_avant.jpg
+      - jpg: /static/img/awards/2017/barry_avant.jpg
+        webp: /static/img/awards/2017/barry_avant.webp
         alt: Barry Avant
   - award_name: Commercial Driving School of the Year
     winner: Auto-Safe Driving School, Lance F. Collins, Owner/VP of Operations
     images:
-      - url: /static/img/awards/2017/autosafe_driving_school.jpg
+      - jpg: /static/img/awards/2017/autosafe_driving_school.jpg
+        webp: /static/img/awards/2017/autosafe_driving_school.webp
         alt: Auto-Safe Driving School
   - award_name: Safety Administrator of the Year
     winner: Cindy L. Hutto, Master Examiner, SCDMV
     images:
-      - url: /static/img/awards/2017/cindy_hutto.jpg
+      - jpg: /static/img/awards/2017/cindy_hutto.jpg
+        webp: /static/img/awards/2017/cindy_hutto.webp
         alt: Cindy L. Hutto
   - award_name: Traffic Safety Officer of the Year
     winner: Candace Rosado, SCDMV Inspector III, Office of Inspector General
     images:
-      - url: /static/img/awards/2017/candace_rosado.jpg
+      - jpg: /static/img/awards/2017/candace_rosado.jpg
+        webp: /static/img/awards/2017/candace_rosado.webp
         alt: Candace Rosado
   - award_name: Driver Education Teacher of the Year
     winner: Kevin Carr, Chapman High School, Spartanburg, SC
     images:
-      - url: /static/img/awards/2017/kevin_carr.jpg
+      - jpg: /static/img/awards/2017/kevin_carr.jpg
+        webp: /static/img/awards/2017/kevin_carr.webp
         alt: Kevin Carr
   - award_name: Poster Contest
     poster_winners:
@@ -79,6 +101,7 @@ award_winners:
         name: Emma Fordham
         school: Sabbadino Driving School LLC, Taylors
     images:
-      - url: /static/img/awards/2017/poster_contest.jpg
+      - jpg: /static/img/awards/2017/poster_contest.jpg
+        webp: /static/img/awards/2017/poster_contest.webp
         alt: First place poster contest winner
 ---

@@ -5,7 +5,12 @@ read_more: false
 tags:
   - information
 ---
-![SCDTSEA Leadership at ADTSEA Award Banquet](/static/img/posts/ser_adtsea_awards_banquet.jpg)
+{% assign jpg = "/static/img/posts/ser_adtsea_awards_banquet.jpg" %}
+{% assign webp = "/static/img/posts/ser_adtsea_awards_banquet.webp" %}
+{% assign alt = "SCDTSEA Leadership at ADTSEA Award Banquet" %}
+{% assign container_class = "" %}
+{% assign img_class = "" %}
+{% include components/picture.njk %}
 
 From Left to Right:
 

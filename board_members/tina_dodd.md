@@ -1,7 +1,9 @@
 ---
 title: Tina Dodd
 position: Board Member
-image: /static/img/board/tina_dodd.jpg
+image:
+  jpg: /static/img/board/tina_dodd.jpg
+  webp: /static/img/board/tina_dodd.webp
 bio: >-
   Tina Dodd has been a disabled military veteran, former local, state, and federal law enforcement officer who saw too many lives being lost in vehicle collisions.
 

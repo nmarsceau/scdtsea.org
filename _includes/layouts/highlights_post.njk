@@ -20,8 +20,9 @@ containsGallery: true
     <div class="slider">
       {% for image in gallery %}
         <figure class="slider-item">
-            <picture>
-              <img type="image/jpeg" src="{{ image.url }}" alt="{{ image.alt }}" class="border" />
+          <picture>
+            <source type="image/webp" srcset="{{ image.webp }}" />
+            <img type="image/jpeg" src="{{ image.jpg }}" alt="{{ image.alt }}" class="border" />
           </picture>
         </figure>
       {% endfor %}
@@ -45,7 +46,8 @@ containsGallery: true
       {% if award_winner.images %}
         {% for image in award_winner.images %}
           <picture>
-            <img type="image/jpeg" src="{{ image.url }}" alt="{{ image.alt }}" class="border" />
+            <source type="image/webp" srcset="{{ image.webp }}" />
+            <img type="image/jpeg" src="{{ image.jpg }}" alt="{{ image.alt }}" class="border" />
           </picture>
           <br>
         {% endfor %}

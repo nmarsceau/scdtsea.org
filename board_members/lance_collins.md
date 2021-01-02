@@ -1,7 +1,9 @@
 ---
 title: Lance Collins
 position: Website Editor
-image: /static/img/board/lance_collins.jpg
+image:
+  jpg: /static/img/board/lance_collins.jpg
+  webp: /static/img/board/lance_collins.webp
 bio: >-
   Twitter: [@lfc26](https://twitter.com/lfc26)
 

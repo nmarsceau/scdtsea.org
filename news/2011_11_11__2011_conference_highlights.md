@@ -7,26 +7,37 @@ tags:
   - information
 year: 2011
 gallery:
-  - url: /static/img/slideshow/2011/1.jpg
+  - jpg: /static/img/slideshow/2011/1.jpg
+    webp: /static/img/slideshow/2011/1.webp
     alt: A highway patrolman accepts an award
-  - url: /static/img/slideshow/2011/2.jpg
+  - jpg: /static/img/slideshow/2011/2.jpg
+    webp: /static/img/slideshow/2011/2.webp
     alt: A highway patrolman accepts an award
-  - url: /static/img/slideshow/2011/3.jpg
+  - jpg: /static/img/slideshow/2011/3.jpg
+    webp: /static/img/slideshow/2011/3.webp
     alt: One of the conference speakers
-  - url: /static/img/slideshow/2011/4.jpg
+  - jpg: /static/img/slideshow/2011/4.jpg
+    webp: /static/img/slideshow/2011/4.webp
     alt: Some of the conference attendees
-  - url: /static/img/slideshow/2011/5.jpg
+  - jpg: /static/img/slideshow/2011/5.jpg
+    webp: /static/img/slideshow/2011/5.webp
     alt: Andrew Johnson presents an award
-  - url: /static/img/slideshow/2011/6.jpg
+  - jpg: /static/img/slideshow/2011/6.jpg
+    webp: /static/img/slideshow/2011/6.webp
     alt: Dr. Neal presents an award
-  - url: /static/img/slideshow/2011/7.jpg
+  - jpg: /static/img/slideshow/2011/7.jpg
+    webp: /static/img/slideshow/2011/7.webp
     alt: Andrew Johnson presents an award
-  - url: /static/img/slideshow/2011/8.jpg
+  - jpg: /static/img/slideshow/2011/8.jpg
+    webp: /static/img/slideshow/2011/8.webp
     alt: Andrew Johnson presents an award
-  - url: /static/img/slideshow/2011/9.jpg
+  - jpg: /static/img/slideshow/2011/9.jpg
+    webp: /static/img/slideshow/2011/9.webp
     alt: Andrew Johnson presents an award to Joe Sabbadino
-  - url: /static/img/slideshow/2011/10.jpg
+  - jpg: /static/img/slideshow/2011/10.jpg
+    webp: /static/img/slideshow/2011/10.webp
     alt: Bob and Deb Hartness accept an award
-  - url: /static/img/slideshow/2011/11.jpg
+  - jpg: /static/img/slideshow/2011/11.jpg
+    webp: /static/img/slideshow/2011/11.webp
     alt: Andrew Johnson presents an award
 ---

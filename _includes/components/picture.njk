@@ -1,0 +1,6 @@
+<div class="img-container {% if container_class %}{{ container_class }}{% endif %}">
+  <picture>
+    <source type="image/webp" srcset="{{ webp }}" />
+    <img type="image/jpeg" src="{{ jpg }}" alt="{{ alt }}" class="{% if img_class %}{{ img_class }}{% endif %}" />
+  </picture>
+</div>

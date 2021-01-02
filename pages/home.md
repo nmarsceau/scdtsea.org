@@ -1,5 +1,5 @@
 ---
-layout: layouts/home.njk
+layout: layouts/base.njk
 title: Home | SCDTSEA
 permalink: /
 mission: >-
@@ -9,7 +9,8 @@ mission: >-
 
   is to support and advance traffic safety and education among commercial and public driving schools. The members work together to promote solutions and laws related to driver safety and education.
 image:
-  url: /static/img/posts/lifetime_service.jpg
+  jpg: /static/img/posts/lifetime_service.jpg
+  webp: /static/img/posts/lifetime_service.webp
   alt: All three recipients of the lifetime service in driver and traffic safety education award, Harry Stille, Dr. Albert Neal, and Jim Collins
 purpose: >-
   ## Our Purpose
@@ -60,8 +61,11 @@ letter: >-
   {{ mission | markdownify | safe }}
 </article>
 
-<div class="img-container center large float right">
-<img src="{{ image.url }}" alt="{{ image.alt }}" class="border" />
+<div class="img-container center large float-right">
+  <picture>
+    <source type="image/webp" srcset="{{ image.webp }}" />
+    <img type="image/jpeg" src="{{ image.jpg }}" alt="{{ image.alt }}" class="border" />
+  </picture>
 </div>
 
 <article>

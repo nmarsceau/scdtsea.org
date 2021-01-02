@@ -1,7 +1,9 @@
 ---
 title: Joe Sabbadino
 position: President
-image: /static/img/board/joe_sabbadino.jpg
+image:
+  jpg: /static/img/board/joe_sabbadino.jpg
+  webp: /static/img/board/joe_sabbadino.webp
 bio: >-
   I earned a BA and served as a GA in Physical Education at Bob Jones
   University. I then received my MA in Secondary Driver & Traffic Safety

@@ -1,7 +1,9 @@
 ---
 title: Dr. Albert Neal
 position: Chaplain
-image: /static/img/board/albert_neal.jpg
+image:
+  jpg: /static/img/board/albert_neal.jpg
+  webp: /static/img/board/albert_neal.webp
 bio: >-
   Albert A. Neal was born in Camden, SC lived in Kershaw, graduated from C.A. Johnson High School and received his B.S. degree from Benedict College. He earned the M.Ed., from South Carolina State University, and received his B.D., degree from the Theological Seminary of Florida State Christian University. He was granted an honorary D.D., degree from California Pacific University, and awarded the Ph.D., degree in Religion from the University Life Monarch, Modesto, California. He completed the Ed.S. degree at the University of South Carolina. On May 21, 1987, he satisfactorily completed his first Extended Unit of Clinical Pastoral Education at Richland Memorial Hospital. He earned the M.Div. degree from the Lutheran Theological Southern Seminary, and earned his Ed.D. in Health Education Administration from the University of South Carolina.
 

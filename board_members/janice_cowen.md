@@ -1,7 +1,9 @@
 ---
 title: Janice Cowen
 position: Historian
-image: /static/img/board/janice_cowen.jpg
+image:
+  jpg: /static/img/board/janice_cowen.jpg
+  webp: /static/img/board/janice_cowen.webp
 bio: >-
   Janice Cowen has dedicated her career to Operation Lifesaver and rail safety initiatives. She has enthusiastically served as State Coordinator for South Carolina Operation Lifesaver since 1991. Janice oversaw the National Advisory Council as Chairwoman and served on the national Operation Lifesaver, Inc. (OLI) Board of Directors for 6 years, ending in 2016. She is currently the Federal Railroad Administration Region 3 Representative on the National Advisory Council representing eight states in the Southeast and is the Senior Regional Representative liaison to OLI staff.
 

@@ -7,100 +7,135 @@ tags:
   - information
 year: 2016
 gallery:
-  - url: /static/img/slideshow/2016/1.jpg
+  - jpg: /static/img/slideshow/2016/1.jpg
+    webp: /static/img/slideshow/2016/1.webp
     alt: Historian Steve Phillips speaking to a conference attendee
-  - url: /static/img/slideshow/2016/2.jpg
+  - jpg: /static/img/slideshow/2016/2.jpg
+    webp: /static/img/slideshow/2016/2.webp
     alt: A conference attendee
-  - url: /static/img/slideshow/2016/3.jpg
+  - jpg: /static/img/slideshow/2016/3.jpg
+    webp: /static/img/slideshow/2016/3.webp
     alt: Conference attendees
-  - url: /static/img/slideshow/2016/4.jpg
+  - jpg: /static/img/slideshow/2016/4.jpg
+    webp: /static/img/slideshow/2016/4.webp
     alt: A conference exhibit
-  - url: /static/img/slideshow/2016/5.jpg
+  - jpg: /static/img/slideshow/2016/5.jpg
+    webp: /static/img/slideshow/2016/5.webp
     alt: Janice Cowen with Operation Lifesaver, promoting railroad safety
-  - url: /static/img/slideshow/2016/6.jpg
+  - jpg: /static/img/slideshow/2016/6.jpg
+    webp: /static/img/slideshow/2016/6.webp
     alt: Janice Cowen with Operation Lifesaver, promoting railroad safety
-  - url: /static/img/slideshow/2016/7.jpg
+  - jpg: /static/img/slideshow/2016/7.jpg
+    webp: /static/img/slideshow/2016/7.webp
     alt: David Smith, President, introducing the conference
-  - url: /static/img/slideshow/2016/8.jpg
+  - jpg: /static/img/slideshow/2016/8.jpg
+    webp: /static/img/slideshow/2016/8.webp
     alt: Captain Karl McKlary, Inspector General, SCDMV, opens our conference
-  - url: /static/img/slideshow/2016/9.jpg
+  - jpg: /static/img/slideshow/2016/9.jpg
+    webp: /static/img/slideshow/2016/9.webp
     alt: Lance Collins leads the pledge of allegiance.
-  - url: /static/img/slideshow/2016/10.jpg
+  - jpg: /static/img/slideshow/2016/10.jpg
+    webp: /static/img/slideshow/2016/10.webp
     alt: Lance Collins, Web Editor, giving a state of SCDTSEA on the web
-  - url: /static/img/slideshow/2016/11.jpg
+  - jpg: /static/img/slideshow/2016/11.jpg
+    webp: /static/img/slideshow/2016/11.webp
     alt: Albert Smith, Chaplain, giving the Invocation
-  - url: /static/img/slideshow/2016/12.jpg
+  - jpg: /static/img/slideshow/2016/12.jpg
+    webp: /static/img/slideshow/2016/12.webp
     alt: Andy Pilgrim
-  - url: /static/img/slideshow/2016/13.jpg
+  - jpg: /static/img/slideshow/2016/13.jpg
+    webp: /static/img/slideshow/2016/13.webp
     alt: Andy Pilgrim
-  - url: /static/img/slideshow/2016/14.jpg
+  - jpg: /static/img/slideshow/2016/14.jpg
+    webp: /static/img/slideshow/2016/14.webp
     alt: Dr. Harry Stille's presentation
-  - url: /static/img/slideshow/2016/15.jpg
+  - jpg: /static/img/slideshow/2016/15.jpg
+    webp: /static/img/slideshow/2016/15.webp
     alt: Bill Rhyne's presentation
-  - url: /static/img/slideshow/2016/16.jpg
+  - jpg: /static/img/slideshow/2016/16.jpg
+    webp: /static/img/slideshow/2016/16.webp
     alt: Lt. Roy Cloud's presentation
-  - url: /static/img/slideshow/2016/17.jpg
+  - jpg: /static/img/slideshow/2016/17.jpg
+    webp: /static/img/slideshow/2016/17.webp
     alt: President David Smith and Lt. Roy Cloud
-  - url: /static/img/slideshow/2016/18.jpg
+  - jpg: /static/img/slideshow/2016/18.jpg
+    webp: /static/img/slideshow/2016/18.webp
     alt: Joe Sabbadino, past president, leads the business meeting
-  - url: /static/img/slideshow/2016/19.jpg
+  - jpg: /static/img/slideshow/2016/19.jpg
+    webp: /static/img/slideshow/2016/19.webp
     alt: Poster contest
-  - url: /static/img/slideshow/2016/20.jpg
+  - jpg: /static/img/slideshow/2016/20.jpg
+    webp: /static/img/slideshow/2016/20.webp
     alt: Poster contest
-  - url: /static/img/slideshow/2016/21.jpg
+  - jpg: /static/img/slideshow/2016/21.jpg
+    webp: /static/img/slideshow/2016/21.webp
     alt: Poster contest
-  - url: /static/img/slideshow/2016/22.jpg
+  - jpg: /static/img/slideshow/2016/22.jpg
+    webp: /static/img/slideshow/2016/22.webp
     alt: Candace Rosado, SCDMV Supervisor
-  - url: /static/img/slideshow/2016/23.jpg
+  - jpg: /static/img/slideshow/2016/23.jpg
+    webp: /static/img/slideshow/2016/23.webp
     alt: Andy Pilgrim with SCDTSEA Chaplain Dr. Albert Neal
-  - url: /static/img/slideshow/2016/24.jpg
+  - jpg: /static/img/slideshow/2016/24.jpg
+    webp: /static/img/slideshow/2016/24.webp
     alt: Andy Pilgrim with SCDTSEA President-Elect Andrew Johnson
-  - url: /static/img/slideshow/2016/25.jpg
+  - jpg: /static/img/slideshow/2016/25.jpg
+    webp: /static/img/slideshow/2016/25.webp
     alt: Dr. Harry Stille, Jim Collins, and Dr. Albert Neal (only three Lifetime Service Award winners)
-  - url: /static/img/slideshow/2016/26.jpg
+  - jpg: /static/img/slideshow/2016/26.jpg
+    webp: /static/img/slideshow/2016/26.webp
     alt: Andrew Johnson, President-Elect
-  - url: /static/img/slideshow/2016/27.jpg
+  - jpg: /static/img/slideshow/2016/27.jpg
+    webp: /static/img/slideshow/2016/27.webp
     alt: Andy Pilgrim with SCDTSEA President David Smith
 award_winners:
   - award_name: Lifetime Service in Driver and Traffic Safety Education Award
     winner: Jim Collins, Auto-Safe Driving School
     images:
-      - url: /static/img/awards/2016/jim_collins.jpg
+      - jpg: /static/img/awards/2016/jim_collins.jpg
+        webp: /static/img/awards/2016/jim_collins.webp
         alt: Jim Collins
   - award_name: Traffic Safety Officer of the Year
     winner: Cpl. Bill Rhyne, SCHP Spokesman
     images:
-      - url: /static/img/awards/2016/bill_rhyne.jpg
+      - jpg: /static/img/awards/2016/bill_rhyne.jpg
+        webp: /static/img/awards/2016/bill_rhyne.webp
         alt: Cpl. Bill Rhyne
   - award_name: SCDTSEA Award
     winner: Joe Sabbadino, Sabbadino Driving School
     images:
-      - url: /static/img/awards/2016/joe_sabbadino.jpg
+      - jpg: /static/img/awards/2016/joe_sabbadino.jpg
+        webp: /static/img/awards/2016/joe_sabbadino.webp
         alt: Joe Sabbadino
   - award_name: Friend of SCDTSEA
     winner: Candace Rosado, SCDMV Inspector III
     images:
-      - url: /static/img/awards/2016/candace_rosado.jpg
+      - jpg: /static/img/awards/2016/candace_rosado.jpg
+        webp: /static/img/awards/2016/candace_rosado.webp
         alt: Candace Rosado
   - award_name: Outstanding Leadership in Driver and Traffic Safety
     winner: Andy Pilgrim, Traffic Safety Education Foundation
     images:
-      - url: /static/img/awards/2016/andy_pilgrim.jpg
+      - jpg: /static/img/awards/2016/andy_pilgrim.jpg
+        webp: /static/img/awards/2016/andy_pilgrim.webp
         alt: Andy Pilgrim
   - award_name: Driver Education Teacher of the Year
     winner: Don Cribbs, Latta High School
     images:
-      - url: /static/img/awards/2016/don_cribbs.jpg
+      - jpg: /static/img/awards/2016/don_cribbs.jpg
+        webp: /static/img/awards/2016/don_cribbs.webp
         alt: Don Cribbs
   - award_name: Commercial Driver Teacher of the Year
     winner: Ed Ables, Ables Driving School
     images:
-      - url: /static/img/awards/2016/ed_ables.jpg
+      - jpg: /static/img/awards/2016/ed_ables.jpg
+        webp: /static/img/awards/2016/ed_ables.webp
         alt: Ed Ables
   - award_name: Commercial Driving School of the Year
     winner: Thomas Adamo, Union County Driver Academy
     images:
-      - url: /static/img/awards/2016/thomas_adamo.jpg
+      - jpg: /static/img/awards/2016/thomas_adamo.jpg
+        webp: /static/img/awards/2016/thomas_adamo.webp
         alt: Thomas Adamo
   - award_name: Poster Contest
     poster_winners:

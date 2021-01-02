@@ -1,7 +1,9 @@
 ---
 title: Andrew Johnson
 position: Past President
-image: /static/img/board/andrew_johnson.jpg
+image:
+  jpg: /static/img/board/andrew_johnson.jpg
+  webp: /static/img/board/andrew_johnson.webp
 bio: >-
   Andrew Johnson resides in Orangeburg, S.C. He was drafted into the United States Army in 1969 and served two years, including one-year tour of duty with the 1st Infantry Division and the 1st Cavalry Division in Vietnam. It was in this tour where he was awarded the Purple Heart for injuries received during combat and Bronze Star with two oak leaf clusters for heroism, and numerous other awards during this military service.
 

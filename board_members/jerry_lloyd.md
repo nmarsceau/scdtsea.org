@@ -1,7 +1,9 @@
 ---
 title: Jerry Lloyd
 position: Secretary
-image: /static/img/board/jerry_lloyd.jpg
+image:
+  jpg: /static/img/board/jerry_lloyd.jpg
+  webp: /static/img/board/jerry_lloyd.webp
 bio: >-
   Jerry Lloyd has a BS Degree in Physical Education from Charleston Southern University (Baptist College) and is a certified Driver Education instructor. He attended Erskine College to complete 12 hours of Driver Education Classes under Dr. Harry Stille. He has 18 years of teaching and coaching experience in football, golf and baseball and spent 6 years as a professional baseball umpire in the minor leagues.
 

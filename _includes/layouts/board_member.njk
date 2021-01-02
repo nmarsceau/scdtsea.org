@@ -13,8 +13,11 @@ section: board
 <article>
   <p><em>{{ position }}</em></p>
 			
-  <div class="img-container medium float left">
-    <img src="{{ image }}" alt="{{ title }}" class="border" />
+  <div class="img-container medium float-left">
+    <picture>
+      <source type="image/webp" srcset="{{ image.webp }}" />
+      <img type="image/jpeg" src="{{ image.jpg }}" alt="{{ title }}" class="border" />
+    </picture>
   </div>
   {{ bio | markdownify | safe }}
 </article>

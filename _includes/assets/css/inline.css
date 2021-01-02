@@ -80,24 +80,24 @@ video {
 }
 
 @media screen and (min-width: 650px) {
-  .img-container.medium.float.left {
+  .img-container.medium.float-left {
     float: left;
     margin: 0 1em 1em 0;
   }
 
-  .img-container.medium.float.right {
+  .img-container.medium.float-right {
     float: right;
     margin: 0 0 1em 1em;
   }
 }
 
 @media screen and (min-width: 800px) {
-  .img-container.large.float.left {
+  .img-container.large.float-left {
     float: left;
     margin: 0 1em 1em 0;
   }
 
-  .img-container.large.float.right {
+  .img-container.large.float-right {
     float: right;
     margin: 0 0 1em 1em;
   }
