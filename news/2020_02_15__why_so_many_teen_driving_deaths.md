@@ -3,7 +3,6 @@ title: Why So Many Teen Driving Deaths?
 date: 2020-02-15T00:00:00-05:00
 summary:
   Why are motor vehicle crashes the number one national cause of deaths among teenagers, claiming the lives of six teens aged 16-19 every day? In 2017, 3,255 teens were involved in fatal crashes. A drastic need for change is revealed by realizing that...
-read_more: true
 tags:
   - letters
 ---

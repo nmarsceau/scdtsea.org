@@ -2,7 +2,6 @@
 title: Addendum to SC Needs a Tough Texting Law
 date: 2015-07-04T00:00:00-05:00
 summary: The desire is to share additional information to ban texting while driving. We shared earlier that Georgia's texting law includes a $150 fine and 1 driving record point penalty. We feel more information about...
-read_more: true
 tags:
   - articles
   - information

@@ -1,7 +1,6 @@
 ---
 title: April 2011 Board Meeting Minutes
 date: 2011-04-16T00:00:00-05:00
-read_more: false
 tags:
   - information
 ---

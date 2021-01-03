@@ -3,7 +3,6 @@ title: Ten Little Drivers
 date: 2015-07-04T00:00:00-05:00
 summary:
   Ten Little Drivers, cruising down the line. One had a heavy foot and then there were nine.
-read_more: true
 tags:
   - resources
 ---

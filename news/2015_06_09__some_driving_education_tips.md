@@ -3,7 +3,6 @@ title: Some Driving Education Tips
 date: 2015-06-09T00:00:00-05:00
 summary:
   Work on your attitude—it is more than 50% of what makes a top-notch driver. Prefer others, be quick to back down, etc.
-read_more: true
 tags:
   - articles
 ---

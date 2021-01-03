@@ -2,7 +2,6 @@
 title: SCDTSEA Needs Help
 date: 2015-08-04T00:00:00-05:00
 summary: SCDTSEA needs young teachers to take on the challenge of Leadership positions in our association. Many of our past/present officers are/have retired or will be...
-read_more: true
 tags:
   - announcements
   - letters

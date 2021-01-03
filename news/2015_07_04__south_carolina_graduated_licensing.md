@@ -2,7 +2,6 @@
 title: South Carolina Graduated Licensing (GDL)
 date: 2015-07-04T00:00:00-05:00
 summary: We propose that the GDL law be expanded to require all teenagers (17-19) to successfully complete a certified Traffic Safety Education course before being eligible to apply for a SC driver license, since there seems...
-read_more: true
 tags:
   - articles
   - information

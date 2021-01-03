@@ -2,7 +2,6 @@
 title: How Fast Can You Die?
 date: 2015-07-04T00:00:00-05:00
 summary: A study from a research safety center shares what happens when a car traveling 55 miles an hour crashes into a solid...
-read_more: true
 tags:
   - information
   - resources

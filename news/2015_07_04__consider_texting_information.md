@@ -3,7 +3,6 @@ title: Consider Texting Information to Pass Texting Bill
 date: 2015-07-04T00:00:00-05:00
 summary:
   With distracted driving now playing a part in 80 percent of all car crashes, according to a recent Virginia Tech study, and responsible for some 5,500 automotive fatalities annually, according to the National Highway Traffic Safety Administration, the problem of mobile phone use for texting and talking behind the wheel has become and epidemic.
-read_more: true
 tags:
   - articles
   - information

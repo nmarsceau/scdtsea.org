@@ -2,7 +2,6 @@
 title: Parent-Teen Driving Agreements
 date: 2015-08-13T00:00:00-05:00
 summary: Parents can use any one of these templates to enter into an agreement with their teenager regarding their use of a vehicle.
-read_more: false
 tags:
   - information
   - resources

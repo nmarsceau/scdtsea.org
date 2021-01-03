@@ -3,7 +3,6 @@ title: Why Join SCDTSEA?
 date: 2015-06-08T00:00:00-05:00
 summary:
   Long ago being proud of what I was doing motivated me to want to join and become a part of the state professional association that represented my field. The ones of us formed a constitution (it is eight pages, single typed) and the preamble states what we try to do...
-read_more: true
 tags:
   - information
   - articles

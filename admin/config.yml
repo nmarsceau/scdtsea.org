@@ -16,7 +16,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Summary", name: "summary", widget: "text"}
-      - {label: "Read More", name: "read_more", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", default: ["post"]}
   - label: "Board Members"

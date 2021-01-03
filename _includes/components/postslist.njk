@@ -22,12 +22,7 @@
         {% endfor %}
 			{% endif %}
 			{% if post.data.summary %}
-				<p>
-					{{ post.data.summary }}
-          {% if post.data.read_more %}
-            <a href="{{ post.url | url }}">Read More</a>
-          {% endif %}
-				</p>
+				<p>{{ post.data.summary }}</p>
 			{% endif %}
 		</article>
 	{% endfor %}

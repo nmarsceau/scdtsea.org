@@ -2,7 +2,6 @@
 title: Texting Law is Needed
 date: 2015-07-04T00:00:00-05:00
 summary: Safe driving is no accident. It is because of responsible parents and teens, driver education/training, DMV licensing, good laws, and better law enforcement. And all of the above work for safety and help keep motorists from...
-read_more: true
 tags:
   - articles
   - information

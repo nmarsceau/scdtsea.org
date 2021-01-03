@@ -2,7 +2,6 @@
 title: 2018 SCDTSEA Poster Contest Details
 date: 2018-02-02T00:00:00-05:00
 summary: The theme for the 2018 SCDTSEA Conference is SAFETY FIRST and the subject for the poster safety contest is SEAT BELTS (check the attached for more information). May many of your students take part in...
-read_more: true
 tags:
   - announcements
   - information

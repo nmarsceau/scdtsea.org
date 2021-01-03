@@ -2,7 +2,6 @@
 title: Drivers Explain How They Saw Accidents
 date: 2015-06-09T00:00:00-05:00
 summary: The following are explanations for various automobile accidents which were taken from insurance claim forms by Tilden Ltd., Canada’s foremost car rental agency.
-read_more: true
 tags:
   - humor
   - resources

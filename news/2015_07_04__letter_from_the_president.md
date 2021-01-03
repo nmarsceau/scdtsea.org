@@ -3,7 +3,6 @@ title: Letter from the President
 date: 2015-07-04T00:00:00-05:00
 summary:
   I would like to invite you to look over our website and also to encourage you to join our association. I remember going to the conference in the 90's and thinking about my role in making the roads safer for all of us, and I realized that...
-read_more: true
 tags:
   - articles
   - letters

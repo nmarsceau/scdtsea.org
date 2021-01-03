@@ -2,7 +2,6 @@
 title: Meeting the Challenge
 date: 2015-06-09T00:00:00-05:00
 summary: We certainly have a lot of challenges in driver and traffic safety education and need to do better. Vehicle crashes are still the leading cause of teen fatalities. Surveys show that only 50 percent of teens take...
-read_more: true
 tags:
   - letters
 ---

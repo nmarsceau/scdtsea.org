@@ -2,7 +2,6 @@
 title: Facing a Change
 date: 2015-06-09T00:00:00-05:00
 summary: We are facing a change in the way South Carolina driver education will be taught. As some of you already know the South Carolina legislature is looking at changing...
-read_more: true
 tags:
   - letters
 ---

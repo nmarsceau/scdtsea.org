@@ -2,7 +2,6 @@
 title: Michelin Teams With Vans to Create Limited-Edition Classics to Help Improve Teen Driving Safety
 date: 2018-05-13T00:00:00-05:00
 summary: A newly released survey of U.S. teens conducted by Michelin North America in seven major U.S. cities reveals that 42 percent are driving with unsafe tire tread, and 40 percent are driving with...
-read_more: true
 tags:
   - information
 ---

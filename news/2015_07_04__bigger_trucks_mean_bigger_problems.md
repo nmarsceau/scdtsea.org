@@ -2,7 +2,6 @@
 title: Bigger Trucks Mean Bigger Problems for SC
 date: 2015-07-04T00:00:00-05:00
 summary: We in South Carolina could soon face the reality of longer and heavier trucks on our roads and bridges if some in Washington have their way. During last year’s legislative session, Congress considered...
-read_more: true
 tags:
   - articles
   - information

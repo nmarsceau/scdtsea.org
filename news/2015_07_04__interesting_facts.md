@@ -3,7 +3,6 @@ title: Interesting Facts
 date: 2015-07-04T00:00:00-05:00
 summary:
   How do you achieve good vision while driving during a heavy downpour? Most of the motorists would turn on HIGH or FASTEST SPEED of the wipers during heavy downpour, yet the visibility in front of the vehicle is still bad.
-read_more: true
 tags:
   - information
   - resources

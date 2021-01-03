@@ -2,7 +2,6 @@
 title: Driver Education Needed for All
 date: 2015-06-09T00:00:00-05:00
 summary: Most states have a GDL law that teenagers can't get a license before 18 years of age if they don't take a driver education or driver training course. Now a study is showing concern that teenage crashes...
-read_more: true
 tags:
   - articles
   - letters

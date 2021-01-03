@@ -1,7 +1,6 @@
 ---
 title: 2019 SCDTSEA Conference Details
 date: 2019-09-19T00:00:00-05:00
-read_more: false
 tags:
   - information
   - announcements

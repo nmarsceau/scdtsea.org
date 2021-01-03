@@ -2,7 +2,6 @@
 title: Traffic Safety Needs for South Carolina
 date: 2015-07-04T00:00:00-05:00
 summary: The recent texting law is a step in the right direction. It could be stronger. For example, our first offence's texting fine is the cheapest except for California. The average fine for other states is...
-read_more: true
 tags:
   - articles
   - information

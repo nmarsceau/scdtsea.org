@@ -2,7 +2,6 @@
 title: Looking Ahead to the 2018 SCDTSEA Conference
 date: 2018-06-01T00:00:00-05:00
 summary: We are working to have the November 30, 2018 SCDTSEA Conference at Blythewood's SCDMV as good as can be. Registration/membership forms will be emailed to you in August or September, but I hope you will now reserve...
-read_more: true
 tags:
   - announcements
   - information

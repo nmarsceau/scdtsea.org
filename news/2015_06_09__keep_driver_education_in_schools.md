@@ -2,7 +2,6 @@
 title: Keep Driver Education in Schools
 date: 2015-06-09T00:00:00-05:00
 summary: Because of the hard economic times, the legislature’s desire has been to cut as many services as possible. Therefore they are attempting to suspend the...
-read_more: true
 tags:
   - letters
 ---

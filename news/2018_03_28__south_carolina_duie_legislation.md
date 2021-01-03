@@ -2,7 +2,6 @@
 title: South Carolina DUI-E Legislation
 date: 2018-03-28T00:00:00-05:00
 summary: Board member Lance Collins was recently interviewed by Fox Carolina to discuss the new distracted driving bill sponsored by Representative Bill Taylor. The bill prohibits...
-read_more: true
 tags:
   - articles
   - information

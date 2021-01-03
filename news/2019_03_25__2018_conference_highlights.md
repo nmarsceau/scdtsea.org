@@ -2,7 +2,6 @@
 layout: layouts/highlights_post.njk
 title: 2018 SCDTSEA Conference Highlights
 date: 2019-03-25T00:00:00-05:00
-read_more: false
 tags:
   - information
 year: 2018

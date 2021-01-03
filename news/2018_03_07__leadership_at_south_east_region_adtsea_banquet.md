@@ -1,7 +1,6 @@
 ---
 title: SCDTSEA Leadership at South East Region ADTSEA Award Banquet
 date: 2018-03-07T00:00:00-05:00
-read_more: false
 tags:
   - information
 ---

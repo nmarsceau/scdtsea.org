@@ -2,7 +2,6 @@
 title: Vehicles Also Have Black Boxes
 date: 2015-07-04T00:00:00-05:00
 summary: Crash information is provided by black boxes in planes — and also in cars! Nothing is black and white about the black boxes. Vehicle manufacturers started installing them in...
-read_more: true
 tags:
   - articles
   - information

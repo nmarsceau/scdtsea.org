@@ -2,7 +2,6 @@
 title: South Carolina Teens and Driver Training
 date: 2015-07-04T00:00:00-05:00
 summary: In South Carolina only 15- and 16-year-old teens have to take a high school or commercial school driving course before seeking a driver's license. Unfortunately, less than 50 percent of new teenage drivers receive...
-read_more: true
 tags:
   - articles
   - information

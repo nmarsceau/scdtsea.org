@@ -3,7 +3,6 @@ title: Update 2019 SCDTSEA Conference
 date: 2019-03-12T00:00:00-05:00
 summary:
   I know you would want the latest information for the 2019 SCDTSEA Conference. It will be December 6 at Blythewood's SCDMV. Hope you will make plans to attend. This year the...
-read_more: true
 tags:
   - announcements
   - information

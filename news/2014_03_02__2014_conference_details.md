@@ -1,7 +1,6 @@
 ---
 title: 2014 SCDTSEA Conference Details
 date: 2014-03-02T00:00:00-05:00
-read_more: false
 tags:
   - information
   - announcements

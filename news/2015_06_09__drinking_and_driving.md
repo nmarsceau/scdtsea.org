@@ -2,7 +2,6 @@
 title: Drinking & Driving
 date: 2015-06-09T00:00:00-05:00
 summary: Death rides the highway when drink takes the wheel! South Carolina is the second worst state in the nation for...
-read_more: true
 tags:
   - articles
   - letters

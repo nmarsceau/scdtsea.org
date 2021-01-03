@@ -2,7 +2,6 @@
 title: The Worst Accident Investigated
 date: 2015-07-04T00:00:00-05:00
 summary: I was awakened at 2:00 a.m. by a phone call telling me to hurry and get into uniform. There is a terrible accident on Highway 52S. Half asleep I arrived at the accident scene...
-read_more: true
 tags:
   - articles
   - information

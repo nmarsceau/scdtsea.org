@@ -2,7 +2,6 @@
 title: Dr. Harry Carl Stille, Jr.
 date: 2020-01-15T00:00:00-05:00
 summary: Our beloved Dr. Harry Stille died yesterday morning. He still lives, but not with us. All of the arrangements are not available yet, but you could get on the internet for Harris Funeral Home in Abbeville for additional information.
-read_more: true
 tags:
   - announcements
   - information

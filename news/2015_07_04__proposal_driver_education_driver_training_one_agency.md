@@ -2,7 +2,6 @@
 title: Proposal to Have Driver Education and Driver Training Under One Agency
 date: 2015-07-04T00:00:00-05:00
 summary: A critical need in our state's driver education and driver training programs today is a strengthening of the teacher selection, preparation, certification process, performance of the teacher, and structured learning experiences. The best way to search for ways to improve...
-read_more: true
 tags:
   - articles
   - information

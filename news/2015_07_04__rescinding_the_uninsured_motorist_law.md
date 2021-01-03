@@ -2,7 +2,6 @@
 title: Rescinding the Uninsured Motorist Law
 date: 2015-07-04T00:00:00-05:00
 summary: On behalf of the SCDTSEA, we respectfully request that the "Uninsured Motorist Law" be rescinded. I was shocked to read pages 65-67 of the South Carolina Driver's Manual. It states that...
-read_more: true
 tags:
   - articles
   - letters

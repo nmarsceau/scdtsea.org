@@ -2,7 +2,6 @@
 title: Oh, Please God, I'm Only 17!
 date: 2015-07-04T00:00:00-05:00
 summary: Agony claws my mind. I am a statistic. When I first got here I felt very much alone. I was overwhelmed with grief and I expected to find sympathy. The day I died was an ordinary school day. How I wish I had...
-read_more: true
 tags:
   - resources
 ---

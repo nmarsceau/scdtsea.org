@@ -2,7 +2,6 @@
 title: "Distracted Driving: Facts & Statistics"
 date: 2015-06-09T00:00:00-05:00
 summary: In 2010, 3,092 people were killed in crashes involving driver distractions, and an estimated 416,000 were injured.
-read_more: true
 tags:
   - information
   - resources

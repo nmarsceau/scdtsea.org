@@ -1,7 +1,6 @@
 ---
 title: Fall 2017 Conference Schedule
 date: 2017-10-18T00:00:00-05:00
-read_more: false
 tags:
   - information
 ---

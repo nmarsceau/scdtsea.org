@@ -1,7 +1,6 @@
 ---
 title: "Teen Driving: Facts and Statistics"
 date: 2015-06-09T00:00:00-05:00
-read_more: false
 tags:
   - information
   - resources

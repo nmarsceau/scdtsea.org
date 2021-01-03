@@ -2,7 +2,6 @@
 title: A Letter From the Former President
 date: 2016-03-15T00:00:00-05:00
 summary: Mark November 18, 2016 on your calendar for the SCDTSEA Conference. It will again be at Blythewood, SC’s SCDMV! Expect the conference to be as excellent as the 2015 conference! One of the foremost national safety experts has already been...
-read_more: true
 tags:
   - announcements
   - information

@@ -3,7 +3,6 @@ title: Cancelling the 2020 SCDTSEA Conference
 date: 2020-10-29T00:00:00-05:00
 summary:
   Everyone has been hoping that this virus situation would be less and less, but it seems to become more and more. Because of this concern regarding our physical safety, the Executive Committee decided this afternoon that we will NOT have a conference this year.
-read_more: true
 tags:
   - letters
   - announcements
