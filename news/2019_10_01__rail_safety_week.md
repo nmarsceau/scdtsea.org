@@ -11,5 +11,5 @@ Distractions while driving can be deadly. Watch Kailynn’s mother tell her hear
 #RailSafetyWeek #STOPTrackTragedies #SeeTrack?ThinkTrain!
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/R7YjuXEMBvo" allowfullscreen="" width="560" height="315"></iframe>
+  <iframe src="https://www.youtube.com/embed/R7YjuXEMBvo" allowfullscreen=""></iframe>
 </div>
