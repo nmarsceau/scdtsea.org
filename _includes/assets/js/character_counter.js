@@ -20,11 +20,14 @@ function update_character_counter(field) {
 }
 
 document.addEventListener('input', function(event) {
-    if (!event.target.classList.contains('count') || !event.target.hasAttribute('maxlength')) return;
-    update_character_counter(event.target);
+    if (event.target.classList.contains('count') && event.target.hasAttribute('maxlength')) {
+        update_character_counter(event.target);
+    }
 });
 
-(function() {
-    const inputs = document.querySelectorAll('input.count[maxlength], textarea.count[maxlength]');
-    for (let i = 0; i < inputs.length; i++) {update_character_counter(inputs[i]);}
-})();
+document.addEventListener('blur', function(event) {
+    const sibling_character_counter = event.target.parentNode.querySelector('.character-counter');
+    if (sibling_character_counter !== null) {
+        sibling_character_counter.parentNode.removeChild(sibling_character_counter);
+    }
+}, true);

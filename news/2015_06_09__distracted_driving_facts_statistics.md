@@ -25,7 +25,7 @@ tags:
 *VTTI is Virginia Tech Transportation Institute*
 *Carnegie Mellon is a university*
 
-Source: [distraction](http://www.distraction.gov/)
+Source: [distraction.gov](http://www.distraction.gov/)
 
 ### Even More Distracted Driving Facts and Statistics
 <div class="pdf-container">
