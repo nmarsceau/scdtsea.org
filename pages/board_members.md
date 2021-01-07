@@ -22,8 +22,10 @@ board_members:
     position: Historian
   - title: Dr. Albert Neal
     position: Chaplain
+  - title: Kevin Carr
+    position: Board Member
   - title: Tommy Price
     position: Board Member
-  - title: Kevin Carr
+  - title: Bill Seawright
     position: Board Member
 ---

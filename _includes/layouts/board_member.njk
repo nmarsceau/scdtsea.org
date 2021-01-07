@@ -12,14 +12,18 @@ section: board
 
 <article>
   <p><em>{{ position }}</em></p>
-			
+
+  {% if image %}
   <div class="img-container medium float-left">
     <picture>
       <source type="image/webp" srcset="{{ image.webp }}" />
       <img type="image/jpeg" src="{{ image.jpg }}" alt="{{ title }}" class="border" />
     </picture>
   </div>
+  {% endif %}
+  {% if bio %}
   {{ bio | markdownify | safe }}
+  {% endif %}
 </article>
 
 <nav>
