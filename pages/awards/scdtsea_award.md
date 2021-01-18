@@ -26,4 +26,7 @@ recipients:
   - year: 2015
     recipient: David Smith
     location_organization: Mid Carolina High School
+  - year: 2014
+    recipient: Dr. Harry Stille
+    location_organization: Erskine College Professor and SCDTSEA Treasurer
 ---

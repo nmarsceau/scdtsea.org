@@ -20,6 +20,10 @@ recipients:
     location_organization: SCDMV Office of the Inspector General, Supervisor
   - year: 2014
     recipient: Captain Jim Crawford
+  - year: 2013
+    recipient: Captain Karl McClary
+  - year: 2010
+    recipient: Colonel F. Kenny Lancaster, Jr.
   - year: 2010
     recipient: Lt. Clendenan
   - year: 1981
