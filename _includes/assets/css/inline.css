@@ -17,7 +17,13 @@ main,
 footer {
   margin: auto;
   max-width: 40em;
-	padding: 1em 1em 2em;
+	padding: 0 1em 2em;
+}
+
+@media screen and (min-width: 1150px) {
+  main {
+    padding: 1em 1em 2em;
+  }
 }
 
 footer {
@@ -205,18 +211,20 @@ form.border {
 
 
 /* Header Logo */
-header > div {
-  padding: 1em 1em 0;
+header > .logo-container {
+  padding: 1.5em 1em 0;
   text-align: center;
+  margin: 0;
 }
 
-.js header > div {
+.js header > .logo-container {
   text-align: left;
 }
 
 @media screen and (min-width: 1150px) {
-  header > div,
-  .js header > div {
+  header > .logo-container,
+  .js header > .logo-container {
+    padding: 2em 1em 0;
     text-align: center;
   }
 }

@@ -3,8 +3,6 @@ layout: layouts/base.njk
 title: Home | SCDTSEA
 permalink: /
 mission: >-
-  # SCDTSEA
-
   ## Our Mission
 
   is to support and advance traffic safety and education among commercial and public driving schools. The members work together to promote solutions and laws related to driver safety and education.
@@ -57,6 +55,7 @@ letter: >-
   
   *President, SCDTSEA*
 ---
+<h1>SCDTSEA</h1>
 <article>
   {{ mission | markdownify | safe }}
 </article>
