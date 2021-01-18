@@ -167,7 +167,7 @@ body {
   font-size: 1.3em;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   background-color: #fcfcfc;
-  color: #333;
+  color: #112A46;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -184,10 +184,10 @@ li {
 }
 
 a:link, a:visited {
-  color: #0044dd;
+  color: #005498;
 }
 a:hover {
-  color: #0000aa;
+  color: #003865;
 }
 a:not(:hover) {
 	text-decoration: none;
@@ -214,7 +214,7 @@ header > div {
   text-align: left;
 }
 
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1150px) {
   header > div,
   .js header > div {
     text-align: center;
@@ -227,6 +227,8 @@ header > div {
 /* no-JS styles */
 nav.main-menu {
   position: relative;
+  font-size: 1.1em;
+  margin-top: 0.75em;
 }
 
 nav.main-menu button#toggle {
@@ -243,18 +245,25 @@ nav.main-menu ul#menu {
 
 nav.main-menu li {
   text-align: center;
+  padding-bottom: 0;
 }
 
 nav.main-menu li a:link,
 nav.main-menu li a:visited {
   display: block;
   padding: 0.4em 1.5em;
-  color: #333;
 }
 
 nav.main-menu li a:active {
   background-color: #ddd;
   text-decoration: underline;
+}
+
+nav.main-menu hr {
+  display: none;
+  margin: auto;
+  max-width: 50em;
+  width: 96%;
 }
 
 /* progressive enhancement when JS is available */
@@ -284,7 +293,7 @@ nav.main-menu li a:active {
 }
 
 /* progressive enhancement for desktop screen sizes */
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1150px) {
   nav.main-menu button#toggle,
   .js nav.main-menu button#toggle {
     display: none;
@@ -315,6 +324,10 @@ nav.main-menu li a:active {
   nav.main-menu li a:active {
     background: none;
   }
+
+  nav.main-menu hr {
+    display: block;
+  }
 }
 
 
@@ -327,7 +340,7 @@ span.required {
 }
 
 span.optional {
-  color: #4040ce;
+  color: #005498;
   font-size: 0.8em;
   margin-left: 8px;
   vertical-align: bottom;
@@ -379,12 +392,12 @@ button:hover {
 }
 
 button.blue {
-  background: #025fea;
-  color: white;
+  background: #005498;
+  color: #fcfcfc;
 }
 
 button.blue:hover {
-  background: #0052ce;
+  background: #003865;
 }
 
 
@@ -420,8 +433,8 @@ a[rel="tag"]:visited {
 }
 
 a[rel="tag"]:hover {
-	border: 1px solid #009157;
-	color: #009157;
+	border: 1px solid #005498;
+	color: #005498;
 }
 
 .posts-list a[rel="tag"]:first-of-type {
@@ -456,21 +469,21 @@ a[rel="tag"]:last-child {
 }
 
 .pagination a {
-  border: 1px solid #333;
+  border: 1px solid #112A46;
   border-radius: 4px;
-  color: #333;
+  color: #112A46;
   margin-right: 0.25em;
   padding: 0.5em 1em;
 }
 
 .pagination a[aria-current] {
-  background-color: #009157;
-  color: white;
-  border-color: #009157;
+  background-color: #005498;
+  color: #fcfcfc;
+  border-color: #005498;
 }
 
 .pagination a:active {
-  background-color: #ddd;
+  background-color: #005498;
   text-decoration: underline;
 }
 
@@ -495,7 +508,7 @@ a[rel="tag"]:last-child {
   }
 }
 
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1150px) {
   .pagination a:active{
     background: none;
   }
