@@ -5,7 +5,7 @@ section: contact
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 7
+  order: 8
 containsForm: true
 containsCount: true
 ---

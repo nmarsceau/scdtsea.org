@@ -2,8 +2,8 @@
 layout: layouts/news.njk
 title: SCDTSEA News
 eleventyNavigation:
-  key: SCDTSEA News
-  order: 2
+  key: News
+  order: 3
 pagination:
   data: collections.post
   size: 10

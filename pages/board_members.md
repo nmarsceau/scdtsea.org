@@ -3,8 +3,8 @@ title: Board Members
 permalink: /board/index.html
 layout: layouts/board_members.njk
 eleventyNavigation:
-  key: Board Members
-  order: 5
+  key: Board
+  order: 6
 board_members:
   - title: Joe Sabbadino
     position: President

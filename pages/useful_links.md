@@ -3,8 +3,8 @@ layout: layouts/links.njk
 permalink: /links/index.html
 title: Useful Links
 eleventyNavigation:
-  key: Useful Links
-  order: 3
+  key: Links
+  order: 4
 links:
   - title: AAA Foundation for Traffic Safety
     url: https://aaafoundation.org/

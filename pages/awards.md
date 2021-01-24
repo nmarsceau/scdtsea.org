@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 eleventyNavigation:
   key: Awards
-  order: 6
+  order: 7
 awards:
   - title: Achiever of the Year
   - title: Award of Appreciation

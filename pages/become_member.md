@@ -3,7 +3,7 @@ permalink: /membership/index.html
 title: Become a Member
 eleventyNavigation:
   key: Become a Member
-  order: 4
+  order: 5
 body: >-
   Dear Potential SCDTSEA Member,
 

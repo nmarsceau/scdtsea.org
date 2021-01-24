@@ -3,7 +3,7 @@ permalink: /about/index.html
 title: About SCDTSEA
 eleventyNavigation:
   key: About
-  order: 1
+  order: 2
 body: >-
   ## Establishment
 

@@ -3,21 +3,38 @@
 	{% include "components/head.njk" %}
 	<body>
 		<header>
-      <div class="logo-container">
-        <a href="{{ '/' | url }}">
-          <picture>
-            <source type="image/webp" media="(max-width: 400px)" srcset="/static/img/logo/xs.webp" />
-            <source type="image/webp" media="(max-width: 700px)" srcset="/static/img/logo/sm.webp" />
-            <source type="image/webp" media="(max-width: 1150px)" srcset="/static/img/logo/md.webp" />
-            <source type="image/webp" media="(min-width: 1150px)" srcset="/static/img/logo/lg.webp" />
-            <source type="image/png" media="(max-width: 400px)" srcset="/static/img/logo/xs.png" />
-            <source type="image/png" media="(max-width: 700px)" srcset="/static/img/logo/sm.png" />
-            <source type="image/png" media="(max-width: 1150px)" srcset="/static/img/logo/md.png" />
-            <img type="image/png" src="/static/img/logo/lg.png" alt="SCDTSEA" />
-          </picture>
-        </a>
-      </div>
-			{% include "components/nav.njk" %}
+      <picture class="banner">
+        <source type="image/webp" media="(max-width: 576px)" srcset="/static/img/banner/xs.webp" />
+        <source type="image/webp" media="(max-width: 768px)" srcset="/static/img/banner/sm.webp" />
+        <source type="image/webp" media="(max-width: 992px)" srcset="/static/img/banner/md.webp" />
+        <source type="image/webp" media="(max-width: 1200px)" srcset="/static/img/banner/lg.webp" />
+        <source type="image/webp" media="(min-width: 1200px)" srcset="/static/img/banner/xl.webp" />
+        <source type="image/jpeg" media="(max-width: 576px)" srcset="/static/img/banner/xs.jpg" />
+        <source type="image/jpeg" media="(max-width: 768px)" srcset="/static/img/banner/sm.jpg" />
+        <source type="image/jpeg" media="(max-width: 992px)" srcset="/static/img/banner/md.jpg" />
+        <source type="image/jpeg" media="(max-width: 1200px)" srcset="/static/img/banner/lg.jpg" />
+        <source type="image/jpeg" media="(min-width: 1200px)" srcset="/static/img/banner/xl.jpg" />
+        <img type="image/jpeg" src="/static/img/banner/lg.jpg" alt="" />
+      </picture>
+      <a href="/">
+        <picture class="logo">
+          <source type="image/webp" media="(max-width: 400px)" srcset="/static/img/logo/xs.webp" />
+          <source type="image/webp" media="(max-width: 500px)" srcset="/static/img/logo/sm.webp" />
+          <source type="image/webp" media="(max-width: 768px)" srcset="/static/img/logo/md.webp" />
+          <source type="image/webp" media="(max-width: 825px)" srcset="/static/img/logo/sm.webp" />
+          <source type="image/webp" media="(max-width: 1050px)" srcset="/static/img/logo/md.webp" />
+          <source type="image/webp" media="(max-width: 1300px)" srcset="/static/img/logo/lg.webp" />
+          <source type="image/webp" media="(min-width: 1300px)" srcset="/static/img/logo/xl.webp" />
+          <source type="image/png" media="(max-width: 400px)" srcset="/static/img/logo/xs.png" />
+          <source type="image/png" media="(max-width: 500px)" srcset="/static/img/logo/sm.png" />
+          <source type="image/png" media="(max-width: 768px)" srcset="/static/img/logo/md.png" />
+          <source type="image/png" media="(max-width: 825px)" srcset="/static/img/logo/sm.png" />
+          <source type="image/png" media="(max-width: 1050px)" srcset="/static/img/logo/md.png" />
+          <source type="image/png" media="(max-width: 1300px)" srcset="/static/img/logo/lg.png" />
+          <img type="image/png" src="/static/img/logo/xl.png" alt="" />
+        </picture>
+      </a>
+      {% include "components/nav.njk" %}
 		</header>
 		<main>
 			{{ layoutContent | safe }}
