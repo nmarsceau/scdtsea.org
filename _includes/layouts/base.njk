@@ -8,12 +8,14 @@
         <source type="image/webp" media="(max-width: 768px)" srcset="/static/img/banner/sm.webp" />
         <source type="image/webp" media="(max-width: 992px)" srcset="/static/img/banner/md.webp" />
         <source type="image/webp" media="(max-width: 1200px)" srcset="/static/img/banner/lg.webp" />
-        <source type="image/webp" media="(min-width: 1200px)" srcset="/static/img/banner/xl.webp" />
+        <source type="image/webp" media="(max-width: 2000px)" srcset="/static/img/banner/xl.webp" />
+        <source type="image/webp" media="(min-width: 2000px)" srcset="/static/img/banner/xxl.webp" />
         <source type="image/jpeg" media="(max-width: 576px)" srcset="/static/img/banner/xs.jpg" />
         <source type="image/jpeg" media="(max-width: 768px)" srcset="/static/img/banner/sm.jpg" />
         <source type="image/jpeg" media="(max-width: 992px)" srcset="/static/img/banner/md.jpg" />
         <source type="image/jpeg" media="(max-width: 1200px)" srcset="/static/img/banner/lg.jpg" />
-        <source type="image/jpeg" media="(min-width: 1200px)" srcset="/static/img/banner/xl.jpg" />
+        <source type="image/jpeg" media="(max-width: 2000px)" srcset="/static/img/banner/xl.jpg" />
+        <source type="image/jpeg" media="(min-width: 2000px)" srcset="/static/img/banner/xxl.jpg" />
         <img type="image/jpeg" src="/static/img/banner/lg.jpg" alt="" />
       </picture>
       <a href="/">
@@ -34,7 +36,17 @@
           <img type="image/png" src="/static/img/logo/xl.png" alt="" />
         </picture>
       </a>
-      {% include "components/nav.njk" %}
+      <nav class="main-menu" role="navigation">
+        <button type="button" id="toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+        {% set navPages = collections.all | eleventyNavigation %}
+        <ul id="menu" class="collapse">
+        {%- for entry in navPages %}
+          <li>
+            <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
+          </li>
+        {%- endfor %}
+        </ul>
+      </nav>
 		</header>
 		<main>
 			{{ layoutContent | safe }}
