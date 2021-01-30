@@ -15,7 +15,7 @@ bio: >-
   I have been a full-time driver education teacher at Bob Jones Academy for over 40 years. As well as a part-time driver educator at Greenville Technical College and at TOPS (Bob Jones University) for over 15 years. I established Sabbadino Driving School, LLC in 2010 which I own and operate as a full-time driving instructor.
 
 
-  I am a member in the South Carolina Driver & Traffic Safety Education association, and have been an officer in SCDTSEA for over 40 years as President and Newsletter Editor. I’ve been a member of the American Driver & Traffic Safety Education Association for over 30 years. I have served as President-Elect and President for the Southeast Region ADTSEA.
+  I am a member in the South Carolina Driver & Traffic Safety Education association, and have been an officer in SCDTSEA for over 40 years as President and Newsletter Editor. I've been a member of the American Driver & Traffic Safety Education Association for over 30 years. I have served as President-Elect and President for the Southeast Region ADTSEA.
 
 
 
@@ -25,7 +25,7 @@ bio: >-
 
   * Driver Education Teacher of the Year (three different years)
 
-  * Who’s Who Among American Teachers
+  * Who's Who Among American Teachers
 
   * Safety Award by Safety Belts for South Carolina
 

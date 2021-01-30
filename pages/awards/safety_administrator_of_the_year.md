@@ -3,7 +3,7 @@ layout: layouts/award.njk
 permalink: /awards/safety-administrator-of-the-year/index.html
 title: Safety Administrator of the Year
 criteria: >-
-  * Has been in an administrator’s role (one-half or more than one-half of time in administration) for at least two years.
+  * Has been in an administrator's role (one-half or more than one-half of time in administration) for at least two years.
 
   * Contributed to improvements of driver education program in school district or state-wide.
 

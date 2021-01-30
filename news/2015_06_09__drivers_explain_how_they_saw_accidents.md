@@ -1,15 +1,15 @@
 ---
 title: Drivers Explain How They Saw Accidents
 date: 2015-06-09T00:00:00-05:00
-summary: The following are explanations for various automobile accidents which were taken from insurance claim forms by Tilden Ltd., Canada’s foremost car rental agency.
+summary: The following are explanations for various automobile accidents which were taken from insurance claim forms by Tilden Ltd., Canada's foremost car rental agency.
 tags:
   - humor
   - resources
 ---
-The following are explanations for various automobile accidents which were taken from insurance claim forms by Tilden Ltd., Canada’s foremost car rental agency.
+The following are explanations for various automobile accidents which were taken from insurance claim forms by Tilden Ltd., Canada's foremost car rental agency.
 
-* Coming home, I drove into the wrong house and collided with a tree I don’t have.
-* A truck backed through my windshield into my wife’s face.
+* Coming home, I drove into the wrong house and collided with a tree I don't have.
+* A truck backed through my windshield into my wife's face.
 * The guy was all over the road. I had to swerve a number of times before I hit him.
 * In my attempt to kill a fly, I drove into a telephone pole.
 * The gentleman behind me struck me on the backside. He then went to rest in the bush with just his rear end showing.

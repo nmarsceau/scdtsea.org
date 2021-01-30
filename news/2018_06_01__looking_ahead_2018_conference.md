@@ -23,10 +23,10 @@ May some of the above be helpful. I have felt that we all need more help in givi
 Some of you are also coaches. A few driving quotations relating to what you also do:
 
 > &ldquo;In football a safety means two points. In driving safety means your life.&rdquo;
-> > &ndash; Captain Billy Fallaw.
+> <span class="indent">&ndash; <cite>Captain Billy Fallaw.</cite></span>
 
 > &ldquo;In basketball your goal is to score and in driving your goal is to arrive alive.&rdquo;
-> > &ndash; Donny Harrison.
+> <span class="indent">&ndash; <cite>Donny Harrison.</cite></span>
 
 > &ldquo;Driving is like baseball. It's the number of times you reach home safely that counts.&rdquo;
 

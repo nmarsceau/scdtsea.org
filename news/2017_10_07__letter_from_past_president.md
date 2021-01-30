@@ -25,13 +25,13 @@ Lance and I also have been asked to solicit names of colleagues who desire to sh
 I will end with some quotations relating to our field:
 
 > &ldquo;Given the present day traffic situation in the United States and the high fatality rate of the young, it seems clear that some kind of preparation for driving in today's traffic is necessary.&rdquo;
-> > &ndash; National Transportation Safety Board, U. S. Department of Transportation
+> <span class="indent">&ndash; <cite>National Transportation Safety Board, U. S. Department of Transportation</cite></span>
 
 > &ldquo;No cause, not even the highest and purest, can prosper in our day without making education its ally.&rdquo;
-> > &ndash; Horace Mann
+> <span class="indent">&ndash; <cite>Horace Mann</cite></span>
 
 > &ldquo;Regardless of the effectiveness of driver education/driver training in reducing accidents, it does prepare young people to operate a vehicle on the road, and not even the loudest of critics has suggested that they join the traffic system unprepared, or that early training be turned over once again to parents or friends. Thus the question seems to be not whether driver education/driver training should be continued, but how can it be improved&rdquo;
-> > &ndash; A Practical Plan For Driver Training by James L. Malfetti
+> <span class="indent">&ndash; <cite>A Practical Plan For Driver Training by James L. Malfetti</cite></span>
 
 Yours for Safety,
 

@@ -21,10 +21,10 @@ tags:
 
 > You may think seat belts are uncomfortable, but have you ever tried a stretcher?
 
-> Wear your seat belt. It’s much more comfortable than wearing a caste or bandages.
+> Wear your seat belt. It's much more comfortable than wearing a caste or bandages.
 
-> Don’t leave safety to mere chance. That’s why belts are sold with pants.
-> > &mdash;Burma-Shave roadside message.
+> Don't leave safety to mere chance. That's why belts are sold with pants.
+> <span class="indent">&ndash; <cite>Burma-Shave roadside message.</cite></span>
 
 > A friend is like a seat-belt, you may not always need them, but they will be there just in case.
 

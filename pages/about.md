@@ -20,7 +20,7 @@ body: >-
   ## Mission Statement
 
   The SCDTSEA supports and advances traffic safety and
-  education among commercial and public driving schools. It’s members work
+  education among commercial and public driving schools. It's members work
   together to promote solutions and laws related to driver safety and education.
 
   ## Purpose

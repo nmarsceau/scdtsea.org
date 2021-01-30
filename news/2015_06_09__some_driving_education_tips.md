@@ -9,9 +9,9 @@ tags:
 1. Work on your attitude&mdash;it is more than 50% of what makes a top-notch driver. Prefer others, be quick to back down, etc.
 
   > &ldquo;There is very little difference in people, but that little difference makes a big difference. The little difference is attitude. The big difference is whether it is positive or negative.&rdquo;
-  > > &mdash;Napoleon Hill and W. Clement Stone.
+  > <span class="indent">&ndash; <cite>Napoleon Hill and W. Clement Stone.</cite></span>
 
-2. Buckle up before starting up! Every 12 seconds someone is injured in a vehicle crash (GEICO). The seat belt is your brake if the vehicle’s brakes don’t stop the vehicle&mdash;without the seat belt you will crash into the vehicle at the same speed the vehicle crashes into an object. The seat belt will also prevent your body organs from hitting ribs, skull, etc.! Realize that a crash at 55 miles per hour is like falling from a 15 story building! If there is to be a collision, hit something that will give since the force of impact varies inversely with the distance it takes a vehicle to stop&mdash;the greater the distance in stopping after you hit something, the less is the force of impact.
+2. Buckle up before starting up! Every 12 seconds someone is injured in a vehicle crash (GEICO). The seat belt is your brake if the vehicle's brakes don't stop the vehicle&mdash;without the seat belt you will crash into the vehicle at the same speed the vehicle crashes into an object. The seat belt will also prevent your body organs from hitting ribs, skull, etc.! Realize that a crash at 55 miles per hour is like falling from a 15 story building! If there is to be a collision, hit something that will give since the force of impact varies inversely with the distance it takes a vehicle to stop&mdash;the greater the distance in stopping after you hit something, the less is the force of impact.
 
   > Buckle up! Seat belts save face!
 
@@ -25,17 +25,17 @@ tags:
 
   > It is better to blow your horn than hear the crash!
 
-  > A defensive driver obeys the rules of the road and is alert enough to dodge those who don’t!
+  > A defensive driver obeys the rules of the road and is alert enough to dodge those who don't!
 
   > Drive your vehicle as if your family was in the other vehicle!
 
-  > Remember it’s not only the car that can be recalled by it’s maker!
+  > Remember it's not only the car that can be recalled by it's maker!
 
   > Make defensive driving first and make defensive driving last!
 
-4. Don’t call while you drive! Talking on a cell phone while driving increases the chance of an accident by 400%! (GEICO) Pull off of the road and then enjoy calling and talking!
+4. Don't call while you drive! Talking on a cell phone while driving increases the chance of an accident by 400%! (GEICO) Pull off of the road and then enjoy calling and talking!
 
-5. Stay out of the no-zone of big trucks. If you can’t see the truck’s side mirrors, the trucker can’t see you.
+5. Stay out of the no-zone of big trucks. If you can't see the truck's side mirrors, the trucker can't see you.
 
 6. Consider leaving your headlights on during the daytime. It helps others to see you and reduces accidents by 30% (GEICO).
 
@@ -64,12 +64,12 @@ tags:
   > Safe driving is no accident.
 
   > In football a safety means two points. In driving, safety means your life.
-  > > &mdash;Captain Billy Fallaw.
+  > <span class="indent">&ndash; <cite>Captain Billy Fallaw.</cite></span>
 
-  > Driving is like baseball. It’s the number of times you reach home safely that counts.
+  > Driving is like baseball. It's the number of times you reach home safely that counts.
 
   > In basketball your goal is to score and in driving your goal is to arrive alive.
-  > > &mdash;Donny Harrison.
+  > <span class="indent">&ndash; <cite>Donny Harrison.</cite></span>
 
   > Safe driving will keep your car out of the junkyard and your body out of the graveyard.
 

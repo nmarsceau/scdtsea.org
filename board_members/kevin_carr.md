@@ -5,7 +5,7 @@ image:
   jpg: /static/img/board/kevin_carr.jpg
   webp: /static/img/board/kevin_carr.webp
 bio: >-
-  I am a graduate of USC-Upstate with a BS in Physical Education. I received A Masters in Sports Administration from the United States Sports Academy and my 30 hours above from the University of LaVerne. I completed course work to become certified in Driver’s Education from Erskine.
+  I am a graduate of USC-Upstate with a BS in Physical Education. I received A Masters in Sports Administration from the United States Sports Academy and my 30 hours above from the University of LaVerne. I completed course work to become certified in Driver's Education from Erskine.
 
 
   I am a teacher and coach in Spartanburg School District One at Chapman High School. I am currently the associate head football coach and formerly the head baseball coach. I have coached and taught in District One my entire career.

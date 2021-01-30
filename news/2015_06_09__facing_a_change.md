@@ -11,7 +11,7 @@ I know that our members are made up of commercial and public educators. I really
 
 We are one voice. That voice is driver education is important. I would hope that if the commercial schools were being pushed out of business by legislatures the public schools would stand up for them as we ask now for the commercial schools to stand by our public educators.
 
-The fact is teen crashes are still the number one cause of death for this age group. We need every educator teaching to try and save South Carolina teens. Please contact your local representatives, church groups, PTA’s and any other organization that will listen and help save driver education in the public schools. It is never acceptable for driver education to be pushed aside and removed because it is not considered a core subject. Life and the preservation of life is always a core subject.
+The fact is teen crashes are still the number one cause of death for this age group. We need every educator teaching to try and save South Carolina teens. Please contact your local representatives, church groups, PTA's and any other organization that will listen and help save driver education in the public schools. It is never acceptable for driver education to be pushed aside and removed because it is not considered a core subject. Life and the preservation of life is always a core subject.
 
 *Steve Phillips*
 *SCDTSEA President, 2009-10*

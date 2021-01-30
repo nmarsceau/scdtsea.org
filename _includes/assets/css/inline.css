@@ -17,13 +17,7 @@ main,
 footer {
   margin: auto;
   max-width: 40em;
-	padding: 0 1em 2em;
-}
-
-@media screen and (min-width: 1150px) {
-  main {
-    padding: 1em 1em 2em;
-  }
+	padding: 1em 1em 2em;
 }
 
 footer {
@@ -625,4 +619,8 @@ a[rel="tag"]:last-child {
 
 .no-type-list li {
   padding-bottom: 1em;
+}
+
+.indent-1 {
+  margin-left: 1em;
 }

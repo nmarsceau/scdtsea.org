@@ -12,11 +12,11 @@ history: >-
 
   * The “behind-the-wheel” phase of driver education be lengthened to give students more actual driving instruction with a qualified instructor. Each car should have a safety check each year and each driver be re-examined periodically (1959).
 
-  * A more rigid driver’s examination should be administered by the Highway Department or allow qualified driver education instructors to administer the examination (1960).
+  * A more rigid driver's examination should be administered by the Highway Department or allow qualified driver education instructors to administer the examination (1960).
 
   * The driver license examiners and the driver education instructors should meet and discuss problems of mutual concern (1964).
 
-  * Legislation should be passed to raise minimum age for driver’s license to 18, except for those who have completed a state approved driver’s education course (1965).
+  * Legislation should be passed to raise minimum age for driver's license to 18, except for those who have completed a state approved driver's education course (1965).
 
   * A master of education degree program should be established at the University of South Carolina for driver education instructors (1970).
 

@@ -11,7 +11,7 @@ criteria: >-
 
   * There will be monetary awards for first, second, and third place winners. (The treasurer will send checks to the students.)
 
-  * The student’s complete name, address, phone number and the school’s name must be printed legibly on the back of the poster.
+  * The student's complete name, address, phone number and the school's name must be printed legibly on the back of the poster.
 
   * The teacher must be present at the fall conference for the poster to be eligible to win.
 recipients:
