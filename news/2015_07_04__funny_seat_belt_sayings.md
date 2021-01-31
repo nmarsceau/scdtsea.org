@@ -24,8 +24,8 @@ tags:
 > Wear your seat belt. It's much more comfortable than wearing a caste or bandages.
 
 > Don't leave safety to mere chance. That's why belts are sold with pants.
-> <span class="indent">&ndash; <cite>Burma-Shave roadside message.</cite></span>
+> <span class="indent-1">&ndash; <cite>Burma-Shave roadside message.</cite></span>
 
-> A friend is like a seat-belt, you may not always need them, but they will be there just in case.
+> A friend is like a seat belt, you may not always need them, but they will be there just in case.
 
-> If you do not use seat belts, be sure and wear a soft-felt hat to protect your ears as your head goes through the windshield.
+> If you do not use seat belts, be sure and wear a soft, felt hat to protect your ears as your head goes through the windshield.

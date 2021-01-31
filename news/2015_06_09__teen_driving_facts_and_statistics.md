@@ -5,8 +5,6 @@ tags:
   - information
   - resources
 ---
-This document contains some shocking facts about teen drivers. Share it with your driving students today.
-
 <div class="pdf-container">
   <iframe src="/static/img/pdf/teen_driving_facts.pdf"></iframe>
 </div>

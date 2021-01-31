@@ -9,7 +9,7 @@ tags:
 ---
 ### Good Vision in a Downpour
 
-How do you achieve good vision while driving during a heavy downpour? Most of the motorists would turn on HIGH or FASTEST SPEED of the wipers during heavy downpour, yet the visibility in front of the vehicle is still bad.
+How do you achieve good vision while driving during a heavy downpour? Most motorists would turn their wipers on HIGH or FASTEST SPEED, yet the visibility in front of the vehicle is still bad.
 
 In the event you face such a situation, just try your SUN GLASSES (any model will do), and miracle! All of a sudden, your visibility in front of your windshield is perfectly clear, as if there is no rain.
 

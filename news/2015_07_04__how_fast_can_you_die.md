@@ -16,7 +16,7 @@ A study from a research safety center shares what happens when a car traveling 5
 
 **4/10ths of a second:** The car's front 24 inches have been demolished, but the rear end is still traveling about 35 miles per hour. The driver's body is still traveling 55 miles per hour. The half-ton motor block crunches into the object hit.
 
-**5/10ths of a second:** The driver's fear-frozen hands bend the steering column into an almost vertical position. The force of gravity impales him on the steering shaft. Jagged steel punctures lung and intercostals arties. Blood spurts into his lungs.
+**5/10ths of a second:** The driver's fear-frozen hands bend the steering column into an almost vertical position. The force of gravity impales him on the steering shaft. Jagged steel punctures the driver's lungs and intercostal arteries. Blood spurts into his lungs.
 
 **6/10ths of a second:** The driver's feet are ripped from his tightly laced shoes. The brake pedal shears off the floor boards. The chassis bends in the middle, shearing body bolts. The driver's head smashes into the windshield. The rear of the car begins its downward fall, spinning wheels digging into the ground.
 

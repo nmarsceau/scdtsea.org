@@ -6,7 +6,7 @@ summary:
 tags:
   - resources
 ---
-We, the Driver Educators Of South Carolina, Do Hereby Dedicate Our Personal and Professional Efforts as Teachers:
+We, the driver educators of South Carolina, do hereby dedicate our personal and professional efforts as teachers:
 
 * To effectively alert our students of the increasing hazards of operation of a motor vehicle.
 * To increase the decision-making skills of our students, relative to the effects of alcohol, drugs, and the student's individual value system.

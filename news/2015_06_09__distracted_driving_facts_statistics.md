@@ -16,7 +16,7 @@ tags:
 * Text messaging creates a crash risk 23 times greater than driving while not distracted (VTTI).
 * Sending or receiving a text takes a driver's eyes from the road for an average of 4.6 seconds, the equivalent&mdash;at 55 mph&mdash;of driving the length of an entire football field blind (VTTI).
 * Headset cell phone use is not substantially safer than handheld use (VTTI).
-* Using a cell phone while driving&mdash;whether it's handheld or hands-free&mdash;delays a drivers reaction as much as having a blood alcohol concentrate at the legal limit (University of Utah).
+* Using a cell phone while driving&mdash;whether it's handheld or hands-free&mdash;delays a drivers reaction as much as having a blood alcohol concentration at the legal limit (University of Utah).
 * Driving while using a cell phone reduces the amount of brain activity associated with driving by 37% (Carnegie Mellon).
 
 *Note:*

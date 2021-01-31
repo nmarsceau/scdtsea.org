@@ -31,10 +31,10 @@ Professionalism is striving for quality in all that we do.  I will close with a 
 > &ldquo;Quality&mdash;there are no small mistakes. If it's wrong, it's wrong.&rdquo;
 
 > &ldquo;It's one thing to work for a living; it's another thing to work for a cause.&rdquo;
-> <span class="indent">&ndash; <cite>Dr. Bob Jones.</cite></span>
+> <span class="indent-1">&ndash; <cite>Dr. Bob Jones.</cite></span>
 
 > &ldquo;The work in life is learning to be excited about your work.&rdquo;
-> <span class="indent">&ndash; <cite>Charles F. Jones.</cite></span>
+> <span class="indent-1">&ndash; <cite>Charles F. Jones.</cite></span>
 
 Best regards,
 

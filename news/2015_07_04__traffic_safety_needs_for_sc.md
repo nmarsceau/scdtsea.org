@@ -1,13 +1,13 @@
 ---
 title: Traffic Safety Needs for South Carolina
 date: 2015-07-04T00:00:00-05:00
-summary: The recent texting law is a step in the right direction. It could be stronger. For example, our first offence's texting fine is the cheapest except for California. The average fine for other states is...
+summary: The recent texting law is a step in the right direction. It could be stronger. For example, our fine for the first offence or texting is the cheapest except for California. The average fine for other states is...
 tags:
   - articles
   - information
   - letters
 ---
-The recent texting law is a step in the right direction. It could be stronger. For example, our first offence's texting ($25) fine is the cheapest except for California ($20). The average fine for other states is $165, although Alaska was not averaged in since the fine there is $10,000! Forty-four states, including SC has a primary texting law for all drivers. However, some states have points added to a fine (it is 5 points in New York). In some states texting can result in misdemeanor charges and if bodily injury is done, some states would give jail or prison time. More study is needed to make the SC texting law better.
+The recent texting law is a step in the right direction, but it could be stronger. For example, our fine for the first offence of texting ($25) is the cheapest except for California ($20). The average fine for other states is $165, although Alaska was not averaged since the fine there is $10,000! Forty-four states, including SC, have a primary texting law for all drivers. However, some states have points added to a fine (it is 5 points in New York). In some states texting can result in misdemeanor charges and if bodily injury is done, some states give jail or prison time. More study is needed to make the SC texting law better.
 
 The National Conference of State Legislatures mentioned that no state bans all cell phone use for all drivers, but 37 states and D.C. ban all cell phone use by novice drivers. Teens may be blamed too much as studies find adults distractions were not any better (Texting While Driving Opposing Viewpoints Online Collection). In this regard, parents need to take the hazards of texting and other distractions seriously when THEY drive; and responsibly helping their children develop safe driving attitudes. This is what drives a person's behavior for safety! The Insurance Institute of Highway Safety noted that 13 states and D.C. ban hand-held cell phones for everyone. More study also needs to go into this&mdash;more than ten million drivers in the U.S. are using cell phones (National Highway Traffic Safety Administration).
 

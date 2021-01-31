@@ -1,18 +1,18 @@
 ---
 title: Vehicles Also Have Black Boxes
 date: 2015-07-04T00:00:00-05:00
-summary: Crash information is provided by black boxes in planes — and also in cars! Nothing is black and white about the black boxes. Vehicle manufacturers started installing them in...
+summary: Crash information is provided by black boxes in planes, and also in cars! Nothing is black and white about the black boxes. Vehicle manufacturers started installing them in...
 tags:
   - articles
   - information
 ---
-Crash information is provided by black boxes in planes&mdash;and also in cars!
+Crash information is provided by black boxes in planes, and also in cars!
 
 Nothing is black and white about the black boxes.
 
 Vehicle manufacturers started installing them in the mid-1970s to collect data to help manufacturers make vehicles safer. However, the purpose changed in 1999 when General Motors introduced a recorder that captured information about vehicle speed, RPMs, throttle position and braking to help for investigation purposes (Tim Evans, *The Indianapolis Star*, May 25, 2014).
 
-It is also called EDR&mdash;&ldquo;event data recorder&rdquo; that gives information both before and after a crash. EDRs are now built into more than 90 percent of new cars, and the government is considering making them mandatory (Martin Kaste, All Tech Considered, March 20, 2013).
+The black box is also called an EDR (event data recorder) that gives information both before and after a crash. EDRs are now built into more than 90 percent of new cars, and the government is considering making them mandatory (Martin Kaste, All Tech Considered, March 20, 2013).
 
 Would you like the information from your vehicle's black box to be used against you in insurance investigations, or lawsuits, or even for criminal purposes? It is used in 70 percent of criminal prosecutions in Marion County in Indiana.
 

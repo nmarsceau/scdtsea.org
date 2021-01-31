@@ -26,4 +26,4 @@ The following are explanations for various automobile accidents which were taken
 * The pedestrian had no idea which direction to go, so I ran over him.
 * The accident occurred when I was attempting to bring my car out of a skid by steering it into the other vehicle.
 * An invisible car came out of nowhere, struck my vehicle, and then vanished.
-* I had been learning to drive with power steering. I turned the wheel to what I thought was enough and found myself in a different direction going in the opposite direction.
+* I had been learning to drive with power steering. I turned the wheel to what I thought was enough and found myself going in the opposite direction.
