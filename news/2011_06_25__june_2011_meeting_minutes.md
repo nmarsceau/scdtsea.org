@@ -17,7 +17,7 @@ tags:
 Invited guests were Michael Watkins and Susan Baldwin. Susan could not attend due to a death in her family.
 
 ## Opening
-The meeting was brought to order by president-elect, David Smith. The invocation was given by Dr. Neal. David turned the meeting over to Andrew Johnson. Rusty Hires moved to accept the agenda and David Smith seconded it. The board secretary, Deborah E Hartness read the minutes from the executive board meeting of April 16th. The board approved the minutes as read.
+The meeting was brought to order by President-Elect, David Smith. The invocation was given by Dr. Neal. David turned the meeting over to Andrew Johnson. Rusty Hires moved to accept the agenda and David Smith seconded it. The board secretary, Deborah E Hartness read the minutes from the executive board meeting of April 16th. The board approved the minutes as read.
 
 ## Business
 * Andrew Johnson stated that 6 board members had voted via email to accept Michael Watkins as our web designer. Michael then stated what his contract included. The domain will be scdtsea.org. He will create a template to update info for members only. There will be a Home page, a page for current events and news, a photo gallery, the ability to upload videos, links to current members, a page with pictures of the board and bios. In an effort to reduce the cost for the association, updates will be done quarterly instead of monthly. The cost of creating and maintaining the website the first year is $600. A yearly recurring expense to retain the host domain is $125. Quarterly updates will be done for $100/year. A deposit was made to Michael of $150. David Smith suggested the balance be paid August 1st when the website is due to be up and running. 

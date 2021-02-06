@@ -9,7 +9,7 @@ tags:
 |7:15 a.m. - 8:00|Exhibitors/Vendors set-up<br>SCDTSEA Conference Registration|
 |8:00 - 8:10|**Welcome**<br>David Smith, Presiding Officer, President, SCDTSEA<br>**Invocation &amp; Pledge of Allegiance**<br>Dr. Albert Neal, Chaplain, SCDTSEA|
 |8:10 - 8:20|**Greetings**<br>Mr. Karl McClary, Inspector General, SCDMV; Mr. Mike Lally, SC Department of Education|
-|8:20 - 8:45|**SCDTSEA Business Meeting, Part 1**<br>**Election Committee Report**<br>Joe Sabbadino, Past President, SCDTSEA; Lance Collins, Website Editor, SCDTSEA<br>**Election of SCDTSEA Officers &amp; Board Members**<br>Mr. Andrew Johnson, president-elect, SCDTSEA<br>**Installation of Officers**<br>Dr. Albert Neal, Chaplain, SCDTSEA|
+|8:20 - 8:45|**SCDTSEA Business Meeting, Part 1**<br>**Election Committee Report**<br>Joe Sabbadino, Past President, SCDTSEA; Lance Collins, Website Editor, SCDTSEA<br>**Election of SCDTSEA Officers &amp; Board Members**<br>Mr. Andrew Johnson, President-Elect, SCDTSEA<br>**Installation of Officers**<br>Dr. Albert Neal, Chaplain, SCDTSEA|
 |8:45 - 9:15|**Autonomous Vehicles**<br>Mr. Andy Pilgrim, Traffic Safety Expert, Traffic Safety Education Foundation, FL|
 |9:15 - 10:15|**Fun in the Classroom**<br>Mr. Greg Mangan, Drive 4 Life Academy, TN|
 |10:15 - 10:30|Break with Exhibitors/Vendors & Check Door Prizes|

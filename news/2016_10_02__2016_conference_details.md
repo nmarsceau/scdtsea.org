@@ -22,7 +22,7 @@ The 2016 SCDTSEA Conference will be held on Friday, November 18, 2016 in Blythew
 |7:30 - 8:30|**Registration & Visiting Exhibits**|
 |8:30 - 8:45|**Welcome, Invocation, and Pledge of Allegiance**<br>*Presiding Officer: David Smith, President, SCDTSEA*<br>*Dr. Albert Neal, Chaplain, SCDTSEA*<br>*Ms. Dixie McNair, Board Member, SCDTSEA*|
 |8:45 - 9:00|**Greetings**<br>*Mr. Karl McClary, Inspector General, SCDMV*|
-|9:00 - 9:30|**Business Meeting, part 1**<br>*Election of SCDTSEA Officers & Board Members: Mr. Andrew Johnson, president-elect, SCDTSEA*<br>*Installation of Officers: Dr. Albert Neal, Chaplain*|
+|9:00 - 9:30|**Business Meeting, part 1**<br>*Election of SCDTSEA Officers & Board Members: Mr. Andrew Johnson, President-Elect, SCDTSEA*<br>*Installation of Officers: Dr. Albert Neal, Chaplain*|
 |9:30 - 10:15|**Parents' Role in Driver Education/Training**<br>*Andy Pilgrim, Expert Driver Trainer*|
 |10:15 - 10:25|Break: Visit Exhibits and Check Door Prizes Booth|
 |10:25 - 10:55|**Tips/Reminders for Driver Education Teachers**<br>*Dr. Harry Stille, Driver Education Professor, Erskine College, Due West, SC*|

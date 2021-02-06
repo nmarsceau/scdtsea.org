@@ -10,12 +10,12 @@
 					{% endif %}
 				</a>
 			</h2>
-      <time datetime="{{ post.date | machineDate }}" class="timestamp">
-        <small>{{ post.date | readableDate }}</small>
-      </time>
+      <small>
+        <time datetime="{{ post.date | machineDate }}" class="timestamp">{{ post.date | readableDate }}</time>
+      </small>
       {% if post.data.tags %}
         {% for tag in post.data.tags %}
-          {%- if tag != "post" -%}
+          {%- if tag !== "post" -%}
             {% set tagUrl %}/tags/{{ tag }}/{% endset %}
             <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
           {%- endif -%}

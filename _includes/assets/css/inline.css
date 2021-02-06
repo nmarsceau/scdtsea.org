@@ -511,7 +511,7 @@ a[rel="tag"]:hover {
 	color: #005498;
 }
 
-.posts-list a[rel="tag"]:first-of-type {
+a[rel="tag"]:first-of-type {
   margin-left: 1em;
 }
 
