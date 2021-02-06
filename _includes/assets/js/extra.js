@@ -26,6 +26,7 @@
     if (window.history.length > 1) {
       event.preventDefault();
       window.history.back();
+      setTimeout(() => window.location.href = link.href, 300);
     }
   }));
 })();
