@@ -1,5 +1,5 @@
 ---
-title: To Click or Not To Click&mdash;The Seatbelt
+title: To Click or Not To Click—The Seatbelt
 date: 2015-08-04T00:00:00-05:00
 summary:
   To click or not to click the seat belt—that shouldn't be a question. You cannot ride a roller coaster without a safety belt. You cannot fly in an airplane without a safety belt. You should not ride in a vehicle without a seat belt! One of the keys to life is to buckle up before driving.

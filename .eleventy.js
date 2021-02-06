@@ -6,7 +6,7 @@ const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const { isMdAsciiPunct } = require("markdown-it/lib/common/utils");
 
-module.exports = function(eleventyConfig) {
+module.exports = eleventyConfig => {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -22,33 +22,35 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   // Date formatting (human readable)
-  eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
-  });
+  eleventyConfig.addFilter('readableDate', dateObj => DateTime.fromJSDate(dateObj).toFormat('LLLL d, yyyy'));
 
   // Date formatting (machine readable)
-  eleventyConfig.addFilter("machineDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
+  eleventyConfig.addFilter('machineDate', dateObj => DateTime.fromJSDate(dateObj).toFormat('yyyy-MM-dd'));
+
+  eleventyConfig.addFilter('capitalizeWords', text => {
+    const textArray = text.split(' ');
+    for (let i = 0; i < textArray.length; i++) {
+      textArray[i] = textArray[i].substring(0, 1).toUpperCase() + textArray[i].substring(1);
+    }
+    return textArray.join(' ');
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+  eleventyConfig.addFilter('cssmin', code => new CleanCSS({}).minify(code).styles);
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter('jsmin', code => {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
+      console.log('UglifyJS error: ', minified.error);
       return code;
     }
     return minified.code;
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
+  eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
+    if (outputPath.indexOf('.html') > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
@@ -60,22 +62,20 @@ module.exports = function(eleventyConfig) {
   });
 
   // Universal slug filter strips unsafe chars from URLs
-  eleventyConfig.addFilter("slugify", function(str) {
-    return slugify(str, {
-      lower: true,
-      replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
-    });
-  });
+  eleventyConfig.addFilter('slugify', str => slugify(str, {
+    lower: true,
+    replacement: '-',
+    remove: /[*+~.·,()'"`´%!?¿:@]/g
+  }));
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("static/img");
-  eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/");
+  eleventyConfig.addPassthroughCopy('static/img');
+  eleventyConfig.addPassthroughCopy('admin');
+  eleventyConfig.addPassthroughCopy('_includes/assets/');
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
+  let markdownIt = require('markdown-it');
+  let markdownItAnchor = require('markdown-it-anchor');
   let options = {
     html: true,
     breaks: true,
@@ -87,29 +87,27 @@ module.exports = function(eleventyConfig) {
 
   const md = markdownIt(options)
     .use(markdownItAnchor, opts);
-  eleventyConfig.setLibrary("md", md);
+  eleventyConfig.setLibrary('md', md);
 
-  eleventyConfig.addFilter('markdownify', (markdownString) =>
-    md.render(markdownString)
-  );
+  eleventyConfig.addFilter('markdownify', markdownString => md.render(markdownString));
 
   return {
-    templateFormats: ["md", "njk", "html", "liquid"],
+    templateFormats: ['md', 'njk', 'html', 'liquid'],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about it.
     // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
     // This is only used for URLs (it does not affect your file structure)
-    pathPrefix: "/",
+    pathPrefix: '/',
 
-    markdownTemplateEngine: "liquid",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk",
+    markdownTemplateEngine: 'liquid',
+    htmlTemplateEngine: 'njk',
+    dataTemplateEngine: 'njk',
     dir: {
-      input: ".",
-      includes: "_includes",
-      data: "_data",
-      output: "_site"
+      input: '.',
+      includes: '_includes',
+      data: '_data',
+      output: '_site'
     }
   };
 };

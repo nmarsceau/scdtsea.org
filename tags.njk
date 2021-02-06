@@ -11,13 +11,13 @@ pagination:
 permalink: /tags/{{ tag }}/
 layout: layouts/base.njk
 renderData:
-  title: "Tagged “{{ tag }}”"
+  title: "Tagged “{{ tag | capitalizeWords }}”"
 ---
 <nav>
   <a href="/news" class="back">← Back</a>
 </nav>
 
-<h1>Tagged “{{ tag }}”</h1>
+<h1>Tagged “{{ tag | capitalizeWords }}”</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "components/postslist.njk" %}
