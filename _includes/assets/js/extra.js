@@ -26,7 +26,8 @@
     if (window.history.length > 1) {
       event.preventDefault();
       window.history.back();
-      setTimeout(() => window.location.href = link.href, 300);
+      const fallback_timeout = setTimeout(() => window.location.href = link.href, 300);
+      window.addEventListener('beforeunload', () => clearTimeout(fallback_timeout));
     }
   }));
 })();
