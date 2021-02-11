@@ -188,6 +188,10 @@ li {
   line-height: 1.7;
 }
 
+.pagination > a {
+  line-height: 1.7;
+}
+
 a:link, a:visited {
   color: #005498;
 }
