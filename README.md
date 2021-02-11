@@ -4,5 +4,8 @@
 
 This is the codebase for [scdtsea.org].
 
+![A desktop-size screenshot of the website.][desktop 1]
+
 
 [scdtsea.org]: https://www.scdtsea.org/
+[desktop 1]: https://github.com/nmarsceau/scdtsea.org/blob/wiki_images/wiki_images/scdtsea.png
