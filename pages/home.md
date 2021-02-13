@@ -43,7 +43,7 @@ letter: >-
   In a pre-class letter to parents of my commercial driver training school, I try to share my curriculum guidelines and also share this on the first day of class with my students. I know we are most limited in what can be done in eight hours of classwork and six hours of BTW. The more planning and organization, the better the results.
 
 
-  When I was a high school driver educator, more could be done because of the required 30 hours of classroom teaching. Here is a letter that I used to give to my high school parents. All that is in the letter cannot be done in eight hours, but I challenge you to consider what are the most important things to do for the students.
+  When I was a high school driver educator, more could be done because of the required 30 hours of classroom teaching. Here is [a letter that I used to give to my high school parents](/static/img/pdf/driver_education_letter.pdf). All that is in the letter cannot be done in eight hours, but I challenge you to consider what are the most important things to do for the students.
 
 
   Sincerely,
