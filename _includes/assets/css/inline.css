@@ -604,6 +604,10 @@ a[rel="tag"]:last-child {
   width: 1px;
 }
 
+.no-wrap {
+  white-space: nowrap;
+}
+
 .social-links {
   margin: -0.2em 0 0;
 }
