@@ -12,7 +12,7 @@ board_members:
     position: President-Elect
   - title: Andrew Johnson
     position: Past President
-  - title: None
+  - title: Sherry Bachmann
     position: Treasurer
   - title: Jerry Lloyd
     position: Secretary
