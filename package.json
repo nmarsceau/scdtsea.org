@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "This is the codebase for scdtsea.org.",
   "scripts": {
+    "dev": "npx eleventy --serve",
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy"

@@ -2,6 +2,7 @@
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
 	{% include "components/head.njk" %}
 	<body>
+    <a href="#main-content">Skip to main content</a>
 		<header>
       <picture class="banner">
         <source type="image/webp" media="(max-width: 576px)" srcset="/static/img/banner/xs.webp" />
@@ -49,6 +50,7 @@
       </nav>
 		</header>
 		<main>
+      <span id="main-content" tabindex="-1"></span>
 			{{ layoutContent | safe }}
 		</main>
 		{% include "components/footer.njk" %}
