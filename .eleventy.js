@@ -92,6 +92,8 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addFilter('markdownify', markdownString => md.render(markdownString));
 
+  eleventyConfig.setQuietMode(true);
+
   return {
     templateFormats: ['md', 'njk', 'html', 'liquid'],
 
