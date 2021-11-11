@@ -3,6 +3,9 @@ layout: layouts/award.njk
 permalink: /awards/driver-education-teacher-of-the-year/index.html
 title: Driver Education Teacher of the Year
 recipients:
+  - year: 2021
+    recipient: Warren R. Pemberton
+    location_organization: Lewisville High School
   - year: 2020
     recipient: Ron Lanham
     location_organization: Beaufort High School

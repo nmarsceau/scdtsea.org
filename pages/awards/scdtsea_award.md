@@ -11,6 +11,9 @@ criteria: >-
 
   * Example of professionalism in teaching and living.
 recipients:
+  - year: 2021
+    recipient: Andrew Johnson
+    location_organization: A & R Driving School
   - year: 2020
     recipient: Tommy Price
     location_organization: Anderson, SC

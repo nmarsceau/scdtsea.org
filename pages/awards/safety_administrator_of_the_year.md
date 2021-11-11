@@ -29,6 +29,9 @@ criteria: >-
 
   * Joined SCDTSEA and ADTSEA.
 recipients:
+  - year: 2021
+    recipient: Florence McCants
+    location_organization: Criminal Justice Academy
   - year: 2020
     recipient: Nicole McGarity
     location_organization: AAA Carolinas

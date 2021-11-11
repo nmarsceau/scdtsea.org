@@ -3,6 +3,9 @@ layout: layouts/award.njk
 permalink: /awards/traffic-safety-officer-of-the-year/index.html
 title: Traffic Safety Officer of the Year
 recipients:
+  - year: 2021
+    recipient: Ernest Powell
+    location_organization: SCDMV Inspector
   - year: 2019
     recipient: Mark Keel (accepted by Terry Taylor SCDMV)
     location_organization: SLED Chief

@@ -3,6 +3,9 @@ layout: layouts/award.njk
 permalink: /awards/outstanding-service-in-safety/index.html
 title: Outstanding Service in Safety (given by Lonnie L. Dunlap)
 recipients:
+  - year: 2021
+    recipient: Lindsey Stribble
+    location_organization: Mid-Carolina High School
   - year: 1983
     recipient: Virginia Hunter and Mildred Ward
   - year: 1981

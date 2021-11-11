@@ -15,6 +15,8 @@ criteria: >-
 
   * Is active in legislative activities for driver education/training in the state of South Carolina.
 recipients:
+  - year: 2021
+    recipient: Alert Driver Training
   - year: 2020
     recipient: Coaches Driving School
   - year: 2019

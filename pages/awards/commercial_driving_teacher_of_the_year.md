@@ -27,6 +27,9 @@ criteria: >-
 
   * Has shown interest in the national level by being a member of ADTSEA.
 recipients:
+  - year: 2021
+    recipient: Stanley Huntley
+    location_organization: S & A Driving Academy LLC
   - year: 2020
     recipient: Lance Collins
     location_organization: Auto-Safe Driving School, Greenville

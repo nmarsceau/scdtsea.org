@@ -3,6 +3,11 @@ layout: layouts/award.njk
 permalink: /awards/friends-of-driver-and-traffic-safety-education/index.html
 title: Friends of Driver & Traffic Safety Education
 recipients:
+  - year: 2021
+    recipient: Janice Cowen
+    location_organization: Operation Life Saver
+  - year: 2021
+    recipient: Dr. Albert Neal
   - year: 2018
     recipient: Rick Todd
     location_organization: SCTA
