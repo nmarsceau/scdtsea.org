@@ -6,11 +6,11 @@ eleventyNavigation:
   key: Board
   order: 6
 board_members:
-  - title: Joe Sabbadino
-    position: President
   - title: David Smith
+    position: President
+  - title: Robert Suggs
     position: President-Elect
-  - title: Andrew Johnson
+  - title: Joe Sabbadino
     position: Past President
   - title: Sherry Bachmann
     position: Treasurer
@@ -18,14 +18,14 @@ board_members:
     position: Secretary
   - title: Lance Collins
     position: Website Editor
-  - title: Janice Cowen
+  - title: Andrew Johnson
     position: Historian
   - title: Dr. Albert Neal
     position: Chaplain
-  - title: Kevin Carr
+  - title: Alan Beckley
     position: Board Member
-  - title: Tommy Price
+  - title: Tina Dodd
     position: Board Member
-  - title: Bill Seawright
+  - title: Robbie Wiggins
     position: Board Member
 ---

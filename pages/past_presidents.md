@@ -134,4 +134,7 @@ past_presidents:
   - title: 2019-21
     name: Joe Sabbadino
     location_organization: Sabbadino Driving School
+  - title: 2021-22
+    name: David E. Smith
+    location_organization: White Knoll High School
 ---
