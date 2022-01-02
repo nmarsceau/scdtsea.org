@@ -15,6 +15,13 @@ criteria: >-
 
   * The teacher must be present at the fall conference for the poster to be eligible to win.
 recipients:
+  - year: 2021
+    recipient: >-
+      **1st Place**: Matthew Troyer, Sabbadino Driving School LLC, Taylors
+
+      **2nd Place**: Bethany Poteat, Sabbadino Driving School LLC, Taylors
+
+      **3rd Place**: Daniel Wokaty, Sabbadino Driving School LLC, Taylors
   - year: 2020
     recipient: >-
       **1st Place**: Owen Nigh, Sabbadino Driving School LLC, Taylors
