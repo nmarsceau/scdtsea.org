@@ -25,35 +25,33 @@ purpose: >-
 letter: >-
   ## Message From The President
 
-  Dear Driver & Traffic Safety Education Colleagues,
+  I am truly honored to be the President of the SCDTSEA for the two year term of 2021-2023. I have been coming to these conferences since they were held on Broad River Road in the 90&apos;s and I always took something back to my high school or commercial school to pass on to young novice drivers.
 
 
-  Everyone has been hoping that this virus situation would be less and less, but it seems to become more and more. Because of this concern regarding our physical safety, the Executive Committee decided this afternoon that we will **NOT** have a conference this year. We will just keep the 2020 officers for 2021.
+  I always looked so forward to seeing &ldquo;legends&rdquo; such as Dr. Harry Stille talk about Wal-Mart and why he used a certain type of toothpaste&mdash;the young teachers in our profession will certainly miss out on those educational talks.
 
 
-  Perhaps we will have two poster contests next year&mdash;so save the cell phone posters and we will come up with another poster theme for 2021. If anyone has already sent in the registration and payment for the 2020 Conference, Sherry Bachmann will return your payment.
+  We are now in 2022 and we are talking about driving cars that control themselves and have blind spot alarms&mdash;I worry that the skill of driving will be lost on these new bells and whistles:
 
 
-  Share ideas of what you would like to have at the 2021 SCDTSEA Conference. We appreciate any feedback that you can give us.
+  1. Not being distracted
+
+  2. Keeping a safe following distance
+
+  3. Maintaining the speed limit
+
+  4. Using the Smith system
 
 
-  You know how I always like to share things. Our having good public relations with parents and students is a must. I know many of you have different ways to do this. Of course, our love, dedication and concern to help improve safety makes a difference to the students and is contagious. Some of you have a special meeting just for the parents. I believe we all give parents handouts during registration that helps parents help their teenagers.
+  I have talked enough&mdash;Thanks for visiting our website and I look forward to seeing you and having you become involved with the SCDTSEA in 2022.
 
 
-  In a pre-class letter to parents of my commercial driver training school, I try to share my curriculum guidelines and also share this on the first day of class with my students. I know we are most limited in what can be done in eight hours of classwork and six hours of BTW. The more planning and organization, the better the results.
+  Best wishes,
 
 
-  When I was a high school driver educator, more could be done because of the required 30 hours of classroom teaching. Here is [a letter that I used to give to my high school parents](/static/img/pdf/driver_education_letter.pdf). All that is in the letter cannot be done in eight hours, but I challenge you to consider what are the most important things to do for the students.
+  David E. Smith
 
-
-  Sincerely,
-  
-  Joe
-
-
-  *Joe Sabbadino*
-  
-  *President, SCDTSEA*
+  *SCDTSEA President 2021-2023*
 ---
 <h1>SCDTSEA</h1>
 <article>
