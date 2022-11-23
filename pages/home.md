@@ -7,9 +7,9 @@ mission: >-
 
   is to support and advance traffic safety and education among commercial and public driving schools. The members work together to promote solutions and laws related to driver safety and education.
 image:
-  jpg: /static/img/posts/lifetime_service.jpg
-  webp: /static/img/posts/lifetime_service.webp
-  alt: All three recipients of the lifetime service in driver and traffic safety education award, Harry Stille, Dr. Albert Neal, and Jim Collins
+  jpg: /static/img/posts/joe_and_julie_sabbadino_and_sherry_bachmann.jpg
+  webp: /static/img/posts/joe_and_julie_sabbadino_and_sherry_bachmann.webp
+  alt: Joe and Julie Sabbadino with Sherry Bachmann.
 purpose: >-
   ## Our Purpose
 
