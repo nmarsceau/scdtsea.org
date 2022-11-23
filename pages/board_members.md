@@ -22,8 +22,6 @@ board_members:
     position: Historian
   - title: Dr. Albert Neal
     position: Chaplain
-  - title: Alan Beckley
-    position: Board Member
   - title: Tina Dodd
     position: Board Member
   - title: Robbie Wiggins
