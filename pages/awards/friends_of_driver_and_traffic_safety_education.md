@@ -3,6 +3,8 @@ layout: layouts/award.njk
 permalink: /awards/friends-of-driver-and-traffic-safety-education/index.html
 title: Friends of Driver & Traffic Safety Education
 recipients:
+  - year: 2022
+    recipient: Major Florence McCants
   - year: 2021
     recipient: Janice Cowen
     location_organization: Operation Life Saver

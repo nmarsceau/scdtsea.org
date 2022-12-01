@@ -3,6 +3,9 @@ layout: layouts/award.njk
 permalink: /awards/outstanding-leadership-in-driver-and-traffic-safety/index.html
 title: Outstanding Leadership in Driver & Traffic Safety
 recipients:
+  - year: 2022
+    recipient: David Smith
+    location_organization: Pelion High School
   - year: 2021
     recipient: David Smith
     location_organization: Pelion High School

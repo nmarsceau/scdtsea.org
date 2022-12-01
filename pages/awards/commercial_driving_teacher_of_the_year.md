@@ -27,6 +27,9 @@ criteria: >-
 
   * Has shown interest in the national level by being a member of ADTSEA.
 recipients:
+  - year: 2022
+    recipient: Kimberly Kier
+    location_organization: Championship Driving School
   - year: 2021
     recipient: Stanley Huntley
     location_organization: S & A Driving Academy LLC

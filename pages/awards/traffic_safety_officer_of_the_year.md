@@ -3,6 +3,8 @@ layout: layouts/award.njk
 permalink: /awards/traffic-safety-officer-of-the-year/index.html
 title: Traffic Safety Officer of the Year
 recipients:
+  - year: 2022
+    recipient: Officer Brian T. Lee
   - year: 2021
     recipient: Ernest Powell
     location_organization: SCDMV Inspector
