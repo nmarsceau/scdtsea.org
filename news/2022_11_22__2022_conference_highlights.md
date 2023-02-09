@@ -156,11 +156,14 @@ award_winners:
     images:
       - jpg: /static/img/awards/2022/poster_contest_1.jpg
         webp: /static/img/awards/2022/poster_contest_1.webp
-        alt: Poster contest
+        alt: Poster contest winner, Elle Gafken
       - jpg: /static/img/awards/2022/poster_contest_2.jpg
         webp: /static/img/awards/2022/poster_contest_2.webp
         alt: Poster contest
       - jpg: /static/img/awards/2022/poster_contest_3.jpg
         webp: /static/img/awards/2022/poster_contest_3.webp
+        alt: Poster contest
+      - jpg: /static/img/awards/2022/poster_contest_4.jpg
+        webp: /static/img/awards/2022/poster_contest_4.webp
         alt: Poster contest
 ---
