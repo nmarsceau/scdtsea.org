@@ -213,6 +213,14 @@ form.border {
   padding: 0 1em 1em;
 }
 
+blockquote {
+    border-inline-start: 4px solid #005498;
+    margin-inline-start: 1.5em;
+    padding-inline-start: 0.5em;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
 
 /* Banner Image */
 header {
