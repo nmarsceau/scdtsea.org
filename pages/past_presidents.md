@@ -134,7 +134,7 @@ past_presidents:
   - title: 2019-21
     name: Joe Sabbadino
     location_organization: Sabbadino Driving School
-  - title: 2021-22
+  - title: 2021-23
     name: David E. Smith
     location_organization: Pelion High School
 ---

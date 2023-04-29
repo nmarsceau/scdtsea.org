@@ -8,14 +8,12 @@ permalink: /past_presidents/index.html
 {{ layoutContent | safe }}
 
 <table>
-  <thead>
-  </thead>
-  <tbody>
-	{% for president in past_presidents | reverse %}
-		<tr>
-      <td><span style="white-space: nowrap;">{{ president.title }}</span></td>
-      <td>{{ president.name }}{% if president.location_organization %}, {{ president.location_organization }}{% endif %}</td>
-		</tr>
-	{% endfor %}
-  </tbody>
+    <tbody>
+        {% for president in past_presidents | reverse %}
+            <tr>
+                <td><span class="no-wrap">{{ president.title }}</span></td>
+                <td>{{ president.name }}{% if president.location_organization %}, {{ president.location_organization }}{% endif %}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
 </table>
