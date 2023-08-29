@@ -23,35 +23,41 @@ purpose: >-
 
   1. Protect the rights of safety educators and advance their interests and welfare.
 letter: >-
-  ## Message From The President
+  ## Message From The Past President
 
-  I am truly honored to be the President of the SCDTSEA for the two year term of 2021-2023. I have been coming to these conferences since they were held on Broad River Road in the 90&apos;s and I always took something back to my high school or commercial school to pass on to young novice drivers.
-
-
-  I always looked so forward to seeing &ldquo;legends&rdquo; such as Dr. Harry Stille talk about Wal-Mart and why he used a certain type of toothpaste&mdash;the young teachers in our profession will certainly miss out on those educational talks.
+  SCDTSEA leaders are working to have another great teaching conference. DOE used to have education workshops, but now such belongs to the SCDTSEA Conference. It will be held at the Criminal Justice Academy in Columbia. The theme is &ldquo;14 hours Plus&rdquo;. Please mark November 17 for this, and more information will be sent later.
 
 
-  We are now in 2022 and we are talking about driving cars that control themselves and have blind spot alarms&mdash;I worry that the skill of driving will be lost on these new bells and whistles:
+  Since the beginning of SCDTSEA, we had youth safety conferences and poster contests. No longer youth safety conferences, but we still have the yearly poster contests. [See this flyer for this year's poster contest details](/static/img/pdf/2023%20poster%20contest%20details.pdf).
 
 
-  1. Not being distracted
-
-  2. Keeping a safe following distance
-
-  3. Maintaining the speed limit
-
-  4. Using the Smith system
+  If you are interested to contact the President David Smith, his email is [cda3110@yahoo.com](mailto:cda3110@yahoo.com). The email for our President-Elect Robert Suggs is [championshipdriving@gmail.com](mailto:championshipdriving@gmail.com).
 
 
-  I have talked enough&mdash;Thanks for visiting our website and I look forward to seeing you and having you become involved with the SCDTSEA in 2022.
+  SCDTSEA has been in existence for over 40 years. It was established as a partner of the American Driver and Traffic Safety Education Association (ADTSEA) to:
 
 
-  Best wishes,
+  1. Promote and advance all phases of Driver and Traffic Safety Education in South Carolina.
+
+  2. Identify problems and promote solutions to enhance the teaching of Driver and Traffic Safety Education.
+
+  3. Promote cooperation with agencies in the interest of teaching Driver and Traffic Safety in the state of South Carolina.
+
+  4. Stimulate general interest in the conservation of human life, particularly as it relates to vehicular and pedestrian safety in South Carolina.
 
 
-  David E. Smith
+  We have been pleased that participants at our various SCDTSEA Conferences have consisted mainly of South Carolina teachers/instructors (high schools and commercial schools), business and industrial leaders, representatives from government agencies from South Carolina and from neighboring states who support driver education and traffic safety. Hope you will be able to make our November 17, 2023 conference!
 
-  *SCDTSEA President 2021-2023*
+
+  To bring this letter to an end, I thought I would share something that I am now using in my teaching that may also be of interest for your use. I have recently been convinced that most people tailgate because they don't realize the braking and following distances involved to stop. [The recent study I have done about this is here](/static/img/pdf/Braking%20and%20Following%20Distances.pdf), hoping that some of it might also be of use to your students.
+
+  
+  Sincerely,
+
+
+  Joe Sabbadino
+
+  *Past President, SCDTSEA*
 ---
 <h1>SCDTSEA</h1>
 <article>
