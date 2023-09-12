@@ -10,9 +10,9 @@ containsForm: true
 containsCount: true
 ---
 ## Address
-South Carolina Driver &amp; Traffic Safety Education Association
-P.O. Box 203
-Due West, SC 29639
+SCDTSEA
+10 Sutton Drive
+Taylors, SC 29687
 
 ## Phone
 <a href="tel:8642920259">(864) 292-0259</a>
