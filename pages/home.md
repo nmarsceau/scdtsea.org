@@ -25,7 +25,7 @@ purpose: >-
 letter: >-
   ## Message From The Past President
 
-  SCDTSEA leaders are working to have another great teaching conference. DOE used to have education workshops, but now such belongs to the SCDTSEA Conference. It will be held at the Criminal Justice Academy in Columbia. The theme is &ldquo;14 hours Plus&rdquo;. Please mark November 17 for this, and more information will be sent later.
+  SCDTSEA leaders are working to have another great teaching conference. DOE used to have education workshops, but now such belongs to the SCDTSEA Conference. It will be held at the Criminal Justice Academy in Columbia. The theme is &ldquo;14 hours Plus&rdquo;. Please mark November 17 for this. To register, please fill out and send in a [conference registration form](/static/img/pdf/2023%20SCDTSEA%20Conference%20Registration%20Form.pdf). If you are interested in joining SCDTSEA, but won't be able to make it to the conference this year, use the [general SCDTSEA membership form](/static/img/pdf/2023%20SCDTSEA%20Membership%20Application.pdf).
 
 
   Since the beginning of SCDTSEA, we had youth safety conferences and poster contests. No longer youth safety conferences, but we still have the yearly poster contests. [See this flyer for this year's poster contest details](/static/img/pdf/2023%20poster%20contest%20details.pdf).
