@@ -22,7 +22,7 @@ board_members:
     position: Historian
   - title: Dr. Albert Neal
     position: Chaplain
-  - title: Tina Dodd
+  - title: Rebecca Grubbs
     position: Board Member
   - title: Robbie Wiggins
     position: Board Member
