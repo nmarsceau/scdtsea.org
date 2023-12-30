@@ -1,6 +1,6 @@
 ---
 title: Joe Sabbadino
-position: President
+position: Treasurer
 image:
   jpg: /static/img/board/joe_sabbadino.jpg
   webp: /static/img/board/joe_sabbadino.webp

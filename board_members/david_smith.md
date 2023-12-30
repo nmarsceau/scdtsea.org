@@ -1,6 +1,6 @@
 ---
 title: David Smith
-position: President-Elect
+position: Past President
 image:
   jpg: /static/img/board/david_smith.jpg
   webp: /static/img/board/david_smith.webp

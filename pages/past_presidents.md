@@ -137,4 +137,7 @@ past_presidents:
   - title: 2021-23
     name: David E. Smith
     location_organization: Pelion High School
+  - title: 2023-24
+    name: Robert Suggs
+    location_organization: Championship Driving School
 ---

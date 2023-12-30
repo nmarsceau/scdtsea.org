@@ -6,13 +6,13 @@ eleventyNavigation:
   key: Board
   order: 6
 board_members:
-  - title: David Smith
-    position: President
   - title: Robert Suggs
+    position: President
+  - title: Jarrod Brooks
     position: President-Elect
-  - title: Joe Sabbadino
+  - title: David Smith
     position: Past President
-  - title: Sherry Bachmann
+  - title: Joe Sabbadino
     position: Treasurer
   - title: Jerry Lloyd
     position: Secretary
@@ -25,5 +25,7 @@ board_members:
   - title: Rebecca Grubbs
     position: Board Member
   - title: Robbie Wiggins
+    position: Board Member
+  - title: Lee Taylor
     position: Board Member
 ---

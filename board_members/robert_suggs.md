@@ -1,6 +1,6 @@
 ---
 title: Robert Suggs
-position: President-Elect
+position: President
 image:
   jpg: /static/img/board/robert_suggs.jpg
   webp: /static/img/board/robert_suggs.webp
