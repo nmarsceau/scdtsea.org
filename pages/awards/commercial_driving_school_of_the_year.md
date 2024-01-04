@@ -15,6 +15,8 @@ criteria: >-
 
   * Is active in legislative activities for driver education/training in the state of South Carolina.
 recipients:
+  - year: 2023
+    recipient: Precious Cargo Driving School
   - year: 2022
     recipient: A & R Driving School
   - year: 2021

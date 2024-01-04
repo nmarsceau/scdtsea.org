@@ -52,6 +52,18 @@ gallery:
     webp: /static/img/slideshow/2023/15.webp
     alt: President Robert Suggs and past president David Smith.
 award_winners:
+  - award_name: Commercial Driving School of the Year
+    winner: Precious Cargo Driving School
+  - award_name: Commercial Driving School Teacher of the Year
+    winner: Mike Waters, Cruise Control Driving School
+  - award_name: Driver Education Teacher of the Year
+    winner: Alisa Jones, South Florence High School
+  - award_name: Outstanding Dedication and Service to SCDTSEA
+    winner: Jerry Lloyd
+  - award_name: Harry Stille Award
+    winner: Robbie Wiggins
+  - award_name: SCDTSEA Award
+    winner: David Smith
   - award_name: Poster Contest
     poster_winners:
       - place: 1st ($300)

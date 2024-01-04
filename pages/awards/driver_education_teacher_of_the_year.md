@@ -3,6 +3,9 @@ layout: layouts/award.njk
 permalink: /awards/driver-education-teacher-of-the-year/index.html
 title: Driver Education Teacher of the Year
 recipients:
+  - year: 2023
+    recipient: Alisa Jones
+    location_organization: South Florence High School
   - year: 2022
     recipient: George Wallace
     location_organization: Lee Central High School

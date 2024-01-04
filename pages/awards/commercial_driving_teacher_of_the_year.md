@@ -27,6 +27,9 @@ criteria: >-
 
   * Has shown interest in the national level by being a member of ADTSEA.
 recipients:
+  - year: 2023
+    recipient: Mike Waters
+    location_organization: Cruise Control Driving School
   - year: 2022
     recipient: Kimberly Kier
     location_organization: Championship Driving School

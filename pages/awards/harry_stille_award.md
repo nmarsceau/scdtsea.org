@@ -3,6 +3,9 @@ layout: layouts/award.njk
 permalink: /awards/harry-stille-award/index.html
 title: Harry Stille Award
 recipients:
+  - year: 2023
+    recipient: Robbie Wiggins
+    location_organization: Erskine College
   - year: 2022
     recipient: Dr. Albert Neal
   - year: 2021

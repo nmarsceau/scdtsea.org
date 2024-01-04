@@ -11,6 +11,9 @@ criteria: >-
 
   * Example of professionalism in teaching and living.
 recipients:
+  - year: 2023
+    recipient: David Smith
+    location_organization: Pelion High School
   - year: 2022
     recipient: Sherry Bachmann
     location_organization: Precious Cargo Driving School
