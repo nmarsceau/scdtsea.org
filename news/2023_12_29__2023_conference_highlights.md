@@ -8,49 +8,70 @@ year: 2023
 gallery:
   - jpg: /static/img/slideshow/2023/1.jpg
     webp: /static/img/slideshow/2023/1.webp
-    alt: Enjoying lunch at the conference.
+    alt: Jarrod, Harold, and Lance before the conference.
   - jpg: /static/img/slideshow/2023/2.jpg
     webp: /static/img/slideshow/2023/2.webp
-    alt: Past president David Smith - opening words.
+    alt: Jarrod, Harold, and Lance before the conference.
   - jpg: /static/img/slideshow/2023/3.jpg
     webp: /static/img/slideshow/2023/3.webp
-    alt: Albert Neal - opening charge.
+    alt: Enjoying lunch at the conference.
   - jpg: /static/img/slideshow/2023/4.jpg
     webp: /static/img/slideshow/2023/4.webp
-    alt: A conference speaker.
+    alt: Conference booths.
   - jpg: /static/img/slideshow/2023/5.jpg
     webp: /static/img/slideshow/2023/5.webp
-    alt: President Robert Suggs.
+    alt: Past president David Smith - opening words.
   - jpg: /static/img/slideshow/2023/6.jpg
     webp: /static/img/slideshow/2023/6.webp
-    alt: A conference speaker.
+    alt: Dr. Albert Neal - opening charge.
   - jpg: /static/img/slideshow/2023/7.jpg
     webp: /static/img/slideshow/2023/7.webp
-    alt: Joe Sabbadino, Treasurer.
+    alt: Dr. Albert Neal - opening charge.
   - jpg: /static/img/slideshow/2023/8.jpg
     webp: /static/img/slideshow/2023/8.webp
-    alt: A conference speaker.
+    alt: Dr. Albert Neal - opening charge.
   - jpg: /static/img/slideshow/2023/9.jpg
     webp: /static/img/slideshow/2023/9.webp
-    alt: Poster contest.
+    alt: Dr. Albert Neal receiving an award.
   - jpg: /static/img/slideshow/2023/10.jpg
     webp: /static/img/slideshow/2023/10.webp
-    alt: Poster contest.
+    alt: A conference speaker.
   - jpg: /static/img/slideshow/2023/11.jpg
     webp: /static/img/slideshow/2023/11.webp
-    alt: A conference presentation.
+    alt: President Robert Suggs.
   - jpg: /static/img/slideshow/2023/12.jpg
     webp: /static/img/slideshow/2023/12.webp
-    alt: A conference presentation.
+    alt: A conference speaker.
   - jpg: /static/img/slideshow/2023/13.jpg
     webp: /static/img/slideshow/2023/13.webp
-    alt: A conference speaker.
+    alt: Joe Sabbadino, Treasurer.
   - jpg: /static/img/slideshow/2023/14.jpg
     webp: /static/img/slideshow/2023/14.webp
     alt: A conference speaker.
   - jpg: /static/img/slideshow/2023/15.jpg
     webp: /static/img/slideshow/2023/15.webp
+    alt: Poster contest.
+  - jpg: /static/img/slideshow/2023/16.jpg
+    webp: /static/img/slideshow/2023/16.webp
+    alt: Poster contest.
+  - jpg: /static/img/slideshow/2023/17.jpg
+    webp: /static/img/slideshow/2023/17.webp
+    alt: A conference presentation.
+  - jpg: /static/img/slideshow/2023/18.jpg
+    webp: /static/img/slideshow/2023/18.webp
+    alt: A conference presentation.
+  - jpg: /static/img/slideshow/2023/19.jpg
+    webp: /static/img/slideshow/2023/19.webp
+    alt: A conference speaker.
+  - jpg: /static/img/slideshow/2023/20.jpg
+    webp: /static/img/slideshow/2023/20.webp
+    alt: A conference speaker.
+  - jpg: /static/img/slideshow/2023/21.jpg
+    webp: /static/img/slideshow/2023/21.webp
     alt: President Robert Suggs and past president David Smith.
+  - jpg: /static/img/slideshow/2023/22.jpg
+    webp: /static/img/slideshow/2023/22.webp
+    alt: President Robert Suggs and two SC Highway Patrolmen.
 award_winners:
   - award_name: Commercial Driving School of the Year
     winner: Precious Cargo Driving School
