@@ -45,4 +45,4 @@ body: >-
   
   If you have any questions about our privacy policy and/or the practices of our web site, you can always [contact us](/contact).
 ---
-{{ body | safe }}
+{{ body | raw }}

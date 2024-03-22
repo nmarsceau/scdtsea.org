@@ -11,7 +11,7 @@ tags:
 {% assign alt = "Dr. Harry Stille" %}
 {% assign container_class = "" %}
 {% assign img_class = "border" %}
-{% include components/picture.njk %}
+{% include 'components/picture' %}
 
 Dear Colleagues,
 

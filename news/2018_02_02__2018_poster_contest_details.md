@@ -44,4 +44,4 @@ See below for poster contest details
 {% assign alt = "2018 Poster Contest Details" %}
 {% assign container_class = "" %}
 {% assign img_class = "border" %}
-{% include components/picture.njk %}
+{% include 'components/picture' %}

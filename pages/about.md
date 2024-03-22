@@ -71,4 +71,4 @@ body: >-
 
   [Privacy Policy](/privacy)
 ---
-{{ body | safe }}
+{{ body | raw }}

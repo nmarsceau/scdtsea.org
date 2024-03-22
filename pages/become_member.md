@@ -55,4 +55,4 @@ body: >-
     <iframe src="/static/img/pdf/scdtsea_membership_application.pdf"></iframe>
   </div>
 ---
-{{ body | safe }}
+{{ body | raw }}

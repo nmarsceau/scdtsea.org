@@ -64,7 +64,7 @@ letter: >-
 ---
 <h1>SCDTSEA</h1>
 <article>
-  {{ mission | markdownify | safe }}
+  {{ mission | markdownify | raw }}
 </article>
 
 <div class="img-container center large float-right">
@@ -75,9 +75,9 @@ letter: >-
 </div>
 
 <article>
-  {{ purpose | markdownify | safe }}
+  {{ purpose | markdownify | raw }}
 </article>
 
 <article>
-  {{ letter | markdownify | safe }}
+  {{ letter | markdownify | raw }}
 </article>

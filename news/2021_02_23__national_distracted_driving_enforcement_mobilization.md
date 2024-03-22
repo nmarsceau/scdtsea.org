@@ -11,7 +11,7 @@ tags:
 {% assign alt = "NHTSA Traffic Safety Marketing" %}
 {% assign container_class = "center" %}
 {% assign img_class = "" %}
-{% include components/picture.njk %}
+{% include 'components/picture' %}
 
 <br>
 <br>
@@ -21,7 +21,7 @@ tags:
 {% assign alt = "" %}
 {% assign container_class = "center medium float-right" %}
 {% assign img_class = "" %}
-{% include components/picture.njk %}
+{% include 'components/picture' %}
 
 This year's *U Drive. U Text. U Pay.* high visibility enforcement (HVE) media campaign centers on aiding law enforcement officers in their efforts to keep texting and distracted drivers off the road. Distracted driving is a first offense in many States and continues to gain recognition across the nation as a deadly traffic safety epidemic.
 

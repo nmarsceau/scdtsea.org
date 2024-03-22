@@ -9,7 +9,7 @@ tags:
 {% assign alt = "SCDTSEA Leadership at ADTSEA Award Banquet" %}
 {% assign container_class = "" %}
 {% assign img_class = "" %}
-{% include components/picture.njk %}
+{% include 'components/picture' %}
 
 From Left to Right:
 

@@ -1,6 +1,6 @@
 {
   "name": "scdtsea.org",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "This is the codebase for scdtsea.org.",
   "scripts": {
     "dev": "npx eleventy --serve",
@@ -16,14 +16,14 @@
   },
   "homepage": "https://www.scdtsea.org/",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
-    "luxon": "^1.25.0",
-    "markdown-it": "^10.0.0",
-    "markdown-it-anchor": "^5.2.7"
+    "@11ty/eleventy": "^2.0.1",
+    "luxon": "^3.4.4",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^8.6.7"
   },
   "dependencies": {
-    "@11ty/eleventy-navigation": "^0.1.5",
-    "clean-css": "^4.2.1",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "clean-css": "^5.3.3",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9"
   }

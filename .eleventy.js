@@ -4,7 +4,6 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const { isMdAsciiPunct } = require("markdown-it/lib/common/utils");
 
 module.exports = eleventyConfig => {
 
